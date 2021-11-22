@@ -16,6 +16,6 @@ One of them has a blacksmith and the now-deaceased hat shop owner.
 
 - [Alphonse Steele](../Characters/PCs/Alphonse%20Steele.md)
 - [Alberic](../Characters/NPCs/Alberic.md)
-- [Demorarah](Demorarah)
+- [Demerara](../Characters/NPCs/Demerara.md)
 - [Dell Gondy](../Characters/NPCs/Dell%20Gondy.md)
 - [Maria](../Characters/NPCs/Maria.md)

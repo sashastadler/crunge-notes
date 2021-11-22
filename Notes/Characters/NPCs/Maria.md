@@ -8,4 +8,4 @@
 
 ### Details
 
-Sister of [[Demorarah]].
+Sister of [[Demerara]]. Works for [Alberic](Alberic.md) in his tavern.

@@ -7,8 +7,11 @@
         "id": "4098802388f84f32",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Notes/Characters/PCs/Eugine Brawnanvil.md",
+            "mode": "source"
+          }
         },
         "group": "195d796b89028f62"
       },
@@ -18,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Characters/NPCs/Roland Hunter.md",
+            "file": "Notes/Characters/PCs/Eugine Brawnanvil.md",
             "mode": "preview"
           }
         },
@@ -77,7 +80,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notes/Characters/PCs/Eugine Brawnanvil.md"
+              }
             }
           }
         ]
@@ -89,15 +94,15 @@
   },
   "active": "4098802388f84f32",
   "lastOpenFiles": [
-    "Notes/Characters/NPCs/Roland Hunter.md",
-    "Notes/Characters/NPCs/Theophania.md",
-    "Notes/Locations/King's Call.md",
-    "Notes/Organizations/Witch's Coven.md",
-    "Notes/Organizations/Witch Hunter's Guild.md",
-    "Notes/Adventure Log.md",
-    "Notes/Drugs.md",
+    "Notes/Characters/PCs/Eugine Brawnanvil.md",
     "Notes/Characters/PCs/Quentin Thexius.md",
+    "Notes/Characters/PCs/O.T.W.M..md",
+    "Notes/Characters/PCs/Eldrid Vannar.md",
+    "Notes/Characters/NPCs/Maria.md",
+    "Notes/Characters/NPCs/Demerara.md",
+    "Notes/Characters/PCs/Alphonse Steele.md",
     "Notes/Locations/Green Orchard.md",
-    "Notes/Locations/Feywild.md"
+    "Notes/Characters/NPCs/Roland Hunter.md",
+    "Notes/Characters/NPCs/Theophania.md"
   ]
 }
