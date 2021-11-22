@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Locations/King's Call.md",
+            "file": "Notes/Adventure Log.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Locations/King's Call.md",
+            "file": "Notes/Adventure Log.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Locations/King's Call.md"
+                "file": "Notes/Adventure Log.md"
               }
             }
           }
@@ -94,15 +94,15 @@
   },
   "active": "4098802388f84f32",
   "lastOpenFiles": [
+    "Notes/Adventure Log.md",
+    "Notes/Locations/Nova Stygium.md",
     "Notes/Locations/King's Call.md",
-    "Kairi Edelsson.md",
+    "Carter.md",
+    "Notes/Characters/NPCs/Maria.md",
     "Notes/Characters/NPCs/Marquis Viol.md",
-    "Notes/Characters/NPCs/Queen Night Mother.md",
-    "Notes/Characters/NPCs/Carrietta.md",
-    "Notes/Characters/NPCs/Borzoi.md",
-    "Notes/Characters/NPCs/Duke Delight.md",
-    "Notes/Characters/NPCs/Barenziah.md",
-    "Notes/Characters/NPCs/Blythe.md",
-    "Notes/Characters/NPCs/Alberic.md"
+    "Sextus Sergius.md",
+    "Notes/Characters/PCs/Alphonse Steele.md",
+    "Kairi Edelsson.md",
+    "Notes/Characters/NPCs/Queen Night Mother.md"
   ]
 }

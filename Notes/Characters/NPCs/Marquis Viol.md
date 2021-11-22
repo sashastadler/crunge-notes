@@ -8,3 +8,4 @@
 
 ### Details
 
+Knows/working with the [Queen Night Mother](Queen%20Night%20Mother.md).

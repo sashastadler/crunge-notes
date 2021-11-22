@@ -8,3 +8,4 @@ Originally very rich and from [Obol](../../Locations/Obol.md)
 - two younger siblings
 - mother
 - father
+- Rabbit (paternal grandmother)
