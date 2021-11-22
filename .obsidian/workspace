@@ -12,20 +12,7 @@
             "file": "Notes/Adventure Log.md",
             "mode": "source"
           }
-        },
-        "group": "91b2fb23c0e68b9d"
-      },
-      {
-        "id": "ced4401690d9b3cd",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Notes/Adventure Log.md",
-            "mode": "preview"
-          }
-        },
-        "group": "91b2fb23c0e68b9d"
+        }
       }
     ],
     "direction": "vertical"
@@ -95,14 +82,14 @@
   "active": "4098802388f84f32",
   "lastOpenFiles": [
     "Notes/Adventure Log.md",
-    "Notes/Locations/Nova Stygium.md",
-    "Notes/Locations/King's Call.md",
-    "Carter.md",
-    "Notes/Characters/NPCs/Maria.md",
-    "Notes/Characters/NPCs/Marquis Viol.md",
-    "Sextus Sergius.md",
-    "Notes/Characters/PCs/Alphonse Steele.md",
-    "Kairi Edelsson.md",
-    "Notes/Characters/NPCs/Queen Night Mother.md"
+    "Notes/Characters/NPCs/Carter.md",
+    "Notes/Characters/NPCs/Carrietta.md",
+    "Notes/Characters/NPCs/Borzoi.md",
+    "Notes/Characters/NPCs/Blythe.md",
+    "Notes/Characters/NPCs/Barenziah.md",
+    "Notes/Characters/NPCs/Alberic.md",
+    "Notes/Characters/NPCs/Duke Delight.md",
+    "Notes/Characters/NPCs/Jerry.md",
+    "Notes/Characters/NPCs/Sextus Sergius.md"
   ]
 }
