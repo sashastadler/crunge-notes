@@ -8,4 +8,4 @@
 
 ### Details
 
-Imprisoned 
+Imprisoned the Founders Keepers and [[Dell]]. Holds extravagant feasts with performances.
