@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Characters/NPCs/Jerry.md",
+            "file": "Notes/Characters/NPCs/Theophania.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Characters/NPCs/Jerry.md",
+            "file": "Notes/Characters/NPCs/Theophania.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Characters/NPCs/Jerry.md"
+                "file": "Notes/Characters/NPCs/Theophania.md"
               }
             }
           }
@@ -94,6 +94,7 @@
   },
   "active": "4098802388f84f32",
   "lastOpenFiles": [
+    "Notes/Characters/NPCs/Theophania.md",
     "Notes/Characters/NPCs/Jerry.md",
     "Notes/Characters/NPCs/Carter.md",
     "Notes/Characters/NPCs/Alberic.md",
@@ -102,7 +103,6 @@
     "Notes/Characters/NPCs/Queen Night Mother.md",
     "Notes/Characters/NPCs/Marquis Viol.md",
     "Notes/Characters/NPCs/Maria.md",
-    "Notes/Characters/NPCs/Margaret.md",
-    "Notes/Characters/NPCs/Kairi Edelsson.md"
+    "Notes/Characters/NPCs/Margaret.md"
   ]
 }
