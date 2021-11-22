@@ -2,7 +2,7 @@
 
 ### Details
 
-A village. Where the adventure began. When it was a bigger town, it ha
+A village. Where the adventure began. When it was a bigger town, it had tribut
 
 #### Tower
 
