@@ -1,6 +1,6 @@
 >## Barenziah
 
-### Location: Feywild?
+### Location: [Feywild](../../Locations/Feywild.md)?
 
 ### Do we like them: Uncertain
 
