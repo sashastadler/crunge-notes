@@ -9,10 +9,23 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Adventure Log.md",
+            "file": "Notes/Locations/King's Call.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "215b2402cdbe89cf"
+      },
+      {
+        "id": "62a1381376e1a785",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Notes/Locations/King's Call.md",
+            "mode": "preview"
+          }
+        },
+        "group": "215b2402cdbe89cf"
       }
     ],
     "direction": "vertical"
@@ -68,7 +81,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Adventure Log.md"
+                "file": "Notes/Locations/King's Call.md"
               }
             }
           }
@@ -81,15 +94,15 @@
   },
   "active": "4098802388f84f32",
   "lastOpenFiles": [
-    "Notes/Adventure Log.md",
+    "Notes/Locations/King's Call.md",
     "Notes/Characters/NPCs/Carter.md",
+    "Notes/Drugs.md",
+    "Notes/Adventure Log.md",
+    "Notes/Quests/Blythe Begone.md",
     "Notes/Characters/NPCs/Carrietta.md",
     "Notes/Characters/NPCs/Borzoi.md",
     "Notes/Characters/NPCs/Blythe.md",
     "Notes/Characters/NPCs/Barenziah.md",
-    "Notes/Characters/NPCs/Alberic.md",
-    "Notes/Characters/NPCs/Duke Delight.md",
-    "Notes/Characters/NPCs/Jerry.md",
-    "Notes/Characters/NPCs/Sextus Sergius.md"
+    "Notes/Characters/NPCs/Alberic.md"
   ]
 }

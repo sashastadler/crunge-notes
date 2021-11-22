@@ -1,4 +1,4 @@
->## Quest Name (come up with one)
+>## Blythe Begone
 
 ### Quest Giver: [Mr. Steele](../Characters/PCs/Alphonse%20Steele.md#Family)
 

@@ -10,18 +10,21 @@ The upper tier of King's Call. Rich.
 
 ##### The Duck's Back
 
-A fancy restaurant 
+A fancy restaurant in the Upper Crust. Has live entertainment. Past performers include [Quentin Thexius](../Characters/PCs/Quentin%20Thexius.md) and [Sextus Sergius](../Characters/NPCs/Sextus%20Sergius.md). 50G cover charge.
 
 #### Crumb
 
 The middle tier of King's Call. 
+
+##### The Witches Guild
+
+Headquarters of The Witches Guild. A place to stay.
 
 #### Burnt End
 
 The lowest tier of King's Call. Shady. High crime. Has The Shitter's Gate.
 
 ### Notable people
-- a
+- [Carter](../Characters/NPCs/Carter.md)
 - b
 - c
-
