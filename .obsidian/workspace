@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Adventure Log.md",
+            "file": "Notes/Characters/NPCs/Duke Delight.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Adventure Log.md",
+            "file": "Notes/Characters/NPCs/Duke Delight.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Adventure Log.md"
+                "file": "Notes/Characters/NPCs/Duke Delight.md"
               }
             }
           }
@@ -89,19 +89,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "4098802388f84f32",
   "lastOpenFiles": [
-    "Notes/Adventure Log.md",
-    "Notes/Quests/unnamed quest.md",
-    "Templates/quest template.md",
-    "Templates/location template.md",
-    "Templates/pc template.md",
+    "Notes/Characters/NPCs/Duke Delight.md",
+    "Notes/Locations/Feywild.md",
+    "Notes/Characters/NPCs/Barenziah.md",
     "Notes/Characters/NPCs/Blythe.md",
     "Notes/Characters/NPCs/Jerry.md",
-    "Notes/Characters/NPCs/Barenziah.md",
-    "Templates/npc template.md",
-    "Notes/Characters/PCs/Alphonse Steele.md"
+    "Notes/Locations/Green Orchard.md",
+    "Notes/Locations/King's Call.md",
+    "Notes/Adventure Log.md",
+    "Notes/Drugs.md",
+    "Notes/Quests/unnamed quest.md"
   ]
 }

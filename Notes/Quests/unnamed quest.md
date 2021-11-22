@@ -1,6 +1,6 @@
 >## Quest Name (come up with one)
 
-### Quest Giver: [Mr. Steele](../Characters/PCs/Alphonse%20Steele.md)
+### Quest Giver: [Mr. Steele](../Characters/PCs/Alphonse%20Steele.md#Family)
 
 #### Pay: none promised
 

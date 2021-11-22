@@ -7,3 +7,4 @@
 ***
 
 ### Details
+Our beloved draft horse. Dead.
