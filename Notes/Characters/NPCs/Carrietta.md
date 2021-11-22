@@ -7,4 +7,4 @@
 ***
 
 ### Details
-A baby. Was kidnapped by [Margaret](Margaret.md).
+A baby. Was kidnapped by [Margaret](Margaret.md). Found her in a pit of acid. Was returned to 

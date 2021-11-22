@@ -1,11 +1,12 @@
 >## Alphonse Steele
 
 #### Backstory information
-Originally very rich and from [Obol](../../Locations/Obol.md)
+Originally very rich and from [Obol](../../Locations/Obol.md), but no longer so. Family has a farm in [Green Orchard](../../Locations/Green%20Orchard.md). Has mentioned having private tutors. 
 
 #### Family
 
-- two younger siblings
-- mother
-- father
+- Fredrick (younger brother)
+- Ellie (younger sister)
+- Mother
+- Father
 - Rabbit (paternal grandmother)

@@ -5,7 +5,5 @@
 
 
 ### Notable people
-- a
-- b
-- c
+- ?
 
