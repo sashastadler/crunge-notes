@@ -3,5 +3,6 @@
   "foldIndent": false,
   "useTab": false,
   "newLinkFormat": "relative",
-  "useMarkdownLinks": true
+  "useMarkdownLinks": true,
+  "alwaysUpdateLinks": true
 }

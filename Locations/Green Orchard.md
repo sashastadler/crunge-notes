@@ -2,12 +2,13 @@
 
 #### Details
 
-aaa
+
 
 ##### Tower
+Abandoned? tower ou
 
 #### Notable people
-- [[Alphonse Steele]]
+- [Alphonse Steele](../Characters/PCs/Alphonse%20Steele.md)
 - 
 - 
 
