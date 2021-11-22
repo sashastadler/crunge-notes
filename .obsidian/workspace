@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Organizations/Witch's Coven.md",
+            "file": "Nannie Ogg.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Organizations/Witch's Coven.md"
+                "file": "Nannie Ogg.md"
               }
             }
           }
@@ -81,15 +81,15 @@
   },
   "active": "4098802388f84f32",
   "lastOpenFiles": [
+    "Nannie Ogg.md",
     "Notes/Organizations/Witch's Coven.md",
+    "Notes/Organizations/Witch Hunter's Guild.md",
+    "Notes/Locations/King's Call.md",
+    "Notes/Locations/Yonkers.md",
     "Notes/Locations/Feywild.md",
     "Notes/Locations/Green Orchard.md",
-    "Notes/Locations/King's Call.md",
     "Notes/Locations/Nova Stygium.md",
     "Notes/Locations/Obol.md",
-    "Notes/Locations/Yonkers.md",
-    "Notes/Characters/NPCs/Demerara.md",
-    "Notes/Characters/NPCs/Duke Delight.md",
-    "Notes/Characters/NPCs/Jerry.md"
+    "Notes/Characters/NPCs/Demerara.md"
   ]
 }
