@@ -18,7 +18,7 @@ The middle tier of King's Call.
 
 ##### The Witch's Coven
 
-Headquarters of The Witch's Coven. A place to stay.
+Headquarters of The [Witch's Coven](../Organizations/Witch's%20Coven.md). Has place to stay and food to eat, but they don't like non-witches staying there.
 
 #### Burnt End
 
