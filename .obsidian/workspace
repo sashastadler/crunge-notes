@@ -4,30 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "4b7f1f7674bc4a0f",
-        "type": "leaf",
-        "dimension": 50.4,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Characters/NPCs/Jerry.md",
-            "mode": "source"
-          }
-        },
-        "group": "d5d8b7cb63b43e53"
-      },
-      {
         "id": "30f6a759304e80ed",
         "type": "leaf",
-        "dimension": 49.6,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Characters/NPCs/Jerry.md",
-            "mode": "preview"
-          }
-        },
-        "group": "d5d8b7cb63b43e53"
+          "type": "graph",
+          "state": {}
+        }
       }
     ],
     "direction": "vertical"
@@ -82,9 +64,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Characters/NPCs/Jerry.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -93,7 +73,7 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "4b7f1f7674bc4a0f",
+  "active": "30f6a759304e80ed",
   "lastOpenFiles": [
     "Characters/NPCs/Jerry.md",
     "Characters/NPCs/Blythe.md",
@@ -103,7 +83,7 @@
     "Characters/PCs/Eugine Brawnanvil.md",
     "Characters/PCs/O.T.W.M..md",
     "Characters/PCs/Quentin Thexius.md",
-    "Info/Log.md",
-    "Quests/unnamed quest.md"
+    "Other Info/Log.md",
+    "Other Info/Quests/unnamed quest.md"
   ]
 }
