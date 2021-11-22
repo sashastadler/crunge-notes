@@ -5,6 +5,7 @@
 Obol.
 
 #### Notable people
+
 - a
 - b
 - c
