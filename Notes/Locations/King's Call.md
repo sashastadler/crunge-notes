@@ -14,7 +14,7 @@ The middle tier of King's Call.
 
 #### Burnt End
 
-The lowest tier of King's Call. Shady. High crime.
+The lowest tier of King's Call. Shady. High crime. Has The Shitter's Gate.
 
 ### Notable people
 - a
