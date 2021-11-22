@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Log.md",
+            "file": "Info/Log.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Log.md",
+            "file": "Info/Log.md",
             "mode": "preview"
           }
         },
@@ -77,7 +77,7 @@
   },
   "active": "292a4689f92e4258",
   "lastOpenFiles": [
-    "Log.md",
+    "Info/Log.md",
     "Locations/Green Orchard.md",
     "Characters/PCs/Cusdakesh Greyskull.md",
     "Characters/PCs/Alphonse Steele.md",
@@ -85,7 +85,7 @@
     "Characters/NPCs/Blythe.md",
     "Characters/PCs/O.T.W.M..md",
     "Characters/PCs/Eldrid Vannar.md",
-    "Other Info/Drugs.md",
+    "Info/Drugs.md",
     "Templates/npc template.md"
   ]
 }

@@ -4,4 +4,4 @@ Robber's name is [[Blythe]].
 Talked to the lawmaster for information. Decided to go to [[Green Orchard#Tower|tower]] outside of Green Orchard.
 Got lost a bit on the way. 
 During the night, [[Jerry]] was acting weird and a mysterious person attacked [[Cusdakesh Greyskull|Cusdakesh]] and disappeared. [[Jerry]] ran off into the woods.
-In the morning, continued to the tower, where we found Jerry.
+In the morning, continued to the tower, where we found undead Jerry.
