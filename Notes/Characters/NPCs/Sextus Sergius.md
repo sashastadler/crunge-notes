@@ -8,4 +8,4 @@
 
 ### Details
 
-Performer. Former bandmate of [Quentin Thexius](Notes/Characters/PCs/Quentin%20Thexius.md). Played at [King's Call](../../Locations/King's%20Call.md#Th)
+Performer. Former bandmate of [Quentin Thexius](Notes/Characters/PCs/Quentin%20Thexius.md). Played at [King's Call](../../Locations/King's%20Call.md#The)
