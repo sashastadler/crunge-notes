@@ -7,6 +7,6 @@ Originally very rich and from [Obol](../../Locations/Obol.md), but no longer so.
 
 - Fredrick (younger brother)
 - Ellie (younger sister)
-- Mother
-- Father
+- Lillith (mother)
+- Aildinim (father)
 - Rabbit (paternal grandmother)

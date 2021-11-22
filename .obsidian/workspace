@@ -9,23 +9,10 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Characters/NPCs/Theophania.md",
+            "file": "Notes/Organizations/Witch's Coven.md",
             "mode": "source"
           }
-        },
-        "group": "2d0fb282fae48dab"
-      },
-      {
-        "id": "ed238274fd3b6569",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Notes/Characters/NPCs/Theophania.md",
-            "mode": "preview"
-          }
-        },
-        "group": "2d0fb282fae48dab"
+        }
       }
     ],
     "direction": "vertical"
@@ -81,7 +68,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Characters/NPCs/Theophania.md"
+                "file": "Notes/Organizations/Witch's Coven.md"
               }
             }
           }
@@ -94,15 +81,15 @@
   },
   "active": "4098802388f84f32",
   "lastOpenFiles": [
-    "Notes/Characters/NPCs/Theophania.md",
-    "Notes/Characters/NPCs/Jerry.md",
-    "Notes/Characters/NPCs/Carter.md",
-    "Notes/Characters/NPCs/Alberic.md",
-    "Notes/Characters/NPCs/Roland Hunter.md",
-    "Notes/Characters/NPCs/Quinn Feldspar.md",
-    "Notes/Characters/NPCs/Queen Night Mother.md",
-    "Notes/Characters/NPCs/Marquis Viol.md",
-    "Notes/Characters/NPCs/Maria.md",
-    "Notes/Characters/NPCs/Margaret.md"
+    "Notes/Organizations/Witch's Coven.md",
+    "Notes/Locations/Feywild.md",
+    "Notes/Locations/Green Orchard.md",
+    "Notes/Locations/King's Call.md",
+    "Notes/Locations/Nova Stygium.md",
+    "Notes/Locations/Obol.md",
+    "Notes/Locations/Yonkers.md",
+    "Notes/Characters/NPCs/Demerara.md",
+    "Notes/Characters/NPCs/Duke Delight.md",
+    "Notes/Characters/NPCs/Jerry.md"
   ]
 }
