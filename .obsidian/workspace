@@ -7,11 +7,8 @@
         "id": "292a4689f92e4258",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Locations/Green Orchard.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         },
         "group": "dfa8da7ce2361381"
       },
@@ -21,7 +18,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Locations/Green Orchard.md",
+            "file": "Quests/unnamed quest.md",
             "mode": "preview"
           }
         },
@@ -77,15 +74,15 @@
   },
   "active": "292a4689f92e4258",
   "lastOpenFiles": [
-    "Locations/Green Orchard.md",
-    "Characters/PCs/Alphonse Steele.md",
-    "Info/Drugs.md",
+    "Quests/unnamed quest.md",
     "Info/Log.md",
-    "Characters/NPCs/Jerry.md",
+    "Characters/PCs/Alphonse Steele.md",
     "Characters/PCs/Cusdakesh Greyskull.md",
-    "Locations/Obol.md",
     "Characters/NPCs/Blythe.md",
-    "Characters/PCs/O.T.W.M..md",
-    "Characters/PCs/Eldrid Vannar.md"
+    "Locations/Obol.md",
+    "Locations/Green Orchard.md",
+    "Info/Drugs.md",
+    "Characters/NPCs/Jerry.md",
+    "Characters/PCs/O.T.W.M..md"
   ]
 }

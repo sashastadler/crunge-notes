@@ -1,6 +1,6 @@
 >## Blythe
 
-### Location: 
+### Location: Unknown
 
 ##### Do we like them: No
 
