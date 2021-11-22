@@ -1,0 +1,91 @@
+{
+  "main": {
+    "id": "ba89aee1ed56d448",
+    "type": "split",
+    "children": [
+      {
+        "id": "292a4689f92e4258",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Log.md",
+            "mode": "source"
+          }
+        },
+        "group": "dfa8da7ce2361381"
+      },
+      {
+        "id": "511dd2fb499e90cb",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Log.md",
+            "mode": "preview"
+          }
+        },
+        "group": "dfa8da7ce2361381"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b207bf3bdb580ad5",
+    "type": "split",
+    "children": [
+      {
+        "id": "047e2f783801de0f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d9e14fd576e9a1c9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "816933e1fbd053ef",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "be4118804d43a740",
+    "type": "split",
+    "children": [],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "292a4689f92e4258",
+  "lastOpenFiles": [
+    "Log.md",
+    "Characters/PCs/Cusdakesh Greyskull.md",
+    "Characters/PCs/Alphonse Steele.md",
+    "Locations/Green Orchard.md",
+    "Locations/Obol.md",
+    "Characters/NPCs/Blythe.md",
+    "Characters/PCs/O.T.W.M..md",
+    "Characters/PCs/Eldrid Vannar.md",
+    "Other Info/Drugs.md",
+    "Templates/npc template.md"
+  ]
+}
