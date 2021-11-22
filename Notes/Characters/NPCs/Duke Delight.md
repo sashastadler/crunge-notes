@@ -8,4 +8,4 @@
 
 ### Details
 
-Imprisoned the Founders Keepers and [[Dell]]. Holds extravagant feasts with performances.
+Imprisoned the Founders Keepers and [Dell Gondy](Dell%20Gondy.md). Holds extravagant feasts with performances.

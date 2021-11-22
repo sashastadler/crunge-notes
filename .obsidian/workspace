@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Locations/Green Orchard.md",
+            "file": "Notes/Characters/NPCs/Sextus Sergius.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Locations/Green Orchard.md",
+            "file": "Notes/Characters/NPCs/Sextus Sergius.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Locations/Green Orchard.md"
+                "file": "Notes/Characters/NPCs/Sextus Sergius.md"
               }
             }
           }
@@ -94,15 +94,15 @@
   },
   "active": "4098802388f84f32",
   "lastOpenFiles": [
+    "Notes/Characters/NPCs/Sextus Sergius.md",
+    "Notes/Characters/NPCs/Quinn Feldspar.md",
     "Notes/Locations/Green Orchard.md",
-    "Quinn Feldspar.md",
+    "Notes/Characters/NPCs/Duke Delight.md",
+    "Notes/Locations/King's Call.md",
+    "Notes/Characters/PCs/Alphonse Steele.md",
     "Notes/Characters/NPCs/Dell Gondy.md",
     "Notes/Characters/NPCs/Maria.md",
-    "Notes/Characters/NPCs/Duke Delight.md",
     "Notes/Characters/NPCs/Jerry.md",
-    "Notes/Characters/NPCs/Kairi Edelsson.md",
-    "Notes/Characters/NPCs/Sextus Sergius.md",
-    "Notes/Characters/NPCs/Queen Night Mother.md",
-    "Notes/Characters/NPCs/Marquis Viol.md"
+    "Notes/Characters/NPCs/Kairi Edelsson.md"
   ]
 }

@@ -2,7 +2,7 @@
 
 ### Details
 
-A village. Where the adventure began. When it was a bigger town, it had tribut
+A village. Where the adventure began. When it was a bigger town, it had tributary villages. It has now gone to shit, but the surrounding villages are still counted as Green Orchard.
 
 #### Tower
 
@@ -10,9 +10,12 @@ Abandoned? tower around a day's journey from the town.
 
 #### Outlying Villages
 
+One of them has a blacksmith and the now-deaceased hat shop owner. 
+
 ### Notable people
 
 - [Alphonse Steele](../Characters/PCs/Alphonse%20Steele.md)
 - [Alberic](../Characters/NPCs/Alberic.md)
-- 
-
+- [Demorarah](Demorarah)
+- [Dell Gondy](../Characters/NPCs/Dell%20Gondy.md)
+- [Maria](../Characters/NPCs/Maria.md)

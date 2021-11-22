@@ -26,5 +26,4 @@ The lowest tier of King's Call. Shady. High crime. Has The Shitter's Gate.
 
 ### Notable people
 - [Carter](../Characters/NPCs/Carter.md)
-- b
-- c
+- [Theophania](Theophania)
