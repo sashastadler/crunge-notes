@@ -1,14 +1,14 @@
 {
-  "collapse-filter": true,
-  "search": "",
+  "collapse-filter": false,
+  "search": "path:Notes",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
-  "showOrphans": true,
+  "showOrphans": false,
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:Characters",
+      "query": "path:Notes/Characters/PCs",
       "color": {
         "a": 1,
         "rgb": 14701138
@@ -27,6 +27,20 @@
         "a": 1,
         "rgb": 2105376
       }
+    },
+    {
+      "query": "file:Jerry",
+      "color": {
+        "a": 1,
+        "rgb": 5910806
+      }
+    },
+    {
+      "query": "file:ADventure Log",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
     }
   ],
   "collapse-display": true,
@@ -40,5 +54,5 @@
   "linkStrength": 1,
   "linkDistance": 250,
   "scale": 0.7132754626224432,
-  "close": true
+  "close": false
 }
