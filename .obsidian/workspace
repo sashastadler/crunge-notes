@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Locations/King's Call.md",
+            "file": "Notes/Organizations/Witch's Coven.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Locations/King's Call.md",
+            "file": "Notes/Organizations/Witch's Coven.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Locations/King's Call.md"
+                "file": "Notes/Organizations/Witch's Coven.md"
               }
             }
           }
@@ -94,15 +94,15 @@
   },
   "active": "4098802388f84f32",
   "lastOpenFiles": [
+    "Notes/Organizations/Witch's Coven.md",
     "Notes/Locations/King's Call.md",
+    "Notes/Characters/NPCs/Dell Gondy.md",
+    "Notes/Characters/NPCs/Maria.md",
+    "Notes/Characters/NPCs/Marquis Viol.md",
+    "Notes/Characters/NPCs/Queen Night Mother.md",
+    "Notes/Characters/NPCs/Sextus Sergius.md",
     "Notes/Characters/NPCs/Carter.md",
     "Notes/Drugs.md",
-    "Notes/Adventure Log.md",
-    "Notes/Quests/Blythe Begone.md",
-    "Notes/Characters/NPCs/Carrietta.md",
-    "Notes/Characters/NPCs/Borzoi.md",
-    "Notes/Characters/NPCs/Blythe.md",
-    "Notes/Characters/NPCs/Barenziah.md",
-    "Notes/Characters/NPCs/Alberic.md"
+    "Notes/Adventure Log.md"
   ]
 }

@@ -1,6 +1,6 @@
 >## Sextus "Sex" "Seth" Sergius
 
-### Location: Unknown (Last seen in [King's Call](Notes/Locations/King's%20Call.md)])
+### Location: Unknown (Last seen in [King's Call](Notes/Locations/King's%20Call.md))
 
 ### Do we like them: Yes
 

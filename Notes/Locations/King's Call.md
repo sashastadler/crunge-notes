@@ -16,9 +16,9 @@ A fancy restaurant in the Upper Crust. Has live entertainment. Past performers i
 
 The middle tier of King's Call. 
 
-##### The Witches Guild
+##### The Witch's Coven
 
-Headquarters of The Witches Guild. A place to stay.
+Headquarters of The Witch's Coven. A place to stay.
 
 #### Burnt End
 
