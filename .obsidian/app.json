@@ -1,3 +1,6 @@
 {
-  "attachmentFolderPath": "Quests"
+  "attachmentFolderPath": "Info",
+  "foldIndent": false,
+  "useTab": false,
+  "newLinkFormat": "relative"
 }
