@@ -1,5 +1,5 @@
 ## Nov 21, 2021 - Session 23
-[Alphonse](../Characters/PCs/Alphonse%20Steele.md) visits family in [Green Orchard](../Locations/Green%20Orchard.md), decides to help father by finding the robber/blackmailer with the help of the rest of the crew. 
+[Alphonse](../Characters/PCs/Alphonse%20Steele.md) visits family in [Green Orchard](../Locations/Green%20Orchard.md), decides to help father by  [ finding the robber/blackmailer](../Quests/unnamed%20quest.md) with the help of the rest of the crew.
 Robber's name is [Blythe](../Characters/NPCs/Blythe.md)
 Talked to the lawmaster for information. Decided to go to [tower](../Locations/Green%20Orchard.md#Tower) outside of Green Orchard.
 Got lost a bit on the way. 
