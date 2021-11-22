@@ -6,10 +6,11 @@
       {
         "id": "4b7f1f7674bc4a0f",
         "type": "leaf",
+        "dimension": 50.4,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Quests/unnamed quest.md",
+            "file": "Characters/NPCs/Jerry.md",
             "mode": "source"
           }
         },
@@ -18,10 +19,11 @@
       {
         "id": "30f6a759304e80ed",
         "type": "leaf",
+        "dimension": 49.6,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Quests/unnamed quest.md",
+            "file": "Characters/NPCs/Jerry.md",
             "mode": "preview"
           }
         },
@@ -70,22 +72,38 @@
   "right": {
     "id": "be4118804d43a740",
     "type": "split",
-    "children": [],
+    "children": [
+      {
+        "id": "f4f0c1c2006f157c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "21f28ebe3ca20da7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Characters/NPCs/Jerry.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "30f6a759304e80ed",
+  "active": "4b7f1f7674bc4a0f",
   "lastOpenFiles": [
-    "Quests/unnamed quest.md",
-    "Info/Log.md",
+    "Characters/NPCs/Jerry.md",
+    "Characters/NPCs/Blythe.md",
     "Characters/PCs/Alphonse Steele.md",
     "Characters/PCs/Cusdakesh Greyskull.md",
     "Characters/PCs/Eldrid Vannar.md",
     "Characters/PCs/Eugine Brawnanvil.md",
     "Characters/PCs/O.T.W.M..md",
     "Characters/PCs/Quentin Thexius.md",
-    "Locations/Obol.md",
-    "Characters/NPCs/Blythe.md"
+    "Info/Log.md",
+    "Quests/unnamed quest.md"
   ]
 }

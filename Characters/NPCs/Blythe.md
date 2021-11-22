@@ -8,4 +8,4 @@
 
 #### Details
 
-Robber taking money from [[Alphonse Steele|Alphonse]]'s family. Was banished(?) from [[Green Orchard]] a few years ago for "troublemaking".
+Robber taking money from [Alphonse's](../PCs/Alphonse%20Steele.md)'s family. Was banished(?) from [Green Orchard](../../Locations/Green%20Orchard.md) a few years ago for "troublemaking". 

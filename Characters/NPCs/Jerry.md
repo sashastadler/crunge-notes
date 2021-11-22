@@ -1,9 +1,9 @@
->## Jerry (Horse)
+>## Jerry 🐴
 
-### Location:
+### Location: Heaven 🙏
 
-##### Do we like them: Yes <3
+### Do we like them: Yes ❤️
 
 ***
 
-#### Details
+### Details

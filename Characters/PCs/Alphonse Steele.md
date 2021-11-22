@@ -1,7 +1,7 @@
 >## Alphonse Steele
 
 #### Backstory information
-Originally very rich and from [Obol](../../Locations/Obol.md).
+Originally very rich and from [Obol](../../Locations/Obol.md)
 
 #### Family
 
