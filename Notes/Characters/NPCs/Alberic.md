@@ -8,4 +8,4 @@
 
 ### Details
 
-Tavern owner. [Quentin](Notes/Characters/PCs/Quentin%20Thexius.md) (apprentice) and [Maria](Maria.md)'s employer.
+Tavern owner. [Quentin](../PCs/Quentin%20Thexius.md) (apprentice) and [Maria](Maria.md)'s employer.

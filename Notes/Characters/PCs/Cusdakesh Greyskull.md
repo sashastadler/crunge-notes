@@ -1,4 +1,4 @@
 >## Cusdakesh Greyskull
 
-#### Backstory information
-Pirate
+#### Information
+Pirate. Captain of the Rockrose.

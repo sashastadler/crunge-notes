@@ -9,23 +9,23 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Characters/PCs/Eldrid Vannar.md",
+            "file": "Notes/Characters/NPCs/Jerry.md",
             "mode": "source"
           }
         },
-        "group": "195d796b89028f62"
+        "group": "2d0fb282fae48dab"
       },
       {
-        "id": "73946da03674ff32",
+        "id": "ed238274fd3b6569",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Characters/PCs/Eldrid Vannar.md",
+            "file": "Notes/Characters/NPCs/Jerry.md",
             "mode": "preview"
           }
         },
-        "group": "195d796b89028f62"
+        "group": "2d0fb282fae48dab"
       }
     ],
     "direction": "vertical"
@@ -81,7 +81,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Characters/PCs/Eldrid Vannar.md"
+                "file": "Notes/Characters/NPCs/Jerry.md"
               }
             }
           }
@@ -94,15 +94,15 @@
   },
   "active": "4098802388f84f32",
   "lastOpenFiles": [
-    "Notes/Characters/PCs/Eldrid Vannar.md",
-    "Notes/Characters/PCs/Eugine Brawnanvil.md",
-    "Notes/Characters/PCs/Quentin Thexius.md",
-    "Notes/Characters/PCs/O.T.W.M..md",
-    "Notes/Characters/NPCs/Maria.md",
-    "Notes/Characters/NPCs/Demerara.md",
-    "Notes/Characters/PCs/Alphonse Steele.md",
-    "Notes/Locations/Green Orchard.md",
+    "Notes/Characters/NPCs/Jerry.md",
+    "Notes/Characters/NPCs/Carter.md",
+    "Notes/Characters/NPCs/Alberic.md",
     "Notes/Characters/NPCs/Roland Hunter.md",
-    "Notes/Characters/NPCs/Theophania.md"
+    "Notes/Characters/NPCs/Quinn Feldspar.md",
+    "Notes/Characters/NPCs/Queen Night Mother.md",
+    "Notes/Characters/NPCs/Marquis Viol.md",
+    "Notes/Characters/NPCs/Maria.md",
+    "Notes/Characters/NPCs/Margaret.md",
+    "Notes/Characters/NPCs/Kairi Edelsson.md"
   ]
 }

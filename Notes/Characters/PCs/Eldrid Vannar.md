@@ -1,5 +1,5 @@
 >## Eldrid Vannar
 
-#### Backstory information
+#### Information
 
-Lived in [Green Orchard](../../Locations/Green%20Orchard.md). 
+Lived in [Green Orchard](../../Locations/Green%20Orchard.md) with friends(?). Used to disguise herself to go to the tavern. 

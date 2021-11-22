@@ -1,5 +1,5 @@
 >## Eugine Brawnanvil
 
-#### Backstory information
+#### Information
 
 Does not drink water. Map enthusiast.
