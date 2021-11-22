@@ -7,11 +7,8 @@
         "id": "4098802388f84f32",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Notes/Characters/NPCs/Sextus Sergius.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         },
         "group": "195d796b89028f62"
       },
@@ -21,7 +18,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Characters/NPCs/Sextus Sergius.md",
+            "file": "Notes/Characters/NPCs/Roland Hunter.md",
             "mode": "preview"
           }
         },
@@ -80,9 +77,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notes/Characters/NPCs/Sextus Sergius.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -94,15 +89,15 @@
   },
   "active": "4098802388f84f32",
   "lastOpenFiles": [
-    "Notes/Characters/NPCs/Sextus Sergius.md",
-    "Notes/Characters/NPCs/Quinn Feldspar.md",
-    "Notes/Locations/Green Orchard.md",
-    "Notes/Characters/NPCs/Duke Delight.md",
+    "Notes/Characters/NPCs/Roland Hunter.md",
+    "Notes/Characters/NPCs/Theophania.md",
     "Notes/Locations/King's Call.md",
-    "Notes/Characters/PCs/Alphonse Steele.md",
-    "Notes/Characters/NPCs/Dell Gondy.md",
-    "Notes/Characters/NPCs/Maria.md",
-    "Notes/Characters/NPCs/Jerry.md",
-    "Notes/Characters/NPCs/Kairi Edelsson.md"
+    "Notes/Organizations/Witch's Coven.md",
+    "Notes/Organizations/Witch Hunter's Guild.md",
+    "Notes/Adventure Log.md",
+    "Notes/Drugs.md",
+    "Notes/Characters/PCs/Quentin Thexius.md",
+    "Notes/Locations/Green Orchard.md",
+    "Notes/Locations/Feywild.md"
   ]
 }

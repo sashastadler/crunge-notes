@@ -14,5 +14,5 @@ Help people whenever you see them in need. If someone has too much, help them ha
 
 ##### Members
 
-- [[Theophania]]
+- [[../Characters/NPCs/Theophania]]
 - 
