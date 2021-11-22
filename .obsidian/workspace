@@ -9,23 +9,23 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Characters/NPCs/Carrietta.md",
+            "file": "Notes/Locations/Green Orchard.md",
             "mode": "source"
           }
         },
-        "group": "fb0db898f4650f78"
+        "group": "195d796b89028f62"
       },
       {
-        "id": "f6410016c357010a",
+        "id": "73946da03674ff32",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Characters/NPCs/Carrietta.md",
+            "file": "Notes/Locations/Green Orchard.md",
             "mode": "preview"
           }
         },
-        "group": "fb0db898f4650f78"
+        "group": "195d796b89028f62"
       }
     ],
     "direction": "vertical"
@@ -81,7 +81,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Characters/NPCs/Carrietta.md"
+                "file": "Notes/Locations/Green Orchard.md"
               }
             }
           }
@@ -94,15 +94,15 @@
   },
   "active": "4098802388f84f32",
   "lastOpenFiles": [
-    "Notes/Characters/NPCs/Carrietta.md",
-    "Notes/Characters/NPCs/Borzoi.md",
-    "Notes/Adventure Log.md",
-    "Notes/Characters/NPCs/Blythe.md",
-    "Notes/Characters/NPCs/Barenziah.md",
-    "Notes/Characters/NPCs/Alberic.md",
+    "Notes/Locations/Green Orchard.md",
+    "Quinn Feldspar.md",
+    "Notes/Characters/NPCs/Dell Gondy.md",
+    "Notes/Characters/NPCs/Maria.md",
     "Notes/Characters/NPCs/Duke Delight.md",
-    "Notes/Locations/Feywild.md",
-    "Notes/Locations/Obol.md",
-    "Notes/Characters/PCs/Alphonse Steele.md"
+    "Notes/Characters/NPCs/Jerry.md",
+    "Notes/Characters/NPCs/Kairi Edelsson.md",
+    "Notes/Characters/NPCs/Sextus Sergius.md",
+    "Notes/Characters/NPCs/Queen Night Mother.md",
+    "Notes/Characters/NPCs/Marquis Viol.md"
   ]
 }
