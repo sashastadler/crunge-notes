@@ -7,21 +7,18 @@
         "id": "4098802388f84f32",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Notes/Locations/Yonkers.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         },
         "group": "91b2fb23c0e68b9d"
       },
       {
-        "id": "35a83e8cdd6ae9a0",
+        "id": "ced4401690d9b3cd",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Locations/Yonkers.md",
+            "file": "Margaret.md",
             "mode": "preview"
           }
         },
@@ -80,9 +77,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notes/Locations/Yonkers.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -94,6 +89,7 @@
   },
   "active": "4098802388f84f32",
   "lastOpenFiles": [
+    "Margaret.md",
     "Notes/Locations/Yonkers.md",
     "Notes/Characters/NPCs/Carrietta.md",
     "Notes/Characters/NPCs/Blythe.md",
@@ -102,7 +98,6 @@
     "Notes/Characters/NPCs/Duke Delight.md",
     "Notes/Locations/Feywild.md",
     "Notes/Locations/Green Orchard.md",
-    "Notes/Locations/King's Call.md",
-    "Notes/Adventure Log.md"
+    "Notes/Locations/King's Call.md"
   ]
 }
