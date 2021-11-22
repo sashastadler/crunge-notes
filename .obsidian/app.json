@@ -2,5 +2,6 @@
   "attachmentFolderPath": "Info",
   "foldIndent": false,
   "useTab": false,
-  "newLinkFormat": "relative"
+  "newLinkFormat": "relative",
+  "useMarkdownLinks": true
 }
