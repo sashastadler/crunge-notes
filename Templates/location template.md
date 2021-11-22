@@ -1,10 +1,10 @@
 >### Name
 
-#### Details
+### Details
 
 aaa
 
-#### Notable people
+### Notable people
 - a
 - b
 - c

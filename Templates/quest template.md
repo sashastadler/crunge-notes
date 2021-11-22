@@ -1,9 +1,9 @@
 >## Quest Name
 
-#### Quest Giver: 
+### Quest Giver: 
 
-##### Pay: 
+#### Pay: 
 
 ***
 
-#### Revelant Information
+### Revelant Information

@@ -4,12 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "30f6a759304e80ed",
+        "id": "4098802388f84f32",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
-        }
+          "type": "markdown",
+          "state": {
+            "file": "Notes/Adventure Log.md",
+            "mode": "source"
+          }
+        },
+        "group": "91b2fb23c0e68b9d"
+      },
+      {
+        "id": "35a83e8cdd6ae9a0",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Notes/Adventure Log.md",
+            "mode": "preview"
+          }
+        },
+        "group": "91b2fb23c0e68b9d"
       }
     ],
     "direction": "vertical"
@@ -64,7 +80,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notes/Adventure Log.md"
+              }
             }
           }
         ]
@@ -73,17 +91,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "30f6a759304e80ed",
+  "active": "4098802388f84f32",
   "lastOpenFiles": [
     "Notes/Adventure Log.md",
-    "Notes/Characters/NPCs/Jerry.md",
+    "Notes/Quests/unnamed quest.md",
+    "Templates/quest template.md",
+    "Templates/location template.md",
+    "Templates/pc template.md",
     "Notes/Characters/NPCs/Blythe.md",
-    "Notes/Characters/PCs/Alphonse Steele.md",
-    "Notes/Characters/PCs/Cusdakesh Greyskull.md",
-    "Notes/Characters/PCs/Eldrid Vannar.md",
-    "Notes/Characters/PCs/Eugine Brawnanvil.md",
-    "Notes/Characters/PCs/O.T.W.M..md",
-    "Notes/Characters/PCs/Quentin Thexius.md",
-    "Notes/Quests/unnamed quest.md"
+    "Notes/Characters/NPCs/Jerry.md",
+    "Notes/Characters/NPCs/Barenziah.md",
+    "Templates/npc template.md",
+    "Notes/Characters/PCs/Alphonse Steele.md"
   ]
 }

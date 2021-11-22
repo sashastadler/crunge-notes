@@ -36,10 +36,17 @@
       }
     },
     {
-      "query": "file:ADventure Log",
+      "query": "file:Adventure Log",
       "color": {
         "a": 1,
         "rgb": 16777215
+      }
+    },
+    {
+      "query": "path:Notes/Quests",
+      "color": {
+        "a": 1,
+        "rgb": 15728542
       }
     }
   ],
@@ -53,6 +60,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.7132754626224432,
-  "close": false
+  "scale": 0.7132754626224438,
+  "close": true
 }

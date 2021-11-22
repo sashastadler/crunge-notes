@@ -1,10 +1,10 @@
 >## Quest Name (come up with one)
 
-#### Quest Giver: Mr. Steele
+### Quest Giver: [Mr. Steele](../Characters/PCs/Alphonse%20Steele.md)
 
-##### Pay: none promised
+#### Pay: none promised
 
 ***
 
-#### Revelant Information
+### Revelant Information
 [Alphonse's father](../Characters/PCs/Alphonse%20Steele.md#Family) has been being robbed/blackmailed by [Blythe](../Characters/NPCs/Blythe.md), so we must find (and possibly) kill him  and hopefully get the money back.
