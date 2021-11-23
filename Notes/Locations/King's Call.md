@@ -2,7 +2,9 @@
 
 ### Details
 
-Big city.
+Big city split into 3 tiers.
+
+***
 
 #### Upper Crust
 
@@ -11,6 +13,12 @@ The upper tier of King's Call. Rich.
 ##### The Duck's Back
 
 A fancy restaurant in the Upper Crust. Has live entertainment. Past performers include [Quentin Thexius](../Characters/PCs/Quentin%20Thexius.md) and [Sextus Sergius](../Characters/NPCs/Sextus%20Sergius.md). 50G cover charge.
+
+##### The Witch Hunter's Guild
+
+Headquarters of The [Witch Hunter's Guild](../Organizations/Witch%20Hunter's%20Guild.md)
+
+***
 
 #### Crumb
 
@@ -23,6 +31,8 @@ Headquarters of The [Witch's Coven](../Organizations/Witch's%20Coven.md). Has pl
 ##### Shropshire Smithy
 
 Smithy. Silvered [Cusdakesh](../Characters/PCs/Cusdakesh%20Greyskull.md)'s greataxe and made several other weapons for the Founders Keepers.
+
+***
 
 #### Burnt End
 
