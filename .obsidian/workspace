@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Characters/PCs/Alphonse Steele.md",
+            "file": "Notes/Quests/Blythe Begone.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Characters/PCs/Alphonse Steele.md"
+                "file": "Notes/Quests/Blythe Begone.md"
               }
             }
           }
@@ -81,8 +81,8 @@
   },
   "active": "a8c6ba7bce382f3b",
   "lastOpenFiles": [
-    "Notes/Characters/PCs/Alphonse Steele.md",
     "Notes/Quests/Blythe Begone.md",
+    "Notes/Characters/PCs/Alphonse Steele.md",
     "Notes/Locations/King's Call.md",
     "Notes/Quests/Merc-ing the Marquee.md",
     "Notes/Characters/NPCs/Honest Ed.md",

@@ -1,6 +1,6 @@
 >## Blythe Begone
 
-### Quest Giver: [Mr. Steele](../Characters/PCs/Alphonse%20Steele.md#Family)
+### Quest Giver: [Aildinim Steele](../Characters/PCs/Alphonse%20Steele.md#Family)
 
 #### Pay: none promised
 
