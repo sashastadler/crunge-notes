@@ -9,10 +9,23 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Nannie Ogg.md",
+            "file": "Notes/Organizations/Witch's Coven.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "fc12baa57e9eb144"
+      },
+      {
+        "id": "d0995b79436f1681",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Notes/Organizations/Witch's Coven.md",
+            "mode": "preview"
+          }
+        },
+        "group": "fc12baa57e9eb144"
       }
     ],
     "direction": "vertical"
@@ -68,7 +81,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nannie Ogg.md"
+                "file": "Notes/Organizations/Witch's Coven.md"
               }
             }
           }
@@ -81,8 +94,8 @@
   },
   "active": "4098802388f84f32",
   "lastOpenFiles": [
-    "Nannie Ogg.md",
     "Notes/Organizations/Witch's Coven.md",
+    "Notes/Characters/NPCs/Nannie Ogg.md",
     "Notes/Organizations/Witch Hunter's Guild.md",
     "Notes/Locations/King's Call.md",
     "Notes/Locations/Yonkers.md",

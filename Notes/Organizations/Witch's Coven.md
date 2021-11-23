@@ -15,4 +15,4 @@ Help people whenever you see them in need. If someone has too much, help them ha
 ##### Members
 
 - [Theophania Aching](../Characters/NPCs/Theophania%20Aching.md)
-- [[Nannie Ogg]]
+- [Nannie Ogg](../Characters/NPCs/Nannie%20Ogg.md)
