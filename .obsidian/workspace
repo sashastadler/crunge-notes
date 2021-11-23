@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Characters/PCs/Eugine Brawnanvil.md",
+            "file": "Notes/Books/Ghosts of Iron.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Characters/PCs/Eugine Brawnanvil.md"
+                "file": "Notes/Books/Ghosts of Iron.md"
               }
             }
           }
@@ -81,6 +81,7 @@
   },
   "active": "a8c6ba7bce382f3b",
   "lastOpenFiles": [
+    "Notes/Books/Ghosts of Iron.md",
     "Notes/Characters/PCs/Eugine Brawnanvil.md",
     "Notes/Locations/King's Call.md",
     "Notes/Characters/NPCs/Nav Liao.md",
@@ -89,7 +90,6 @@
     "Notes/Characters/NPCs/Laura.md",
     "Notes/Locations/Yonkers.md",
     "Notes/Characters/NPCs/Dell Gondy.md",
-    "Notes/Characters/NPCs/Demerara.md",
-    "Notes/Characters/NPCs/Carter.md"
+    "Notes/Characters/NPCs/Demerara.md"
   ]
 }
