@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Books/Ghosts of Iron.md",
+            "file": "Notes/Characters/NPCs/Honest Ed.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Books/Ghosts of Iron.md"
+                "file": "Notes/Characters/NPCs/Honest Ed.md"
               }
             }
           }
@@ -81,15 +81,15 @@
   },
   "active": "a8c6ba7bce382f3b",
   "lastOpenFiles": [
-    "Notes/Books/Ghosts of Iron.md",
+    "Notes/Characters/NPCs/Honest Ed.md",
     "Notes/Books/For God or Love.md",
     "Notes/Characters/PCs/Eugine Brawnanvil.md",
+    "Notes/Books/Ghosts of Iron.md",
     "Notes/Organizations/Witch's Coven.md",
     "Notes/Organizations/Witch Hunter's Guild.md",
     "Notes/Characters/NPCs/Nanny Ogg.md",
     "Notes/Locations/King's Call.md",
     "Notes/Characters/NPCs/Nav Liao.md",
-    "Notes/Quests/Merc-ing the Marquee.md",
-    "Notes/Characters/NPCs/Aechithorian Scaevolus Matho.md"
+    "Notes/Quests/Merc-ing the Marquee.md"
   ]
 }
