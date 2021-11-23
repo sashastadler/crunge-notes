@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Honest Ed.md",
+            "file": "Notes/Characters/NPCs/Honest Ed.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Honest Ed.md",
+            "file": "Notes/Characters/NPCs/Honest Ed.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Honest Ed.md"
+                "file": "Notes/Characters/NPCs/Honest Ed.md"
               }
             }
           }
@@ -94,7 +94,7 @@
   },
   "active": "4098802388f84f32",
   "lastOpenFiles": [
-    "Honest Ed.md",
+    "Notes/Characters/NPCs/Honest Ed.md",
     "Notes/Locations/Green Orchard.md",
     "Notes/Characters/PCs/Alphonse Steele.md",
     "Notes/Characters/NPCs/Nannie Ogg.md",
