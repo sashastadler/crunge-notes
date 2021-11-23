@@ -7,8 +7,11 @@
         "id": "a8c6ba7bce382f3b",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Notes/Characters/PCs/Eugine Brawnanvil.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -64,7 +67,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notes/Characters/PCs/Eugine Brawnanvil.md"
+              }
             }
           }
         ]
@@ -76,15 +81,15 @@
   },
   "active": "a8c6ba7bce382f3b",
   "lastOpenFiles": [
+    "Notes/Characters/PCs/Eugine Brawnanvil.md",
+    "Notes/Locations/King's Call.md",
+    "Notes/Characters/NPCs/Nav Liao.md",
     "Notes/Quests/Merc-ing the Marquee.md",
     "Notes/Characters/NPCs/Aechithorian Scaevolus Matho.md",
     "Notes/Characters/NPCs/Laura.md",
     "Notes/Locations/Yonkers.md",
     "Notes/Characters/NPCs/Dell Gondy.md",
     "Notes/Characters/NPCs/Demerara.md",
-    "Notes/Characters/NPCs/Carter.md",
-    "Notes/Characters/NPCs/Carrietta.md",
-    "Notes/Characters/NPCs/Borzoi.md",
-    "Notes/Characters/NPCs/Blythe.md"
+    "Notes/Characters/NPCs/Carter.md"
   ]
 }
