@@ -6,6 +6,9 @@
 
 #### Plot
 
+
+***
+
 #### Other Info
 
-[Alphonse Steele](../Characters/PCs/Alphonse%20Steele.md) hates this book.
+[Alphonse Steele](../Characters/PCs/Alphonse%20Steele.md) borrowed this book from [Eugine Brawnanvil](../Characters/PCs/Eugine%20Brawnanvil.md) and hates it.
