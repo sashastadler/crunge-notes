@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Characters/NPCs/Honest Ed.md",
+            "file": "Notes/Characters/NPCs/Laura.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Characters/NPCs/Honest Ed.md",
+            "file": "Notes/Characters/NPCs/Laura.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Characters/NPCs/Honest Ed.md"
+                "file": "Notes/Characters/NPCs/Laura.md"
               }
             }
           }
@@ -94,15 +94,15 @@
   },
   "active": "4098802388f84f32",
   "lastOpenFiles": [
-    "Notes/Characters/NPCs/Honest Ed.md",
-    "Notes/Locations/Green Orchard.md",
-    "Notes/Characters/PCs/Alphonse Steele.md",
-    "Notes/Characters/NPCs/Nannie Ogg.md",
-    "Notes/Locations/King's Call.md",
-    "Notes/Organizations/Witch's Coven.md",
-    "Notes/Organizations/Witch Hunter's Guild.md",
+    "Notes/Characters/NPCs/Laura.md",
     "Notes/Locations/Yonkers.md",
-    "Notes/Locations/Feywild.md",
-    "Notes/Locations/Nova Stygium.md"
+    "Notes/Characters/NPCs/Dell Gondy.md",
+    "Notes/Characters/NPCs/Demerara.md",
+    "Notes/Characters/NPCs/Carter.md",
+    "Notes/Characters/NPCs/Carrietta.md",
+    "Notes/Characters/NPCs/Borzoi.md",
+    "Notes/Characters/NPCs/Blythe.md",
+    "Notes/Characters/NPCs/Barenziah.md",
+    "Notes/Characters/NPCs/Alberic.md"
   ]
 }

@@ -1,6 +1,6 @@
 >## Alberic
 
-### Location: [Green Orchard](Notes/Locations/Green%20Orchard.md)
+### Location: [Green Orchard](../../Locations/Green%20Orchard.md)
 
 ### Do we like them: Yes
 
