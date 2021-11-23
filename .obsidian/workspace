@@ -7,8 +7,11 @@
         "id": "a8c6ba7bce382f3b",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Notes/Characters/NPCs/Aechithorian Scaevolus Matho.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -64,7 +67,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notes/Characters/NPCs/Aechithorian Scaevolus Matho.md"
+              }
             }
           }
         ]
@@ -76,6 +81,7 @@
   },
   "active": "a8c6ba7bce382f3b",
   "lastOpenFiles": [
+    "Notes/Characters/NPCs/Aechithorian Scaevolus Matho.md",
     "Notes/Characters/NPCs/Laura.md",
     "Notes/Locations/Yonkers.md",
     "Notes/Characters/NPCs/Dell Gondy.md",
@@ -84,7 +90,6 @@
     "Notes/Characters/NPCs/Carrietta.md",
     "Notes/Characters/NPCs/Borzoi.md",
     "Notes/Characters/NPCs/Blythe.md",
-    "Notes/Characters/NPCs/Barenziah.md",
-    "Notes/Characters/NPCs/Alberic.md"
+    "Notes/Characters/NPCs/Barenziah.md"
   ]
 }
