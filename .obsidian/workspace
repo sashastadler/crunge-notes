@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Organizations/Witch's Coven.md",
+            "file": "Honest Ed.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Organizations/Witch's Coven.md",
+            "file": "Honest Ed.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Organizations/Witch's Coven.md"
+                "file": "Honest Ed.md"
               }
             }
           }
@@ -94,15 +94,15 @@
   },
   "active": "4098802388f84f32",
   "lastOpenFiles": [
-    "Notes/Organizations/Witch's Coven.md",
+    "Honest Ed.md",
+    "Notes/Locations/Green Orchard.md",
+    "Notes/Characters/PCs/Alphonse Steele.md",
     "Notes/Characters/NPCs/Nannie Ogg.md",
-    "Notes/Organizations/Witch Hunter's Guild.md",
     "Notes/Locations/King's Call.md",
+    "Notes/Organizations/Witch's Coven.md",
+    "Notes/Organizations/Witch Hunter's Guild.md",
     "Notes/Locations/Yonkers.md",
     "Notes/Locations/Feywild.md",
-    "Notes/Locations/Green Orchard.md",
-    "Notes/Locations/Nova Stygium.md",
-    "Notes/Locations/Obol.md",
-    "Notes/Characters/NPCs/Demerara.md"
+    "Notes/Locations/Nova Stygium.md"
   ]
 }

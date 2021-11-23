@@ -20,6 +20,10 @@ The middle tier of King's Call.
 
 Headquarters of The [Witch's Coven](../Organizations/Witch's%20Coven.md). Has place to stay and food to eat, but they don't like non-witches staying there.
 
+##### Shropshire Smithy
+
+Smithy. Silvered [Cusdakesh](../Characters/PCs/Cusdakesh%20Greyskull.md)'s greataxe and made several other weapons for the Founders Keepers.
+
 #### Burnt End
 
 The lowest tier of King's Call. Shady. High crime. Has The Shitter's Gate.
@@ -27,6 +31,7 @@ The lowest tier of King's Call. Shady. High crime. Has The Shitter's Gate.
 ### Notable people
 - [Carter](../Characters/NPCs/Carter.md)
 - [Theophania Aching](../Characters/NPCs/Theophania%20Aching.md)
+- [Nannie Ogg](../Characters/NPCs/Nannie%20Ogg.md)
 - [[Granny Weatherwax]]
 - [[Lawmaster Krauss]]
 - [[Nav Liao]]
