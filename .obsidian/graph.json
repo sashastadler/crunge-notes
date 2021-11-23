@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": false,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:Notes/Characters/PCs",
@@ -57,23 +57,30 @@
       }
     },
     {
-      "query": "",
+      "query": "path:Notes/Books",
       "color": {
         "a": 1,
-        "rgb": 11621088
+        "rgb": 4331264
+      }
+    },
+    {
+      "query": "path:Notes/Drugs",
+      "color": {
+        "a": 1,
+        "rgb": 16776960
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": -2.1,
   "nodeSizeMultiplier": 1.02136752136752,
   "lineSizeMultiplier": 1.35641025641026,
   "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "centerStrength": 1,
+  "repelStrength": 20,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.5087618855792618,
-  "close": false
+  "linkDistance": 251,
+  "scale": 0.5087618855792619,
+  "close": true
 }
