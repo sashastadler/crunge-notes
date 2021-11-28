@@ -71,6 +71,23 @@
                 "file": "Notes/Quests/Blythe Begone.md"
               }
             }
+          },
+          {
+            "id": "e21790686eabda7b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Notes/Quests/Blythe Begone.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
           }
         ]
       }
