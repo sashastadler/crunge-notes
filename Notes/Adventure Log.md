@@ -24,4 +24,4 @@ Return to [Green Orchard](Locations/Green%20Orchard.md) for more information abo
 
 After finding the tavern by scent (thanks to [Cusdakesh](Characters/PCs/Cusdakesh%20Greyskull.md)), got some information from the bartender. The mugger was [Singeir](Characters/NPCs/Singeir.md), who was at the tavern with [Quill](Characters/NPCs/Quill.md) and [Durthu](Characters/NPCs/Durthu.md). Almost get into a bar fight, but don't.
 
-The hooligans leave and the crew follows them far out of Green Orchard.
+The hooligans leave and the crew follows them far out of Green Orchard. 
