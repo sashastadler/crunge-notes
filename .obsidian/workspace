@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Characters/NPCs/Jerry.md",
+            "file": "Notes/Adventure Log.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Characters/NPCs/Jerry.md",
+            "file": "Notes/Adventure Log.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Characters/NPCs/Jerry.md"
+                "file": "Notes/Adventure Log.md"
               }
             }
           },
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Characters/NPCs/Jerry.md",
+                "file": "Notes/Adventure Log.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +111,7 @@
   },
   "active": "a8c6ba7bce382f3b",
   "lastOpenFiles": [
+    "Notes/Adventure Log.md",
     "Notes/Characters/NPCs/Jerry.md",
     "Notes/Characters/NPCs/Nav Liao.md",
     "Notes/Characters/NPCs/Nanny Ogg.md",
@@ -119,7 +120,6 @@
     "Notes/Characters/NPCs/Margaret.md",
     "Notes/Characters/NPCs/Laura.md",
     "Notes/Characters/NPCs/Duke Delight.md",
-    "Notes/Characters/NPCs/Demerara.md",
-    "Notes/Characters/NPCs/Dell Gondy.md"
+    "Notes/Characters/NPCs/Demerara.md"
   ]
 }

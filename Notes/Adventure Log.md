@@ -1,7 +1,51 @@
+### Nov 14, 2021 - Session 22
+
+The crew pays the [Duke Delight](Characters/NPCs/Duke%20Delight.md) to escape the [Feywild](Locations/Feywild.md). [Eugine](Characters/PCs/Eugine%20Brawnanvil.md) gives up the ending of [For God or Love](Books/For%20God%20or%20Love.md). [Alphonse](Characters/PCs/Alphonse%20Steele.md) gives up a ring; a promise. [O.T.W.M.](Characters/PCs/O.T.W.M..md) 
+    
+-   OTWM: the memory of her grave; the memory of her face
+    
+-   Eldrid: the hat
+    
+-   Quentin: the stone with his ‘beloved’
+    
+
+-   The Duke makes Quentin’s lute red and throws everyone out
+    
+-   Group lands in a village south of King’s Call
+    
+
+-   Return to Witches’ Coven
+    
+-   Hand off the baby
+    
+-   Get goggles, some lessons, and a firm handshake
+    
+
+-   Back to Green Orchard!
+    
+
+-   Alphonse visits dad, argues about returning to Obol, pays 100g debt
+    
+
+-   Demerara apologizes
+    
+
+-   Everyone else mostly passes out in Alberic’s tavern
+    
+
+-   Eldrid dreams of feathers
+
+
+
+
 ### Nov 21, 2021 - Session 23
+
 [Alphonse](Characters/PCs/Alphonse%20Steele.md) visits family in [Green Orchard](Locations/Green%20Orchard.md), decides to help father by  [ finding the robber/blackmailer](Quests/Blythe%20Begone.md) with the help of the rest of the crew. Robber's name is [Blythe](Characters/NPCs/Blythe.md)
 Talked to the lawmaster for information. Decided to go to [tower](Locations/Green%20Orchard.md#Tower) outside of Green Orchard and got lost a bit on the way. 
 During the night, [Jerry](Characters/NPCs/Jerry.md) was acting weird and a mysterious person attacked [Cusdakesh](Characters/PCs/Cusdakesh%20Greyskull.md) and disappeared. Jerry ran off into the woods.
 In the morning, continued to the tower, where we found undead Jerry. Jerry exploded and became a spirit whom we fought.
 Found a tablet (containing the spell Plane Shift) and carvings in the tower. 
 Decided to camp out in the tower to see if people show up during the night. Several creatures showed up during the night. Imp? in the tower directed us to go to [Nova Stygium](Locations/Nova%20Stygium.md).
+
+### Nov 28, 2021 - Session 24
+
