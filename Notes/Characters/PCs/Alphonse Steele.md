@@ -17,3 +17,6 @@ Originally very rich and from [Obol](../../Locations/Obol.md), but no longer so.
 - Lillith (mother)
 - Aildinim (father)
 - Rabbit (paternal grandmother)
+
+#### Fun Quotes
+

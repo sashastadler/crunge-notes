@@ -9,10 +9,23 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Organizations/Founders Keepers.md",
+            "file": "Notes/Characters/PCs/Cusdakesh Greyskull.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "ca718db1227d887e"
+      },
+      {
+        "id": "fbd548c2052cd757",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Notes/Characters/PCs/Cusdakesh Greyskull.md",
+            "mode": "preview"
+          }
+        },
+        "group": "ca718db1227d887e"
       }
     ],
     "direction": "vertical"
@@ -68,7 +81,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Organizations/Founders Keepers.md"
+                "file": "Notes/Characters/PCs/Cusdakesh Greyskull.md"
               }
             }
           },
@@ -78,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Organizations/Founders Keepers.md",
+                "file": "Notes/Characters/PCs/Cusdakesh Greyskull.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,15 +111,15 @@
   },
   "active": "a8c6ba7bce382f3b",
   "lastOpenFiles": [
-    "Notes/Organizations/Founders Keepers.md",
-    "Notes/Organizations/Witch's Coven.md",
-    "Notes/Locations/King's Call.md",
     "Notes/Characters/PCs/Cusdakesh Greyskull.md",
-    "Notes/Organizations/Witch Hunter's Guild.md",
-    "Notes/Adventure Log.md",
-    "Notes/Quests/Blythe Begone.md",
-    "Notes/Quests/Merc-ing the Marquee.md",
     "Notes/Characters/PCs/Alphonse Steele.md",
-    "Notes/Characters/NPCs/Jerry.md"
+    "Notes/Characters/PCs/Quentin Thexius.md",
+    "Notes/Characters/PCs/O.T.W.M..md",
+    "Notes/Characters/PCs/Eugine Brawnanvil.md",
+    "Notes/Characters/PCs/Eldrid Vannar.md",
+    "Notes/Organizations/Founders Keepers.md",
+    "Notes/Organizations/Witch Hunter's Guild.md",
+    "Notes/Organizations/Witch's Coven.md",
+    "Notes/Locations/King's Call.md"
   ]
 }

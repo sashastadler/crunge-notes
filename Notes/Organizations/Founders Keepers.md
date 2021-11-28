@@ -1,4 +1,4 @@
-> ## Witch's Coven
+> ## Founders Keepers
 
 ##### Motto
 
@@ -14,10 +14,12 @@
 
 ##### Members
 
-- [Theophania Aching](../Characters/NPCs/Theophania%20Aching.md)
-- [Nanny Ogg](../Characters/NPCs/Nanny%20Ogg.md)
-- [Granny Weatherwax](../Characters/NPCs/Granny%20Weatherwax.md)
-
+- [Alphonse Steele](../Characters/PCs/Alphonse%20Steele.md)
+- [Cusdakesh Greyskull](../Characters/PCs/Cusdakesh%20Greyskull.md)
+- [Eldrid Vannar](../Characters/PCs/Eldrid%20Vannar.md)
+- [Eugine Brawnanvil](../Characters/PCs/Eugine%20Brawnanvil.md)
+- [O.T.W.M.](../Characters/PCs/O.T.W.M..md)
+- [Quentin Thexius](../Characters/PCs/Quentin%20Thexius.md)
 
 ##### Other Notes
 
