@@ -6,7 +6,7 @@
 
 #### Information
 
-Pirate. Captain of the Rockrose.
+Pirate. Captain of the Rockrose. Drinks Bumbos (pirate cocktail consisting of rum, water, sugar)
 
 #### Fun Quotes
 
