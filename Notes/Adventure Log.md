@@ -1,30 +1,8 @@
 ### Nov 14, 2021 - Session 22
 
-The crew pays the [Duke Delight](Characters/NPCs/Duke%20Delight.md) to escape the [Feywild](Locations/Feywild.md). [Eugine](Characters/PCs/Eugine%20Brawnanvil.md) gives up the ending of [For God or Love](Books/For%20God%20or%20Love.md). [Alphonse](Characters/PCs/Alphonse%20Steele.md) gives up a ring; a promise. [O.T.W.M.](Characters/PCs/O.T.W.M..md) 
-    
--   OTWM: the memory of her grave; the memory of her face
-    
--   Eldrid: the hat
-    
--   Quentin: the stone with his ‘beloved’
-    
-
--   The Duke makes Quentin’s lute red and throws everyone out
-    
--   Group lands in a village south of King’s Call
-    
-
--   Return to Witches’ Coven
-    
--   Hand off the baby
-    
--   Get goggles, some lessons, and a firm handshake
-    
-
--   Back to Green Orchard!
-    
-
--   Alphonse visits dad, argues about returning to Obol, pays 100g debt
+The crew pays the [Duke Delight](Characters/NPCs/Duke%20Delight.md) to escape the [Feywild](Locations/Feywild.md). [Eugine](Characters/PCs/Eugine%20Brawnanvil.md) gives up the ending of [For God or Love](Books/For%20God%20or%20Love.md). [Alphonse](Characters/PCs/Alphonse%20Steele.md) gives up a ring; a promise. [O.T.W.M.](Characters/PCs/O.T.W.M..md) gives up the memory of her grave and the memory of her face. [Eldrid](Characters/PCs/Eldrid%20Vannar.md) gives up the witch's hat received from the [Witch's Coven](Organizations/Witch's%20Coven.md). [Quentin](Characters/PCs/Quentin%20Thexius.md) gives up the stone with his 'beloved'. The Duke makes Quentin’s lute red and throws everyone out. 
+Decided to not return to [Yonkers](Locations/Yonkers.md) and instead return to [King's Call](Locations/King's%20Call.md). Gave [Carrietta](Characters/NPCs/Carrietta.md) to the Witch's Coven. Got night vision goggles and some lessons.
+Went back to [Green Orchard](Locations/Green%20Orchard.md). Alphonse visits [dad](/Characters/PCs/Alphonse%20Steele$.md#Family), argues about returning to Obol, pays 100g debt
     
 
 -   Demerara apologizes
