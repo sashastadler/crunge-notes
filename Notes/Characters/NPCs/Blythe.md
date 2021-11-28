@@ -9,3 +9,4 @@
 ### Details
 
 Robber taking money from [Alphonse's](../PCs/Alphonse%20Steele.md)'s family. Was banished(?) from [Green Orchard](../../Locations/Green%20Orchard.md) a few years ago for "troublemaking". 
+Possible a dwarf with a beard.
