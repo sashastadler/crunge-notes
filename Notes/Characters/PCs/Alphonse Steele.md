@@ -16,7 +16,7 @@ Originally very rich and from [Obol](../../Locations/Obol.md), but no longer so.
 - Ellie (younger sister)
 - Lillith (mother)
 - Aildinim (father)
-- Rabbit (paternal grandmother)
+- [Rabbit](../../Religion/Pantheon%20I/Rabbit.md) (paternal grandmother)
 
 #### Fun Quotes
 

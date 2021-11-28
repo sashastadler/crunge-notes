@@ -17,3 +17,5 @@
 ### Pantheon III: The Church of Miseries
 
 ### Pantheon IV: The Forgotten
+
+- [Odin](Pantheon%20IV/Odin.md)
