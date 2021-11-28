@@ -25,3 +25,9 @@ The All-Creator. The pantheon of Black Gods, the deities of the Banyin Confedera
  Due to their immensity, Bondye spans many domains. Their clerics and paladins focus on just one of these, venerating aspects of the greater deity that they can more easily draw on.
 
  Bondye always appears as a human. Like all the Black Gods, their human form is dark-skinned. Besides this constant, Bondye’s form is never the same twice.
+ 
+ ***
+
+#### Known Worshippers
+
+- [Eugine Brawnanvil](../../Characters/PCs/Eugine%20Brawnanvil.md)

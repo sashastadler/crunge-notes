@@ -2,6 +2,7 @@
 
 ### Pantheon I: The Black Gods
 - [Bondye](Pantheon%20I/Bondye.md)
+- [Ananse](Pantheon%20I/Ananse.md)
 
 ### Pantheon II: The Ancients Ascendant
 
