@@ -2,7 +2,9 @@
 
 --- 
 
-![alphonse_human](../../../Templates/images/alphonse-regular "Alphonse poor form")
+![alphonse_human](../../../Templates/images/alphonse-regular.png "Alphonse poor form")
+
+![alphonse_human2](../../../Templates/images/alphonse-rich.png "Alphonse rich form")
 
 #### Information
 

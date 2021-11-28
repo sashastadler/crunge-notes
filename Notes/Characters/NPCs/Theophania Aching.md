@@ -6,6 +6,10 @@
 
 ***
 
+![theophania](../../../Templates/images/npc-theophania-aching.png "Theophania")
+
+***
+
 ### Details
 
 Member of [Witch's Coven](Notes/Organizations/Witch's%20Coven.md). Does not get along with [Roland Hunter](Roland%20Hunter.md).
