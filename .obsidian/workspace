@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Religion/Pantheons.md",
+            "file": "Notes/Adventure Log.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Religion/Pantheons.md",
+            "file": "Notes/Adventure Log.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Religion/Pantheons.md"
+                "file": "Notes/Adventure Log.md"
               }
             }
           },
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Religion/Pantheons.md",
+                "file": "Notes/Adventure Log.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,15 +111,15 @@
   },
   "active": "fbd548c2052cd757",
   "lastOpenFiles": [
-    "Notes/Religion/Pantheons.md",
-    "Notes/Religion/Pantheon I/Ananse.md",
+    "Notes/Adventure Log.md",
+    "Notes/Religion/Pantheon I/Osebo.md",
     "Notes/Religion/Pantheon I/Bondye.md",
+    "Notes/Religion/Pantheon I/Ananse.md",
     "Templates/religion template.md",
+    "Notes/Religion/Pantheons.md",
     "Notes/Characters/PCs/Eugine Brawnanvil.md",
     "Templates/drug template.md",
     "Templates/location template.md",
-    "Templates/quest template.md",
-    "Notes/Adventure Log.md",
-    "Notes/Characters/NPCs/Aechithorian Scaevolus Matho.md"
+    "Templates/quest template.md"
   ]
 }
