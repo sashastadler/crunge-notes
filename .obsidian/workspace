@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Adventure Log.md",
-            "mode": "preview"
+            "file": "Notes/Religion/Pantheon II/Old Alba.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Adventure Log.md"
+                "file": "Notes/Religion/Pantheon II/Old Alba.md"
               }
             }
           },
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Adventure Log.md",
+                "file": "Notes/Religion/Pantheon II/Old Alba.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,15 +98,15 @@
   },
   "active": "fbd548c2052cd757",
   "lastOpenFiles": [
+    "Notes/Religion/Pantheon II/Old Alba.md",
+    "Notes/Religion/Pantheon II/Old Atter.md",
+    "Notes/Religion/Pantheon II/The Penitent of Iron.md",
+    "Notes/Religion/Pantheon II/The Unending Seeker.md",
+    "Notes/Religion/Pantheon II/The Errant Grovetender.md",
+    "Templates/religion template.md",
     "Notes/Adventure Log.md",
     "Notes/Religion/Pantheon II/The Ghost of the Storm.md",
     "Notes/Religion/Pantheon IV/Zeus.md",
-    "Notes/Religion/Pantheons.md",
-    "Notes/Religion/Pantheon IV/Locky.md",
-    "Notes/Religion/Pantheon IV/Odin.md",
-    "Notes/Religion/Pantheon IV/Seth.md",
-    "Notes/Religion/Pantheon IV/Thor.md",
-    "Notes/Religion/Pantheon IV/Arudite.md",
-    "Notes/Characters/NPCs/Aechithorian Scaevolus Matho.md"
+    "Notes/Religion/Pantheons.md"
   ]
 }
