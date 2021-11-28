@@ -7,8 +7,11 @@
         "id": "fbd548c2052cd757",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Notes/Characters/PCs/Eugine Brawnanvil.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -64,7 +67,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notes/Characters/PCs/Eugine Brawnanvil.md"
+              }
             }
           },
           {
@@ -73,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notes/Characters/PCs/Eugine Brawnanvil.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,6 +98,7 @@
   },
   "active": "fbd548c2052cd757",
   "lastOpenFiles": [
+    "Notes/Characters/PCs/Eugine Brawnanvil.md",
     "Notes/Religion/Pantheons.md",
     "Notes/Religion/Pantheon IV/Odin.md",
     "Notes/Characters/PCs/Eldrid Vannar.md",
@@ -100,7 +107,6 @@
     "Notes/Religion/Pantheon I/Baron Samedi.md",
     "Notes/Religion/Pantheon I/Wolf.md",
     "Notes/Religion/Pantheon I/Rabbit.md",
-    "Notes/Religion/Pantheon I/Osebo.md",
-    "Notes/Religion/Pantheon I/Fox.md"
+    "Notes/Religion/Pantheon I/Osebo.md"
   ]
 }
