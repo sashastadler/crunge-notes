@@ -1,6 +1,6 @@
 ># Scientii
 
-## Pantheon 
+## Pantheon III: The Church of Miseries 
 
 ***
 

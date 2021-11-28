@@ -9,10 +9,23 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Characters/NPCs/Blythe.md",
+            "file": "Notes/Adventure Log.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "24d822d7f982ad16"
+      },
+      {
+        "id": "7cfdd3261eaa4cb1",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Notes/Adventure Log.md",
+            "mode": "preview"
+          }
+        },
+        "group": "24d822d7f982ad16"
       }
     ],
     "direction": "vertical"
@@ -68,7 +81,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Characters/NPCs/Blythe.md"
+                "file": "Notes/Adventure Log.md"
               }
             }
           },
@@ -78,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Characters/NPCs/Blythe.md",
+                "file": "Notes/Adventure Log.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,17 +109,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "fbd548c2052cd757",
+  "active": "7cfdd3261eaa4cb1",
   "lastOpenFiles": [
+    "Notes/Adventure Log.md",
+    "Notes/Characters/NPCs/Singeir.md",
+    "Notes/Religion/Pantheon III/Vitae.md",
+    "Notes/Religion/Pantheon III/Scientii.md",
+    "Notes/Religion/Pantheon III/Luma.md",
+    "Notes/Religion/Pantheon III/Floris.md",
+    "Notes/Religion/Pantheon III/Cvstodivs.md",
     "Notes/Characters/NPCs/Blythe.md",
     "Notes/Quests/Blythe Begone.md",
-    "Notes/Adventure Log.md",
-    "Notes/Characters/NPCs/Dell Gondy.md",
-    "Notes/Characters/NPCs/Durthu.md",
-    "Notes/Characters/NPCs/Quill.md",
-    "Notes/Characters/NPCs/Singeir.md",
-    "Notes/Religion/Pantheon III/Scientii.md",
-    "Notes/Religion/Pantheon III/Floris.md",
-    "Notes/Religion/Pantheon III/Vitae.md"
+    "Notes/Characters/NPCs/Dell Gondy.md"
   ]
 }

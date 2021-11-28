@@ -8,4 +8,4 @@
 
 ### Details
 
-Bearded dwarf. One of the people who threatened [Alphonse's father](../PCs/Alphonse%20Steele.md#Family). Friends with [Durthu](Durthu.md) and [[Quill]]. Possibly connected to [Blythe](Blythe.md). 
+Bearded dwarf. Friends with [Durthu](Durthu.md) and [[Quill]]. Possibly connected to [Blythe](Blythe.md). 

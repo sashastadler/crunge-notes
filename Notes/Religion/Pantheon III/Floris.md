@@ -1,6 +1,6 @@
-># God name
+># Floris
 
-## Pantheon 
+## Pantheon III: The Church of Miseries  
 
 ***
 
