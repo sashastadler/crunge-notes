@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Adventure Log.md",
+            "file": "Notes/Religion/Pantheon I/Bear.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Adventure Log.md",
+            "file": "Notes/Religion/Pantheon I/Bear.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Adventure Log.md"
+                "file": "Notes/Religion/Pantheon I/Bear.md"
               }
             }
           },
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Adventure Log.md",
+                "file": "Notes/Religion/Pantheon I/Bear.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,15 +111,15 @@
   },
   "active": "fbd548c2052cd757",
   "lastOpenFiles": [
-    "Notes/Adventure Log.md",
-    "Notes/Religion/Pantheon I/Osebo.md",
-    "Notes/Religion/Pantheon I/Bondye.md",
-    "Notes/Religion/Pantheon I/Ananse.md",
-    "Templates/religion template.md",
+    "Notes/Religion/Pantheon I/Bear.md",
     "Notes/Religion/Pantheons.md",
+    "Notes/Religion/Pantheon I/Rabbit.md",
+    "Notes/Religion/Pantheon I/Osebo.md",
+    "Notes/Religion/Pantheon I/Ananse.md",
+    "Notes/Religion/Pantheon I/Bondye.md",
+    "Notes/Adventure Log.md",
+    "Templates/religion template.md",
     "Notes/Characters/PCs/Eugine Brawnanvil.md",
-    "Templates/drug template.md",
-    "Templates/location template.md",
-    "Templates/quest template.md"
+    "Templates/drug template.md"
   ]
 }
