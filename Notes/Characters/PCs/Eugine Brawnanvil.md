@@ -10,3 +10,6 @@ Does not drink water. Map enthusiast. Apple juice enthusiast. Owns [Ghosts of Ir
 
 #### Fun Quotes
 
+#### Other
+
+~~gaslight gatekeep~~ **girlboss** ~~mansplain manipulate malewife~~

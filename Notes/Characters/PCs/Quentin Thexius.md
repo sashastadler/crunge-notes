@@ -12,3 +12,6 @@ Used to be part of a church but ran away because he hated it. Performed with [Se
 
 #### Fun Quotes
 
+#### Other
+
+**gaslight** ~~gatekeep girlboss mansplain manipulate malewife~~

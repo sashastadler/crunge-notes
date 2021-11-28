@@ -12,4 +12,4 @@
 
 ### Details
 
-Sister of [[Demerara]]. Works for [Alberic](Alberic.md) in his tavern.
+Sister of [Demerara](Demerara.md). Works for [Alberic](Alberic.md) in his tavern.

@@ -10,3 +10,6 @@ Has memories of someone important to him? But gave up his memory of what she loo
 
 #### Fun Quotes
 
+#### Other
+
+~~gaslight gatekeep girlboss mansplain manipulate~~ **malewife**
