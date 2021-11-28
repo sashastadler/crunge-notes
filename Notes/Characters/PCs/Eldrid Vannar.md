@@ -10,3 +10,6 @@ Lived in [Green Orchard](../../Locations/Green%20Orchard.md) with friends(?). Us
 
 #### Fun Quotes
 
+#### Other
+
+~~gaslight~~ **gatekeep** ~~girlboss mansplain manipulate malewife~~

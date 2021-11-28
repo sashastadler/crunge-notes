@@ -20,3 +20,7 @@ Originally very rich and from [Obol](../../Locations/Obol.md), but no longer so.
 
 #### Fun Quotes
 
+
+#### Other
+
+~~gaslight gatekeep girlboss mansplain~~ **manipulate** ~~malewife~~

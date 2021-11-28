@@ -15,3 +15,7 @@ Pirate. Captain of the Rockrose. Drinks Bumbos (pirate cocktail consisting of ru
 - "Every sailor has his story"
 - "Every pirate has a lucky object" (if you don't, your ship will sink)
 - "A pirate never turns down a drink"
+
+#### Other
+
+~~gaslight gatekeep girlboss~~ **mansplain** ~~manipulate malewife~~
