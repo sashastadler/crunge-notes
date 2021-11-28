@@ -6,6 +6,10 @@
 
 ***
 
+![npc-matho](../../../Templates/images/npc-matho.png)
+
+***
+
 ### Details
 
 One of our first quests. Wizard of the planes. Lived in a tower overlooking planes north of [Green Orchard](../../Locations/Green%20Orchard.md). Ran away in the middle of the night. He is not dead. His property is now town property.
