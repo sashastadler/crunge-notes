@@ -9,23 +9,10 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Religion/Pantheon I/Bear.md",
+            "file": "Notes/Characters/PCs/Alphonse Steele.md",
             "mode": "source"
           }
-        },
-        "group": "56e09dbc153a7298"
-      },
-      {
-        "id": "615a95f84a80fa0f",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Notes/Religion/Pantheon I/Bear.md",
-            "mode": "preview"
-          }
-        },
-        "group": "56e09dbc153a7298"
+        }
       }
     ],
     "direction": "vertical"
@@ -81,7 +68,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Religion/Pantheon I/Bear.md"
+                "file": "Notes/Characters/PCs/Alphonse Steele.md"
               }
             }
           },
@@ -91,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Religion/Pantheon I/Bear.md",
+                "file": "Notes/Characters/PCs/Alphonse Steele.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,15 +98,15 @@
   },
   "active": "fbd548c2052cd757",
   "lastOpenFiles": [
-    "Notes/Religion/Pantheon I/Bear.md",
+    "Notes/Characters/PCs/Alphonse Steele.md",
     "Notes/Religion/Pantheons.md",
+    "Notes/Religion/Pantheon I/Baron Criminel.md",
+    "Notes/Religion/Pantheon I/Baron Samedi.md",
+    "Notes/Religion/Pantheon I/Wolf.md",
     "Notes/Religion/Pantheon I/Rabbit.md",
     "Notes/Religion/Pantheon I/Osebo.md",
-    "Notes/Religion/Pantheon I/Ananse.md",
+    "Notes/Religion/Pantheon I/Fox.md",
     "Notes/Religion/Pantheon I/Bondye.md",
-    "Notes/Adventure Log.md",
-    "Templates/religion template.md",
-    "Notes/Characters/PCs/Eugine Brawnanvil.md",
-    "Templates/drug template.md"
+    "Notes/Religion/Pantheon I/Bear.md"
   ]
 }
