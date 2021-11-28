@@ -22,7 +22,7 @@ A black wing
 
 One of the two warring gods, locked in an eternal duel with [Old Alba](Old%20Alba.md). 
 
- Old Atter is a god of strife and pain. He gives no scripture but blood and asks no faith but rage. His only desire is to break free of the cycle, kill his foe, and wreak havoc forevermore. Despite his temper, some have found freedom in his unending fury: the freedom to break their chains and kill their masters.
+Old Atter is a god of strife and pain. He gives no scripture but blood and asks no faith but rage. His only desire is to break free of the cycle, kill his foe, and wreak havoc forevermore. Despite his temper, some have found freedom in his unending fury: the freedom to break their chains and kill their masters.
 
 ***
 

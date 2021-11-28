@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Religion/Pantheon II/The Penitent of Iron.md",
+            "file": "Notes/Religion/Pantheon II/Cuo.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Religion/Pantheon II/The Penitent of Iron.md"
+                "file": "Notes/Religion/Pantheon II/Cuo.md"
               }
             }
           },
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Religion/Pantheon II/The Penitent of Iron.md",
+                "file": "Notes/Religion/Pantheon II/Cuo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,15 +98,15 @@
   },
   "active": "fbd548c2052cd757",
   "lastOpenFiles": [
-    "Notes/Religion/Pantheon II/The Penitent of Iron.md",
-    "Notes/Religion/Pantheons.md",
-    "Notes/Religion/Pantheon II/The Unending Seeker.md",
-    "Notes/Religion/Pantheon II/The Ghost of the Storm.md",
-    "Notes/Religion/Pantheon II/The Errant Grovetender.md",
+    "Notes/Religion/Pantheon II/Cuo.md",
+    "Notes/Religion/Pantheon II/Impera.md",
     "Notes/Religion/Pantheon II/Old Atter.md",
     "Notes/Religion/Pantheon II/Old Alba.md",
-    "Notes/Religion/Pantheon II/Impera.md",
-    "Notes/Religion/Pantheon II/Cuo.md",
+    "Notes/Religion/Pantheon II/The Errant Grovetender.md",
+    "Notes/Religion/Pantheon II/The Ghost of the Storm.md",
+    "Notes/Religion/Pantheon II/The Penitent of Iron.md",
+    "Notes/Religion/Pantheon II/The Unending Seeker.md",
+    "Notes/Religion/Pantheons.md",
     "Templates/religion template.md"
   ]
 }
