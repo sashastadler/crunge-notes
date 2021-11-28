@@ -2,7 +2,7 @@
 
 --- 
 
-![quentin_human](../../../Templates/images/quentin.png "Quentin Thexius human form")
+![Otem](../../../Templates/images/Otem.png "Otem robot form")
 
 #### Information
 

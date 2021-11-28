@@ -2,7 +2,7 @@
 
 --- 
 
-[quentin_human](../../../Templates/images/quentin.png "Quentin Thexius human form")
+![alphonse_human](../../../Templates/images/alphonse-regular "Alphonse poor form")
 
 #### Information
 

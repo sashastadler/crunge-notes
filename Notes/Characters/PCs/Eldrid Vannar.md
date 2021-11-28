@@ -2,7 +2,7 @@
 
 --- 
 
-![quentin_human](../../../Templates/images/quentin.png "Quentin Thexius human form")
+![eldrid](../../../Templates/images/eldrid.jpg "Eldrid tiefling form")
 
 #### Information
 
