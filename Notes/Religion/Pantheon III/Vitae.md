@@ -6,15 +6,11 @@
 
 #### Domains 
 
-
+Life
 
 #### Alignment
 
-
-
-#### Symbol
-
-
+Chaotic Evil
 
 ***
 

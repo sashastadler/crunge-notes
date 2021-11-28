@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Religion/Pantheon III/Vitae.md",
+            "file": "Notes/Religion/Pantheon III/Scientii.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Religion/Pantheon III/Vitae.md"
+                "file": "Notes/Religion/Pantheon III/Scientii.md"
               }
             }
           },
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Religion/Pantheon III/Vitae.md",
+                "file": "Notes/Religion/Pantheon III/Scientii.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +98,8 @@
   },
   "active": "fbd548c2052cd757",
   "lastOpenFiles": [
+    "Notes/Religion/Pantheon III/Scientii.md",
+    "Notes/Religion/Pantheon III/Floris.md",
     "Notes/Religion/Pantheon III/Vitae.md",
     "Notes/Religion/Pantheon III/Cvstodivs.md",
     "Notes/Characters/PCs/Cusdakesh Greyskull.md",
@@ -105,8 +107,6 @@
     "Notes/Characters/NPCs/Blythe.md",
     "Notes/Religion/Pantheon II/Cuo.md",
     "Notes/Religion/Pantheon II/Impera.md",
-    "Notes/Religion/Pantheon II/Old Atter.md",
-    "Notes/Religion/Pantheon II/Old Alba.md",
-    "Notes/Religion/Pantheon II/The Errant Grovetender.md"
+    "Notes/Religion/Pantheon II/Old Atter.md"
   ]
 }
