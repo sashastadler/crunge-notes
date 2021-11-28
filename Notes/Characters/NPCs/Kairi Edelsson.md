@@ -8,4 +8,4 @@
 
 ### Details
 
-Author of [[../../Books/Ghosts of Iron]]. Hated because he wrote a character killing [Alphonse Steele](../PCs/Alphonse%20Steele.md). 
+Author of [Ghosts of Iron](../../Books/Ghosts%20of%20Iron.md). Hated because he wrote a character killing [Alphonse Steele](../PCs/Alphonse%20Steele.md). 

@@ -6,9 +6,9 @@
 
 ***
 
-![demerara](../../../Templates/images/npc-demerara.png)
+![demerara](../../../Templates/images/npc-demerara.png "demerara hot")
 
-![duke delight](../../../Templates/images/npc-demerara-bandage.png)
+![demerara](../../../Templates/images/npc-demerara-bandage.png)
 
 ***
 
