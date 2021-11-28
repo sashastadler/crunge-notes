@@ -1,12 +1,20 @@
 ># God name
 
-## Pantheon: 
+## Pantheon 
 
-#### Domains: 
+***
 
-#### Alignment:
+#### Domains 
 
-#### Symbol:
+
+
+#### Alignment
+
+
+
+#### Symbol
+
+
 
 ***
 
