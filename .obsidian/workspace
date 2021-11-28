@@ -7,8 +7,11 @@
         "id": "a8c6ba7bce382f3b",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Notes/Characters/PCs/Quentin Thexius.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -64,7 +67,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notes/Characters/PCs/Quentin Thexius.md"
+              }
             }
           },
           {
@@ -73,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notes/Characters/PCs/Quentin Thexius.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,15 +98,15 @@
   },
   "active": "a8c6ba7bce382f3b",
   "lastOpenFiles": [
-    "Notes/Locations/King's Call.md",
-    "Notes/Organizations/Witch's Coven.md",
-    "Notes/Characters/NPCs/Granny Weatherwax.md",
-    "Notes/Organizations/Witch Hunter's Guild.md",
-    "Notes/Quests/Blythe Begone.md",
-    "Notes/Quests/Merc-ing the Marquee.md",
+    "Notes/Characters/PCs/Quentin Thexius.md",
+    "Notes/Characters/NPCs/Margaret.md",
+    "Notes/Characters/PCs/O.T.W.M..md",
+    "Notes/Characters/PCs/Eugine Brawnanvil.md",
+    "Notes/Characters/PCs/Eldrid Vannar.md",
     "Notes/Characters/PCs/Alphonse Steele.md",
-    "Notes/Characters/NPCs/Honest Ed.md",
-    "Notes/Books/For God or Love.md",
-    "Notes/Characters/PCs/Eugine Brawnanvil.md"
+    "Notes/Characters/PCs/Cusdakesh Greyskull.md",
+    "Notes/Characters/NPCs/Duke Delight.md",
+    "Notes/Locations/King's Call.md",
+    "Notes/Organizations/Witch's Coven.md"
   ]
 }
