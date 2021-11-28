@@ -15,3 +15,7 @@ Magic is dangerous. If it causes harm, don’t give second chances. Follow the G
 ##### Members
 
 - [Roland Hunter](../Characters/NPCs/Roland%20Hunter.md)
+
+##### Other Notes
+
+Rivals with [Witch's Coven](Witch's%20Coven.md).

@@ -17,3 +17,8 @@ Help people whenever you see them in need. If someone has too much, help them ha
 - [Theophania Aching](../Characters/NPCs/Theophania%20Aching.md)
 - [Nanny Ogg](../Characters/NPCs/Nanny%20Ogg.md)
 - [Granny Weatherwax](../Characters/NPCs/Granny%20Weatherwax.md)
+
+
+##### Other Notes
+
+Rivals with [Witch Hunter's Guild](Witch%20Hunter's%20Guild.md)

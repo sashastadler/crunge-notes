@@ -9,23 +9,10 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Adventure Log.md",
+            "file": "Notes/Organizations/Founders Keepers.md",
             "mode": "source"
           }
-        },
-        "group": "4a98b85c7a54b400"
-      },
-      {
-        "id": "3a33007d725ee5d6",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Notes/Adventure Log.md",
-            "mode": "preview"
-          }
-        },
-        "group": "4a98b85c7a54b400"
+        }
       }
     ],
     "direction": "vertical"
@@ -81,7 +68,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Adventure Log.md"
+                "file": "Notes/Organizations/Founders Keepers.md"
               }
             }
           },
@@ -91,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Adventure Log.md",
+                "file": "Notes/Organizations/Founders Keepers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,15 +98,15 @@
   },
   "active": "a8c6ba7bce382f3b",
   "lastOpenFiles": [
+    "Notes/Organizations/Founders Keepers.md",
+    "Notes/Organizations/Witch's Coven.md",
+    "Notes/Locations/King's Call.md",
+    "Notes/Characters/PCs/Cusdakesh Greyskull.md",
+    "Notes/Organizations/Witch Hunter's Guild.md",
     "Notes/Adventure Log.md",
     "Notes/Quests/Blythe Begone.md",
+    "Notes/Quests/Merc-ing the Marquee.md",
     "Notes/Characters/PCs/Alphonse Steele.md",
-    "Notes/Characters/NPCs/Jerry.md",
-    "Notes/Characters/NPCs/Nav Liao.md",
-    "Notes/Characters/NPCs/Nanny Ogg.md",
-    "Notes/Characters/NPCs/Marquis Viol.md",
-    "Notes/Characters/NPCs/Maria.md",
-    "Notes/Characters/NPCs/Margaret.md",
-    "Notes/Characters/NPCs/Laura.md"
+    "Notes/Characters/NPCs/Jerry.md"
   ]
 }
