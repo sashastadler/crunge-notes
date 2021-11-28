@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Religion/Pantheon III/Scientii.md",
+            "file": "Notes/Characters/NPCs/Singeir.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Religion/Pantheon III/Scientii.md"
+                "file": "Notes/Characters/NPCs/Singeir.md"
               }
             }
           },
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Religion/Pantheon III/Scientii.md",
+                "file": "Notes/Characters/NPCs/Singeir.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,15 +98,15 @@
   },
   "active": "fbd548c2052cd757",
   "lastOpenFiles": [
+    "Notes/Characters/NPCs/Singeir.md",
+    "Notes/Characters/NPCs/Durthu.md",
+    "Notes/Characters/NPCs/Blythe.md",
+    "Notes/Adventure Log.md",
     "Notes/Religion/Pantheon III/Scientii.md",
     "Notes/Religion/Pantheon III/Floris.md",
     "Notes/Religion/Pantheon III/Vitae.md",
     "Notes/Religion/Pantheon III/Cvstodivs.md",
     "Notes/Characters/PCs/Cusdakesh Greyskull.md",
-    "Notes/Adventure Log.md",
-    "Notes/Characters/NPCs/Blythe.md",
-    "Notes/Religion/Pantheon II/Cuo.md",
-    "Notes/Religion/Pantheon II/Impera.md",
-    "Notes/Religion/Pantheon II/Old Atter.md"
+    "Notes/Religion/Pantheon II/Cuo.md"
   ]
 }
