@@ -7,8 +7,11 @@
         "id": "fbd548c2052cd757",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Notes/Quests/Blythe Begone.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -64,7 +67,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notes/Quests/Blythe Begone.md"
+              }
             }
           },
           {
@@ -73,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notes/Quests/Blythe Begone.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,6 +98,7 @@
   },
   "active": "fbd548c2052cd757",
   "lastOpenFiles": [
+    "Notes/Quests/Blythe Begone.md",
     "Notes/Locations/Nova Stygium.md",
     "Notes/Characters/PCs/O.T.W.M..md",
     "Notes/Characters/PCs/Quentin Thexius.md",
@@ -100,7 +107,6 @@
     "Notes/Characters/PCs/Cusdakesh Greyskull.md",
     "Notes/Characters/PCs/Alphonse Steele.md",
     "Notes/Characters/NPCs/Theophania Aching.md",
-    "Notes/Characters/NPCs/Sextus Sergius.md",
-    "Notes/Characters/NPCs/Roland Hunter.md"
+    "Notes/Characters/NPCs/Sextus Sergius.md"
   ]
 }

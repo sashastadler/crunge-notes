@@ -1,11 +1,11 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "path:Notes",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": false,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:Notes/Characters/PCs",
@@ -69,11 +69,11 @@
   "textFadeMultiplier": -2.1,
   "nodeSizeMultiplier": 1.02136752136752,
   "lineSizeMultiplier": 1.35641025641026,
-  "collapse-forces": true,
+  "collapse-forces": false,
   "centerStrength": 0.444444444444444,
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 251,
-  "scale": 0.2726859917360081,
-  "close": false
+  "scale": 0.2726859917360094,
+  "close": true
 }
