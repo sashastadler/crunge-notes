@@ -1,9 +1,13 @@
 >## Drug Name
 
-### Quest Giver: 
+#### Type: 
 
-#### Pay: 
+#### Ingestion method: 
+
+#### Legal status:
 
 ***
 
-### Revelant Information
+### Description
+
+### Effects
