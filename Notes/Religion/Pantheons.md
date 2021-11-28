@@ -14,6 +14,15 @@
 
 ### Pantheon II: The Ancients Ascendant
 
+- [The Ghost of the Storm](Pantheon%20II/The%20Ghost%20of%20the%20Storm.md)
+- [The Errant Grovetender](Pantheon%20II/The%20Errant%20Grovetender.md)
+- [The Unending Seeker](Pantheon%20II/The%20Unending%20Seeker.md)
+- [The Penitent of Iron](Pantheon%20II/The%20Penitent%20of%20Iron.md)
+- [Old Atter](Pantheon%20II/Old%20Atter.md)
+- [Old Alba](Pantheon%20II/Old%20Alba.md)
+- [Impera](Pantheon%20II/Impera.md)
+- [Cuo](Pantheon%20II/Cuo.md)
+
 ### Pantheon III: The Church of Miseries
 
 ### Pantheon IV: The Forgotten

@@ -1,6 +1,6 @@
 ># The Unending Seeker
 
-## Pantheon 
+## Pantheon II: The Ancients Ascendant 
 
 ***
 

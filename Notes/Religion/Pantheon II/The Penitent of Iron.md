@@ -1,6 +1,6 @@
 ># The Penitent of Iron
 
-## Pantheon 
+## Pantheon II: The Ancients Ascendant 
 
 ***
 

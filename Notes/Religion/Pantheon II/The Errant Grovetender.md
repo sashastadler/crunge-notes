@@ -1,6 +1,6 @@
 ># The Errant Grovetender
 
-## Pantheon 
+## Pantheon II: The Ancients Ascendant 
 
 ***
 
