@@ -19,3 +19,8 @@
 ### Pantheon IV: The Forgotten
 
 - [Odin](Pantheon%20IV/Odin.md)
+- [Zeus](Pantheon%20IV/Zeus.md)
+- [Thor](Pantheon%20IV/Thor.md)
+- [Arudite](Pantheon%20IV/Arudite.md)
+- [Locky](Pantheon%20IV/Locky.md)
+- [Seth](Pantheon%20IV/Seth.md)

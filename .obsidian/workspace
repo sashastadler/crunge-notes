@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Religion/Pantheon IV/Thor.md",
+            "file": "Notes/Religion/Pantheon IV/Zeus.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Religion/Pantheon IV/Thor.md"
+                "file": "Notes/Religion/Pantheon IV/Zeus.md"
               }
             }
           },
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Religion/Pantheon IV/Thor.md",
+                "file": "Notes/Religion/Pantheon IV/Zeus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,15 +98,15 @@
   },
   "active": "fbd548c2052cd757",
   "lastOpenFiles": [
-    "Notes/Religion/Pantheon IV/Thor.md",
     "Notes/Religion/Pantheon IV/Zeus.md",
+    "Notes/Religion/Pantheons.md",
+    "Notes/Religion/Pantheon IV/Locky.md",
+    "Notes/Religion/Pantheon IV/Odin.md",
+    "Notes/Religion/Pantheon IV/Seth.md",
+    "Notes/Religion/Pantheon IV/Thor.md",
+    "Notes/Religion/Pantheon IV/Arudite.md",
     "Notes/Characters/NPCs/Aechithorian Scaevolus Matho.md",
     "Notes/Characters/NPCs/Dell Gondy.md",
-    "Notes/Religion/Pantheon IV/Odin.md",
-    "Notes/Religion/Pantheons.md",
-    "Notes/Adventure Log.md",
-    "Notes/Characters/PCs/Eugine Brawnanvil.md",
-    "Notes/Characters/PCs/Eldrid Vannar.md",
-    "Notes/Characters/PCs/Alphonse Steele.md"
+    "Notes/Adventure Log.md"
   ]
 }

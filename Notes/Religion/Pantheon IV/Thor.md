@@ -1,6 +1,6 @@
 ># Thor
 
-## Pantheon 
+## Pantheon IV: The Forgotten
 
 ***
 
