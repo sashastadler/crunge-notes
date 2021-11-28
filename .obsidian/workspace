@@ -7,11 +7,8 @@
         "id": "fbd548c2052cd757",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Notes/Characters/NPCs/Demerara.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -67,9 +64,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notes/Characters/NPCs/Demerara.md"
-              }
+              "state": {}
             }
           },
           {
@@ -78,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Characters/NPCs/Demerara.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,15 +92,15 @@
   },
   "active": "fbd548c2052cd757",
   "lastOpenFiles": [
-    "Notes/Characters/NPCs/Demerara.md",
-    "Notes/Characters/NPCs/Duke Delight.md",
-    "Notes/Characters/NPCs/Granny Weatherwax.md",
-    "Notes/Characters/NPCs/Honest Ed.md",
-    "Notes/Characters/NPCs/Jerry.md",
-    "Notes/Characters/NPCs/Kairi Edelsson.md",
-    "Notes/Characters/NPCs/Laura.md",
-    "Notes/Characters/NPCs/Margaret.md",
-    "Notes/Characters/NPCs/Maria.md",
-    "Notes/Characters/NPCs/Marquis Viol.md"
+    "Notes/Locations/Nova Stygium.md",
+    "Notes/Characters/PCs/O.T.W.M..md",
+    "Notes/Characters/PCs/Quentin Thexius.md",
+    "Notes/Characters/PCs/Eugine Brawnanvil.md",
+    "Notes/Characters/PCs/Eldrid Vannar.md",
+    "Notes/Characters/PCs/Cusdakesh Greyskull.md",
+    "Notes/Characters/PCs/Alphonse Steele.md",
+    "Notes/Characters/NPCs/Theophania Aching.md",
+    "Notes/Characters/NPCs/Sextus Sergius.md",
+    "Notes/Characters/NPCs/Roland Hunter.md"
   ]
 }

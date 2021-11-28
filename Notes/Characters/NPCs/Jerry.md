@@ -6,7 +6,7 @@
 
 ***
 
-![jerry](../../../Templates/images/jerry.jpg)
+![jerry](../../../Templates/images/jerry.jpg "our beloved jerry may you rest in peace")
 
 ***
 

@@ -2,9 +2,9 @@
 
 --- 
 
-![quentin_human](../../../Templates/images/quentin.png "Quentin Thexius human form")
+![quentin_human](../../../Templates/images/quentin.png "Quentin Thexius high form")
 
-![quentin_shroud](../../../Templates/images/quentin_shroud.png "Quentin Thexius aasimar form")
+![quentin_shroud](../../../Templates/images/quentin_shroud.png "Quentin Thexius high but like an angel form")
 
 #### Information
 

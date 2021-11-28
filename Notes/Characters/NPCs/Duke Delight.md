@@ -6,7 +6,7 @@
 
 ***
 
-![duke delight](../../../Templates/images/npc-duke-delight.png)
+![duke delight](../../../Templates/images/npc-duke-delight.png "evil tree guy")
 
 ***
 

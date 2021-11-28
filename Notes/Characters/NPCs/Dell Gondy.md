@@ -6,7 +6,7 @@
 
 ***
 
-![dell gondy](../../../Templates/images/npc-dell-gondy.png)
+![dell gondy](../../../Templates/images/npc-dell-gondy.png "catgirl")
 
 ***
 

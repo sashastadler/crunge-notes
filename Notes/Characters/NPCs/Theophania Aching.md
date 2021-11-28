@@ -6,7 +6,7 @@
 
 ***
 
-![theophania](../../../Templates/images/npc-theophania-aching.png "Theophania")
+![theophania](../../../Templates/images/npc-theophania-aching.png "Hermione")
 
 ***
 

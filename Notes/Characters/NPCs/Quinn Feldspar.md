@@ -6,7 +6,7 @@
 
 ***
 
-![quinn_human](../../../Templates/images/npc-quinn-feldspar.png)
+![quinn_human](../../../Templates/images/npc-quinn-feldspar.png "possibly marilyn manson")
 
 ***
 

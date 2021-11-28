@@ -6,7 +6,7 @@
 
 ***
 
-![maria](../../../Templates/images/npc-maria.png)
+![maria](../../../Templates/images/npc-maria.png "maria")
 
 ***
 

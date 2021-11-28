@@ -8,7 +8,7 @@
 
 ![demerara](../../../Templates/images/npc-demerara.png "demerara hot")
 
-![demerara](../../../Templates/images/npc-demerara-bandage.png)
+![demerara](../../../Templates/images/npc-demerara-bandage.png "demerara even hotter")
 
 ***
 

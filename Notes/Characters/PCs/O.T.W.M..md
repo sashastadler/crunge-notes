@@ -2,7 +2,7 @@
 
 --- 
 
-![Otem](../../../Templates/images/Otem.png "Otem robot form")
+![Otem](../../../Templates/images/Otem.png "vision from the avengers")
 
 #### Information
 

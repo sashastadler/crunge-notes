@@ -2,7 +2,7 @@
 
 --- 
 
-![eldrid](../../../Templates/images/eldrid.jpg "Eldrid tiefling form")
+![eldrid](../../../Templates/images/eldrid.jpg "Eldrid tiefling form. Lovely drawing Kirsten")
 
 #### Information
 

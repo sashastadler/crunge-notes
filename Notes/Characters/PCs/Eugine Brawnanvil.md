@@ -2,7 +2,7 @@
 
 --- 
 
-![eugine](../../../Templates/images/eugine.png "Eugin Brawnanvil dwarf form")
+![eugine](../../../Templates/images/eugine.png "Eugin Brawnanvil nerd form")
 
 #### Information
 

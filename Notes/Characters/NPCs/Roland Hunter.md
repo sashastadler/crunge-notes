@@ -6,7 +6,7 @@
 
 ***
 
-![roland_human](../../../Templates/images/npc-roland-hunter.png)
+![roland_human](../../../Templates/images/npc-roland-hunter.png "blonde ron weasley")
 
 ***
 
