@@ -7,11 +7,8 @@
         "id": "a8c6ba7bce382f3b",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Notes/Quests/Merc-ing the Marquee.md",
-            "mode": "preview"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -67,9 +64,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notes/Quests/Merc-ing the Marquee.md"
-              }
+              "state": {}
             }
           },
           {
@@ -78,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Quests/Merc-ing the Marquee.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,15 +92,15 @@
   },
   "active": "a8c6ba7bce382f3b",
   "lastOpenFiles": [
-    "Notes/Quests/Merc-ing the Marquee.md",
-    "Notes/Quests/Blythe Begone.md",
-    "Notes/Characters/PCs/Alphonse Steele.md",
     "Notes/Locations/King's Call.md",
+    "Notes/Organizations/Witch's Coven.md",
+    "Notes/Characters/NPCs/Granny Weatherwax.md",
+    "Notes/Organizations/Witch Hunter's Guild.md",
+    "Notes/Quests/Blythe Begone.md",
+    "Notes/Quests/Merc-ing the Marquee.md",
+    "Notes/Characters/PCs/Alphonse Steele.md",
     "Notes/Characters/NPCs/Honest Ed.md",
     "Notes/Books/For God or Love.md",
-    "Notes/Characters/PCs/Eugine Brawnanvil.md",
-    "Notes/Books/Ghosts of Iron.md",
-    "Notes/Organizations/Witch's Coven.md",
-    "Notes/Organizations/Witch Hunter's Guild.md"
+    "Notes/Characters/PCs/Eugine Brawnanvil.md"
   ]
 }

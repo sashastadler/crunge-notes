@@ -42,6 +42,6 @@ The lowest tier of King's Call. Shady. High crime. Has The Shitter's Gate.
 - [Carter](../Characters/NPCs/Carter.md)
 - [Theophania Aching](../Characters/NPCs/Theophania%20Aching.md)
 - [Nanny Ogg](../Characters/NPCs/Nanny%20Ogg.md)
-- [[Granny Weatherwax]]
-- [[Lawmaster Krauss]]
+- [Granny Weatherwax](../Characters/NPCs/Granny%20Weatherwax.md)
+- [Lawmaster Krauss](Lawmaster%20Krauss)
 - [Nav Liao](../Characters/NPCs/Nav%20Liao.md)
