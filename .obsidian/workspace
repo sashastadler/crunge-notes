@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Characters/NPCs/Aechithorian Scaevolus Matho.md",
+            "file": "Templates/drug template.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Characters/NPCs/Aechithorian Scaevolus Matho.md"
+                "file": "Templates/drug template.md"
               }
             }
           },
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Characters/NPCs/Aechithorian Scaevolus Matho.md",
+                "file": "Templates/drug template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,15 +98,15 @@
   },
   "active": "fbd548c2052cd757",
   "lastOpenFiles": [
+    "Templates/drug template.md",
+    "Templates/quest template.md",
+    "Templates/religion template.md",
+    "Notes/Characters/PCs/Eugine Brawnanvil.md",
+    "Notes/Adventure Log.md",
     "Notes/Characters/NPCs/Aechithorian Scaevolus Matho.md",
     "Notes/Characters/NPCs/Marquis Viol.md",
     "Notes/Characters/NPCs/Maria.md",
     "Notes/Characters/PCs/Quentin Thexius.md",
-    "Notes/Characters/PCs/O.T.W.M..md",
-    "Notes/Characters/PCs/Eugine Brawnanvil.md",
-    "Notes/Characters/PCs/Eldrid Vannar.md",
-    "Notes/Characters/PCs/Cusdakesh Greyskull.md",
-    "Notes/Characters/PCs/Alphonse Steele.md",
-    "Notes/Quests/Blythe Begone.md"
+    "Notes/Characters/PCs/O.T.W.M..md"
   ]
 }
