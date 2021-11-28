@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Quests/Blythe Begone.md",
+            "file": "Notes/Quests/Merc-ing the Marquee.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Quests/Blythe Begone.md"
+                "file": "Notes/Quests/Merc-ing the Marquee.md"
               }
             }
           },
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Quests/Blythe Begone.md",
+                "file": "Notes/Quests/Merc-ing the Marquee.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,10 +98,10 @@
   },
   "active": "a8c6ba7bce382f3b",
   "lastOpenFiles": [
+    "Notes/Quests/Merc-ing the Marquee.md",
     "Notes/Quests/Blythe Begone.md",
     "Notes/Characters/PCs/Alphonse Steele.md",
     "Notes/Locations/King's Call.md",
-    "Notes/Quests/Merc-ing the Marquee.md",
     "Notes/Characters/NPCs/Honest Ed.md",
     "Notes/Books/For God or Love.md",
     "Notes/Characters/PCs/Eugine Brawnanvil.md",
