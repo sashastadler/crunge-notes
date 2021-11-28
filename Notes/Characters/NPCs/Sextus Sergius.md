@@ -6,7 +6,7 @@
 
 ***
 
-![alphonse_human](../../../Templates/images/alphonse-regular.png "Alphonse poor form")
+![sextus_hot](../../../Templates/images/npc-sextus.png)
 
 ***
 

@@ -6,6 +6,10 @@
 
 ***
 
+![maria](../../../Templates/images/npc-maria.png)
+
+***
+
 ### Details
 
 Sister of [[Demerara]]. Works for [Alberic](Alberic.md) in his tavern.
