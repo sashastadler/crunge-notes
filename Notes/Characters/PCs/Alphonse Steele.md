@@ -1,5 +1,9 @@
 >## Alphonse Steele
 
+--- 
+
+[quentin_human](../../../Templates/images/quentin.png "Quentin Thexius human form")
+
 #### Information
 
 Originally very rich and from [Obol](../../Locations/Obol.md), but no longer so. Family has a farm in [Green Orchard](../../Locations/Green%20Orchard.md). Has mentioned having private tutors. Capitalist.

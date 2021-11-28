@@ -9,10 +9,23 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Characters/PCs/Quentin Thexius.md",
+            "file": "Notes/Characters/PCs/Alphonse Steele.md",
+            "mode": "source"
+          }
+        },
+        "group": "4a98b85c7a54b400"
+      },
+      {
+        "id": "3a33007d725ee5d6",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Notes/Characters/PCs/Alphonse Steele.md",
             "mode": "preview"
           }
-        }
+        },
+        "group": "4a98b85c7a54b400"
       }
     ],
     "direction": "vertical"
@@ -68,7 +81,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Characters/PCs/Quentin Thexius.md"
+                "file": "Notes/Characters/PCs/Alphonse Steele.md"
               }
             }
           },
@@ -78,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Characters/PCs/Quentin Thexius.md",
+                "file": "Notes/Characters/PCs/Alphonse Steele.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,15 +111,15 @@
   },
   "active": "a8c6ba7bce382f3b",
   "lastOpenFiles": [
-    "Notes/Characters/PCs/Quentin Thexius.md",
-    "Notes/Characters/NPCs/Margaret.md",
-    "Notes/Characters/PCs/O.T.W.M..md",
-    "Notes/Characters/PCs/Eugine Brawnanvil.md",
-    "Notes/Characters/PCs/Eldrid Vannar.md",
     "Notes/Characters/PCs/Alphonse Steele.md",
     "Notes/Characters/PCs/Cusdakesh Greyskull.md",
+    "Notes/Characters/PCs/Eldrid Vannar.md",
+    "Notes/Characters/PCs/Eugine Brawnanvil.md",
+    "Notes/Characters/PCs/O.T.W.M..md",
+    "Notes/Characters/PCs/Quentin Thexius.md",
+    "Notes/Characters/NPCs/Carter.md",
+    "Notes/Characters/NPCs/Margaret.md",
     "Notes/Characters/NPCs/Duke Delight.md",
-    "Notes/Locations/King's Call.md",
-    "Notes/Organizations/Witch's Coven.md"
+    "Notes/Locations/King's Call.md"
   ]
 }
