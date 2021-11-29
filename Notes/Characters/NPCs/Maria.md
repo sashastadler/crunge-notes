@@ -8,6 +8,8 @@
 
 ![maria](../../../Templates/images/npc-maria.png "maria")
 
+![maria](../../../Templates/images/npc-maria-2.png "maria upgraded")
+
 ***
 
 ### Details
