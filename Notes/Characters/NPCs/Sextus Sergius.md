@@ -6,7 +6,7 @@
 
 ***
 
-![sextus_hot](../../../Templates/images/npc-sextus.png "hot")
+![sextus_hot](../../../Templates/images/npc-sextus.png "sextus hot")
 
 ***
 

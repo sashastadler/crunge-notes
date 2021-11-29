@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Characters/PCs/Alphonse Steele.md",
+            "file": "Notes/Adventure Log.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Characters/PCs/Alphonse Steele.md",
+            "file": "Notes/Adventure Log.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Characters/PCs/Alphonse Steele.md"
+                "file": "Notes/Adventure Log.md"
               }
             }
           },
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Characters/PCs/Alphonse Steele.md",
+                "file": "Notes/Adventure Log.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,15 +111,15 @@
   },
   "active": "fbd548c2052cd757",
   "lastOpenFiles": [
-    "Notes/Characters/PCs/Alphonse Steele.md",
     "Notes/Adventure Log.md",
+    "Notes/Characters/NPCs/Sextus Sergius.md",
+    "Notes/Characters/NPCs/Demerara.md",
+    "Notes/Characters/NPCs/Quinn Feldspar.md",
+    "Notes/Characters/NPCs/Quill.md",
+    "Notes/Characters/PCs/Alphonse Steele.md",
     "Notes/Characters/NPCs/Singeir.md",
     "Notes/Religion/Pantheon III/Vitae.md",
     "Notes/Religion/Pantheon III/Scientii.md",
-    "Notes/Religion/Pantheon III/Luma.md",
-    "Notes/Religion/Pantheon III/Floris.md",
-    "Notes/Religion/Pantheon III/Cvstodivs.md",
-    "Notes/Characters/NPCs/Blythe.md",
-    "Notes/Quests/Blythe Begone.md"
+    "Notes/Religion/Pantheon III/Luma.md"
   ]
 }

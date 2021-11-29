@@ -7,6 +7,7 @@
 ***
 
 ![quinn_human](../../../Templates/images/npc-quinn-feldspar.png "possibly marilyn manson")
+![quinn_human](../../../Templates/images/npc-quinn-feldspar-2.png "side view")
 
 ***
 
