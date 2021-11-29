@@ -26,4 +26,4 @@ After finding the tavern by scent (thanks to [Cusdakesh](Characters/PCs/Cusdakes
 
 The hooligans leave and the crew follows them far out of Green Orchard. Fought them, killed 1, a few ran away. Interrograted Durthu for Blythe's location. Said we should be mad at [Ajax](Characters/NPCs/Ajax.md).
 
-Durthu leads most of the crew to the cave hideout.
+Durthu leads most of the crew to the cave hideout. [Alphonse](Characters/PCs/Alphonse%20Steele.md) gets captured and thrown in a cave prison. [Quentin](Characters/PCs/Quentin%20Thexius.md) and Cusdakesh start following Durthu's directions through the hideout while [Eldrid](Characters/PCs/Eldrid%20Vannar.md) stays back a bit. Alphonse breaks out of his bonds and pretends to start a fire, raising a commotion. Cusdakesh and Quentin break down a door, splitting the attention.
