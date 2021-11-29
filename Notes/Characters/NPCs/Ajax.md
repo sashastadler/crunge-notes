@@ -8,4 +8,4 @@
 
 ### Details
 
-Association with [Durthu](Durthu.md) and [Blythe](Blythe.md). Not much other info.
+Association with [Blythe](Blythe.md). Not much other info.
