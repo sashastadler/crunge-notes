@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Adventure Log.md",
+            "file": "Notes/Characters/NPCs/Ajax.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Adventure Log.md",
+            "file": "Notes/Characters/NPCs/Ajax.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Adventure Log.md"
+                "file": "Notes/Characters/NPCs/Ajax.md"
               }
             }
           },
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Adventure Log.md",
+                "file": "Notes/Characters/NPCs/Ajax.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,15 +111,15 @@
   },
   "active": "fbd548c2052cd757",
   "lastOpenFiles": [
+    "Notes/Characters/NPCs/Ajax.md",
+    "Notes/Characters/NPCs/Singeir.md",
+    "Notes/Quests/Blythe Begone.md",
     "Notes/Adventure Log.md",
+    "Templates/religion template.md",
     "Notes/Characters/NPCs/Sextus Sergius.md",
     "Notes/Characters/NPCs/Demerara.md",
     "Notes/Characters/NPCs/Quinn Feldspar.md",
     "Notes/Characters/NPCs/Quill.md",
-    "Notes/Characters/PCs/Alphonse Steele.md",
-    "Notes/Characters/NPCs/Singeir.md",
-    "Notes/Religion/Pantheon III/Vitae.md",
-    "Notes/Religion/Pantheon III/Scientii.md",
-    "Notes/Religion/Pantheon III/Luma.md"
+    "Notes/Characters/PCs/Alphonse Steele.md"
   ]
 }

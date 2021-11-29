@@ -1,6 +1,6 @@
 >## Singeir
 
-### Location: [Green Orchard village](../../Locations/Green%20Orchard.md)
+### Location: He's dead
 
 ### Do we like them: No
 
@@ -8,4 +8,4 @@
 
 ### Details
 
-Bearded dwarf. Friends with [Durthu](Durthu.md) and [[Quill]]. Possibly connected to [Blythe](Blythe.md). 
+Bearded dwarf. Friends with [Durthu](Durthu.md) and [[Quill]]. Possibly connected to [Blythe](Blythe.md).  Killed by [Cusdakesh](../PCs/Cusdakesh%20Greyskull.md) (not on purpose :(  )
