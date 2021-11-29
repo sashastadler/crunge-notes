@@ -20,6 +20,7 @@ Originally very rich and from [Obol](../../Locations/Obol.md), but no longer so.
 
 #### Fun Quotes
 
+- "I will remain a cat" 
 
 #### Other
 

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Adventure Log.md",
+            "file": "Notes/Characters/PCs/Alphonse Steele.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Adventure Log.md",
+            "file": "Notes/Characters/PCs/Alphonse Steele.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Adventure Log.md"
+                "file": "Notes/Characters/PCs/Alphonse Steele.md"
               }
             }
           },
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Adventure Log.md",
+                "file": "Notes/Characters/PCs/Alphonse Steele.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +111,7 @@
   },
   "active": "fbd548c2052cd757",
   "lastOpenFiles": [
+    "Notes/Characters/PCs/Alphonse Steele.md",
     "Notes/Adventure Log.md",
     "Notes/Characters/NPCs/Singeir.md",
     "Notes/Religion/Pantheon III/Vitae.md",
@@ -119,7 +120,6 @@
     "Notes/Religion/Pantheon III/Floris.md",
     "Notes/Religion/Pantheon III/Cvstodivs.md",
     "Notes/Characters/NPCs/Blythe.md",
-    "Notes/Quests/Blythe Begone.md",
-    "Notes/Characters/NPCs/Dell Gondy.md"
+    "Notes/Quests/Blythe Begone.md"
   ]
 }
