@@ -7,8 +7,11 @@
         "id": "fbd548c2052cd757",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Notes/Adventure Log.md",
+            "mode": "source"
+          }
         },
         "group": "24d822d7f982ad16"
       },
@@ -77,7 +80,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notes/Adventure Log.md"
+              }
             }
           },
           {
@@ -86,6 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notes/Adventure Log.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
