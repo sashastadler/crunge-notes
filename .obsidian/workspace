@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Adventure Log.md",
+            "file": "Notes/Characters/PCs/Eugine Brawnanvil.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Adventure Log.md",
+            "file": "Notes/Characters/PCs/Eugine Brawnanvil.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Adventure Log.md"
+                "file": "Notes/Characters/PCs/Eugine Brawnanvil.md"
               }
             }
           },
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Adventure Log.md",
+                "file": "Notes/Characters/PCs/Eugine Brawnanvil.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +111,7 @@
   },
   "active": "fbd548c2052cd757",
   "lastOpenFiles": [
+    "Notes/Characters/PCs/Eugine Brawnanvil.md",
     "Notes/Adventure Log.md",
     "Notes/Characters/NPCs/Maria.md",
     "Notes/Quests/Blythe Begone.md",
@@ -119,7 +120,6 @@
     "Templates/religion template.md",
     "Notes/Characters/NPCs/Sextus Sergius.md",
     "Notes/Characters/NPCs/Demerara.md",
-    "Notes/Characters/NPCs/Quinn Feldspar.md",
-    "Notes/Characters/NPCs/Quill.md"
+    "Notes/Characters/NPCs/Quinn Feldspar.md"
   ]
 }

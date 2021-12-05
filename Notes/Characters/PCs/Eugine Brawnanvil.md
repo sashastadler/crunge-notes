@@ -10,6 +10,8 @@ Does not drink water. Map enthusiast. Apple juice enthusiast. Owns [Ghosts of Ir
 
 #### Fun Quotes
 
+- "Eugine sounds like he could be a kitchen"
+
 #### Other
 
 ~~gaslight gatekeep~~ **girlboss** ~~mansplain manipulate malewife~~
