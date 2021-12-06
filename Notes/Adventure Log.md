@@ -30,4 +30,4 @@ Durthu leads most of the crew to the cave hideout. [Alphonse](Characters/PCs/Alp
 
 ### Dec 5, 2021 - Session 25
 
-[Alphonse](Characters/PCs/Alphonse%20Steele.md) fights his way out of the cave prison.
+The group reconvenes and goes through the cave, finding [Ajax](Characters/NPCs/Ajax.md) and 
