@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Characters/PCs/Eugine Brawnanvil.md",
+            "file": "Notes/Characters/NPCs/Unferth.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Characters/PCs/Eugine Brawnanvil.md",
+            "file": "Notes/Characters/NPCs/Unferth.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Characters/PCs/Eugine Brawnanvil.md"
+                "file": "Notes/Characters/NPCs/Unferth.md"
               }
             }
           },
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Characters/PCs/Eugine Brawnanvil.md",
+                "file": "Notes/Characters/NPCs/Unferth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +111,7 @@
   },
   "active": "fbd548c2052cd757",
   "lastOpenFiles": [
+    "Notes/Characters/NPCs/Unferth.md",
     "Notes/Characters/PCs/Eugine Brawnanvil.md",
     "Notes/Adventure Log.md",
     "Notes/Characters/NPCs/Maria.md",
@@ -119,7 +120,6 @@
     "Notes/Characters/NPCs/Singeir.md",
     "Templates/religion template.md",
     "Notes/Characters/NPCs/Sextus Sergius.md",
-    "Notes/Characters/NPCs/Demerara.md",
-    "Notes/Characters/NPCs/Quinn Feldspar.md"
+    "Notes/Characters/NPCs/Demerara.md"
   ]
 }
