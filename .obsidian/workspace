@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Characters/NPCs/Nav Liao.md",
+            "file": "Notes/Adventure Log.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Characters/NPCs/Nav Liao.md",
+            "file": "Notes/Adventure Log.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Characters/NPCs/Nav Liao.md"
+                "file": "Notes/Adventure Log.md"
               }
             }
           },
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Characters/NPCs/Nav Liao.md",
+                "file": "Notes/Adventure Log.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,15 +111,15 @@
   },
   "active": "fbd548c2052cd757",
   "lastOpenFiles": [
+    "Notes/Adventure Log.md",
+    "Notes/Characters/PCs/Quentin Thexius.md",
     "Notes/Characters/NPCs/Nav Liao.md",
     "Notes/Characters/NPCs/Maria.md",
     "Notes/Characters/NPCs/Quill.md",
     "Notes/Characters/NPCs/Singeir.md",
-    "Notes/Adventure Log.md",
     "Notes/Characters/NPCs/Unferth.md",
     "Notes/Characters/PCs/Eugine Brawnanvil.md",
     "Notes/Quests/Blythe Begone.md",
-    "Notes/Characters/NPCs/Ajax.md",
-    "Templates/religion template.md"
+    "Notes/Characters/NPCs/Ajax.md"
   ]
 }
