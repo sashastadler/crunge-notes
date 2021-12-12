@@ -32,3 +32,7 @@ Durthu leads most of the crew to the cave hideout. [Alphonse](Characters/PCs/Alp
 
 The group reconvenes and goes through the cave, finding [Ajax](Characters/NPCs/Ajax.md) and many others. Tried fighting them but almost died. Were captured and imprisoned in the same cave [Alphonse](Characters/PCs/Alphonse%20Steele.md) was in the previous session.
 
+### Dec 12, 2021 - Session 26
+
+
+
