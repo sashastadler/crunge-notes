@@ -8,14 +8,14 @@
 
 #### Information
 
-Originally very rich and from [Obol](../../Locations/Obol.md), but no longer so. Family has a farm in [Green Orchard](../../Locations/Green%20Orchard.md). Has mentioned having private tutors. Capitalist.
+Originally very rich and from [Obol](../../Locations/Obol.md), but no longer so. Family has a farm in [Green Orchard](../../Locations/Green%20Orchard.md). Has mentioned having private tutors. Capitalist. From the Oore family.
 
 #### Family
 
 - Fredrick (younger brother)
 - Ellie (younger sister)
 - Lillith (mother)
-- Aildinim (father)
+- [Aildinim Oore](../NPCs/Aildinim%20Oore.md) (father)
 - [Rabbit](../../Religion/Pantheon%20I/Rabbit.md) (paternal grandmother)
 
 #### Fun Quotes
