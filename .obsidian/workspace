@@ -7,11 +7,8 @@
         "id": "fbd548c2052cd757",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Notes/Characters/NPCs/Quinn Feldspar.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         },
         "group": "24d822d7f982ad16"
       },
@@ -19,11 +16,8 @@
         "id": "7cfdd3261eaa4cb1",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Notes/Characters/NPCs/Quinn Feldspar.md",
-            "mode": "preview"
-          }
+          "type": "empty",
+          "state": {}
         },
         "group": "24d822d7f982ad16"
       }
@@ -80,9 +74,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notes/Characters/NPCs/Quinn Feldspar.md"
-              }
+              "state": {}
             }
           },
           {
@@ -91,7 +83,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Characters/NPCs/Quinn Feldspar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +102,7 @@
   },
   "active": "fbd548c2052cd757",
   "lastOpenFiles": [
+    "Notes/Characters/NPCs/Unferth.md",
     "Notes/Characters/NPCs/Quinn Feldspar.md",
     "Notes/Characters/NPCs/Alberic.md",
     "Notes/Characters/NPCs/Aildinim Oore.md",
@@ -119,7 +111,6 @@
     "Notes/Characters/PCs/Alphonse Steele.md",
     "Notes/Characters/NPCs/Roland Hunter.md",
     "Notes/Characters/NPCs/Demerara.md",
-    "Notes/Adventure Log.md",
-    "Notes/Characters/PCs/Quentin Thexius.md"
+    "Notes/Adventure Log.md"
   ]
 }
