@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Religion/Pantheons.md",
+            "file": "Notes/Characters/NPCs/Quinn Feldspar.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Religion/Pantheons.md",
+            "file": "Notes/Characters/NPCs/Quinn Feldspar.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Religion/Pantheons.md"
+                "file": "Notes/Characters/NPCs/Quinn Feldspar.md"
               }
             }
           },
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Religion/Pantheons.md",
+                "file": "Notes/Characters/NPCs/Quinn Feldspar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,15 +111,15 @@
   },
   "active": "fbd548c2052cd757",
   "lastOpenFiles": [
-    "Notes/Religion/Pantheons.md",
+    "Notes/Characters/NPCs/Quinn Feldspar.md",
+    "Notes/Characters/NPCs/Alberic.md",
     "Notes/Characters/NPCs/Aildinim Oore.md",
+    "Notes/Locations/Green Orchard.md",
+    "Notes/Religion/Pantheons.md",
     "Notes/Characters/PCs/Alphonse Steele.md",
     "Notes/Characters/NPCs/Roland Hunter.md",
     "Notes/Characters/NPCs/Demerara.md",
     "Notes/Adventure Log.md",
-    "Notes/Characters/PCs/Quentin Thexius.md",
-    "Notes/Characters/NPCs/Nav Liao.md",
-    "Notes/Characters/NPCs/Maria.md",
-    "Notes/Characters/NPCs/Quill.md"
+    "Notes/Characters/PCs/Quentin Thexius.md"
   ]
 }
