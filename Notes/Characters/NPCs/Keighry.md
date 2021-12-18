@@ -1,12 +1,12 @@
->## Jerry 🐴👻
+>## Keighry 🐴
 
-### Location: Heaven 🙏
+### Location: Wherever we are
 
 ### Do we like them: Yes ❤️ 
 
 ***
 
-![jerry](../../../Templates/images/jerry.jpg "our beloved jerry may you rest in peace")
+![jerry](../../../Templates/images/jerry.jpg "NOT JERRY - THIS IS KEIGHRY")
 
 ***
 
