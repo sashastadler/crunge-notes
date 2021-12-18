@@ -1,5 +1,5 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "path:Notes",
   "showTags": false,
   "showAttachments": false,
@@ -62,6 +62,13 @@
         "a": 1,
         "rgb": 61183
       }
+    },
+    {
+      "query": "file:Keighry",
+      "color": {
+        "a": 1,
+        "rgb": 5910806
+      }
     }
   ],
   "collapse-display": true,
@@ -74,6 +81,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 251,
-  "scale": 0.2726859917360116,
+  "scale": 0.2726859917360123,
   "close": true
 }

@@ -31,7 +31,10 @@
 - [Scientii](Pantheon%20III/Scientii.md)
 - [Luma](Pantheon%20III/Luma.md)
 - [Ferrus](Pantheon%20III/Ferrus.md)
-- 
+- [Bella](Pantheon%20III/Bella.md)
+- [Dola](Pantheon%20III/Dola.md)
+- [Mortis](Pantheon%20III/Mortis.md)
+- [The Lawbreaker](Pantheon%20III/The%20Lawbreaker.md)
 
 ### Pantheon IV: The Forgotten
 
