@@ -8,4 +8,4 @@
 
 ### Details
 
-"godric bit it". mentioned in passing
+"godric bit it". Mentioned in passing by [Percival Rosa](Percival%20Rosa.md) during Session 27. No other info.
