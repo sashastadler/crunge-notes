@@ -20,7 +20,8 @@ One of them has a blacksmith and the now-deaceased hat shop owner.
 
 #### Northern Caves
 
-A cave system created (?) by [Ajax](../Characters/NPCs/Ajax.md) for a hideout. Has many traps. Visited during Sessions 24-26.
+A cave system created (?) by [Ajax](../Characters/NPCs/Ajax.md) for a hideout. Has many traps such as bear traps and tripwires. Has many rooms including a prison cell in the center. The largest room - the farthest from the entrance - has a river flowing through it. 
+Visited by party during Sessions 24-26.
 
 ### Notable people
 
