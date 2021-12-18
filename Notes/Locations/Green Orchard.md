@@ -1,5 +1,7 @@
 >## Green Orchard
 
+### Country: Gardena
+
 ### Details
 
 A village. Where the adventure began. When it was a bigger town, it had tributary villages. It has now gone to shit, but the surrounding villages are still counted as Green Orchard.

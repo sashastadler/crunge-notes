@@ -1,9 +1,17 @@
 >## Obol
 
-#### Details
+### Details
 
 Obol was founded by dragons. Main language is Draconic. Functions off of a system of gildas - a numerical value placed on a person based off different factors (wealth, status, etc). Some sort of slave trade going on there.
 
-#### Notable people
+### Cities
+
+- Roi du Ciel
+- Siege Richesse
+- D'Argent
+- D'Or
+- De Cuivre
+
+### Notable people
 
 - [Alphonse Steele](../Characters/PCs/Alphonse%20Steele.md)

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Locations/Green Orchard.md",
+            "file": "Notes/Religion/Pantheon III/Bella.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Locations/Green Orchard.md",
+            "file": "Notes/Religion/Pantheon III/Bella.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Locations/Green Orchard.md"
+                "file": "Notes/Religion/Pantheon III/Bella.md"
               }
             }
           },
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Locations/Green Orchard.md",
+                "file": "Notes/Religion/Pantheon III/Bella.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,15 +111,15 @@
   },
   "active": "b9dbb5daeb1d97c5",
   "lastOpenFiles": [
-    "Notes/Locations/Green Orchard.md",
-    "Notes/Adventure Log.md",
-    "Notes/Characters/NPCs/Keighry.md",
-    "Notes/Characters/NPCs/Jerry.md",
-    "Notes/Characters/NPCs/Rodani.md",
-    "Notes/Characters/NPCs/Quinn Feldspar.md",
-    "Notes/Characters/NPCs/Quill.md",
-    "Notes/Characters/NPCs/Demerara.md",
-    "Notes/Characters/NPCs/Unferth.md",
-    "Notes/Characters/NPCs/Alberic.md"
+    "Notes/Religion/Pantheon III/Bella.md",
+    "Notes/Religion/Pantheon III/Ferrus.md",
+    "Notes/Religion/Pantheon III/Luma.md",
+    "Notes/Religion/Pantheon III/Floris.md",
+    "Notes/Religion/Pantheon III/Cvstodivs.md",
+    "Notes/Religion/Pantheon III/Vitae.md",
+    "Notes/Locations/Yonkers.md",
+    "Notes/Locations/Obol.md",
+    "Templates/location template.md",
+    "Notes/Locations/King's Call.md"
   ]
 }

@@ -1,5 +1,7 @@
 >## King's Call
 
+### Country: Gardena
+
 ### Details
 
 Big city split into 3 tiers.
