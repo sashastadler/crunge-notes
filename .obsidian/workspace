@@ -9,23 +9,10 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Religion/Pantheon III/Bella.md",
+            "file": "Notes/Characters/NPCs/Godric.md",
             "mode": "source"
           }
-        },
-        "group": "272af7a603950e99"
-      },
-      {
-        "id": "12c827af493eb68f",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Notes/Religion/Pantheon III/Bella.md",
-            "mode": "preview"
-          }
-        },
-        "group": "272af7a603950e99"
+        }
       }
     ],
     "direction": "vertical"
@@ -81,7 +68,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Religion/Pantheon III/Bella.md"
+                "file": "Notes/Characters/NPCs/Godric.md"
               }
             }
           },
@@ -91,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Religion/Pantheon III/Bella.md",
+                "file": "Notes/Characters/NPCs/Godric.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,15 +98,15 @@
   },
   "active": "b9dbb5daeb1d97c5",
   "lastOpenFiles": [
-    "Notes/Religion/Pantheon III/Bella.md",
-    "Notes/Religion/Pantheon III/Ferrus.md",
-    "Notes/Religion/Pantheon III/Luma.md",
-    "Notes/Religion/Pantheon III/Floris.md",
-    "Notes/Religion/Pantheon III/Cvstodivs.md",
+    "Notes/Characters/NPCs/Godric.md",
+    "Notes/Religion/Pantheons.md",
+    "Notes/Religion/Pantheon III/Scientii.md",
+    "Notes/Religion/Pantheon III/The Lawbreaker.md",
     "Notes/Religion/Pantheon III/Vitae.md",
-    "Notes/Locations/Yonkers.md",
-    "Notes/Locations/Obol.md",
-    "Templates/location template.md",
-    "Notes/Locations/King's Call.md"
+    "Notes/Religion/Pantheon III/Bella.md",
+    "Notes/Religion/Pantheon III/Cvstodivs.md",
+    "Notes/Religion/Pantheon III/Dola.md",
+    "Notes/Religion/Pantheon III/Ferrus.md",
+    "Notes/Religion/Pantheon III/Floris.md"
   ]
 }

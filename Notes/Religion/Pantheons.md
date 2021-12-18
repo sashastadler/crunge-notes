@@ -25,6 +25,12 @@
 
 ### Pantheon III: The Church of Miseries
 
+- [Cvstodivs](Pantheon%20III/Cvstodivs.md)
+- [Vitae](Pantheon%20III/Vitae.md)
+- [Floris](Pantheon%20III/Floris.md)
+- [Scientii](Pantheon%20III/Scientii.md)
+- 
+
 ### Pantheon IV: The Forgotten
 
 - [Odin](Pantheon%20IV/Odin.md)
