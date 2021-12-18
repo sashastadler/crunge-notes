@@ -1,25 +1,15 @@
 {
   "main": {
-    "id": "ba89aee1ed56d448",
+    "id": "57b8ec4af7b3e6b2",
     "type": "split",
     "children": [
       {
-        "id": "fbd548c2052cd757",
+        "id": "b9dbb5daeb1d97c5",
         "type": "leaf",
         "state": {
           "type": "empty",
           "state": {}
-        },
-        "group": "24d822d7f982ad16"
-      },
-      {
-        "id": "7cfdd3261eaa4cb1",
-        "type": "leaf",
-        "state": {
-          "type": "empty",
-          "state": {}
-        },
-        "group": "24d822d7f982ad16"
+        }
       }
     ],
     "direction": "vertical"
@@ -100,7 +90,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "fbd548c2052cd757",
+  "active": "b9dbb5daeb1d97c5",
   "lastOpenFiles": [
     "Notes/Characters/NPCs/Unferth.md",
     "Notes/Characters/NPCs/Quinn Feldspar.md",
