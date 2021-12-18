@@ -8,7 +8,7 @@
 
 #### Information
 
-Originally very rich and from [Obol](../../Locations/Obol.md), but no longer so. Family has a farm in [Green Orchard](../../Locations/Green%20Orchard.md). Has mentioned having private tutors. Capitalist. From the Oore family. Was thought to be dead? (source: [Percival Rosa](../NPCs/Percival%20Rosa.md)).
+Originally very rich and from [Obol](../../Locations/Obol.md), but no longer so. Family has a farm in [Green Orchard](../../Locations/Green%20Orchard.md). Has mentioned having private tutors. Capitalist. From the Oore family. Was thought to be dead? (source: [Percival Rosa](../NPCs/Percival%20Rosa.md)). Knows a bit about drugs.
 
 #### Family
 
