@@ -34,5 +34,9 @@ The group reconvenes and goes through the cave, finding [Ajax](Characters/NPCs/A
 
 ### Dec 12, 2021 - Session 26
 
+The crew tries to fight their way through the caves again, succeeding this time and killing [Ajax](Characters/NPCs/Ajax.md). However, he had sent two people out, who ended up informing the townsfolk about [Alphonse's](Characters/PCs/Alphonse%20Steele.md) family background. We returned to [Green Orchard](Locations/Green%20Orchard.md) and the crew formally meets Alphonse's family. The crew has some drinks.
+We decide to go to [Obol](Locations/Obol.md).
+
+### Dec 18, 2021 - Session 27
 
 
