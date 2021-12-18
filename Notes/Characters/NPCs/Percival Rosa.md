@@ -9,4 +9,3 @@
 ### Details
 
 Son in law of the ?? family (might be known by alphonse). [Gorok](Gorok.md) is his bodyguard. Sounds French. Seems like a silly guy.
-

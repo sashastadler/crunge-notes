@@ -38,4 +38,7 @@ The crew tries to fight their way through the caves again, succeeding this time 
 
 ### Dec 18, 2021 - Session 27
 
-After waking up, the crew purchases a draft horse - [Keighry](Characters/NPCs/Keighry.md) - and a cart and prepare to depart for [Obol](Locations/Obol.md).
+After waking up, the crew purchases a draft horse - [Keighry](Characters/NPCs/Keighry.md) - and a cart and prepare to depart for [Obol](Locations/Obol.md). 
+We passed by [King's Call](Locations/King's%20Call.md) and moved on to [Souhold](Locations/Souhold.md). 
+
+Decided to spend a night there. Met [Gorok](Characters/NPCs/Gorok.md) and [Percival Rosa](Characters/NPCs/Percival%20Rosa.md), the latter of which recognized Alphonse. 

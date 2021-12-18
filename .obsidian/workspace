@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Characters/NPCs/Gorok.md",
+            "file": "Notes/Adventure Log.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Characters/NPCs/Gorok.md",
+            "file": "Notes/Adventure Log.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Characters/NPCs/Gorok.md"
+                "file": "Notes/Adventure Log.md"
               }
             }
           },
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Characters/NPCs/Gorok.md",
+                "file": "Notes/Adventure Log.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,15 +111,15 @@
   },
   "active": "b9dbb5daeb1d97c5",
   "lastOpenFiles": [
-    "Notes/Characters/NPCs/Gorok.md",
+    "Notes/Adventure Log.md",
     "Templates/npc template.md",
     "Notes/Characters/NPCs/Percival Rosa.md",
+    "Notes/Characters/PCs/Alphonse Steele.md",
+    "Notes/Characters/NPCs/Gorok.md",
     "Notes/Characters/NPCs/Godric.md",
     "Notes/Religion/Pantheons.md",
     "Notes/Locations/Souhold.md",
-    "Notes/Adventure Log.md",
     "Notes/Characters/NPCs/Alberic.md",
-    "Notes/Characters/NPCs/Aildinim Oore.md",
-    "Notes/Locations/Green Orchard.md"
+    "Notes/Characters/NPCs/Aildinim Oore.md"
   ]
 }
