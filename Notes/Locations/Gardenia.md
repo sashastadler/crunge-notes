@@ -2,7 +2,7 @@
 
 ### Details
 
-Country
+Country. Lush greenery.
 
 ### Cities
 

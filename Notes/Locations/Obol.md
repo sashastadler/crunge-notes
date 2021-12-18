@@ -4,6 +4,8 @@
 
 Obol was founded by dragons. Main language is Draconic. Functions off of a system of gildas - a numerical value placed on a person based off different factors (wealth, status, etc). Some sort of slave trade going on there.
 
+Dry grassland. Has nice roads.
+
 ### Cities
 
 - Roi du Ciel
