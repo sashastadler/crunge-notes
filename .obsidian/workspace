@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Characters/NPCs/Godric.md",
+            "file": "Notes/Religion/Pantheons.md",
             "mode": "source"
           }
         }
@@ -52,7 +52,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "be4118804d43a740",
@@ -68,7 +69,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Characters/NPCs/Godric.md"
+                "file": "Notes/Religion/Pantheons.md"
               }
             }
           },
@@ -78,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Characters/NPCs/Godric.md",
+                "file": "Notes/Religion/Pantheons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,15 +99,15 @@
   },
   "active": "b9dbb5daeb1d97c5",
   "lastOpenFiles": [
-    "Notes/Characters/NPCs/Godric.md",
     "Notes/Religion/Pantheons.md",
-    "Notes/Religion/Pantheon III/Scientii.md",
-    "Notes/Religion/Pantheon III/The Lawbreaker.md",
-    "Notes/Religion/Pantheon III/Vitae.md",
-    "Notes/Religion/Pantheon III/Bella.md",
-    "Notes/Religion/Pantheon III/Cvstodivs.md",
-    "Notes/Religion/Pantheon III/Dola.md",
-    "Notes/Religion/Pantheon III/Ferrus.md",
-    "Notes/Religion/Pantheon III/Floris.md"
+    "Notes/Locations/Souhold.md",
+    "Notes/Adventure Log.md",
+    "Notes/Characters/NPCs/Alberic.md",
+    "Notes/Characters/NPCs/Aildinim Oore.md",
+    "Notes/Locations/Green Orchard.md",
+    "Notes/Characters/PCs/Alphonse Steele.md",
+    "Notes/Locations/King's Call.md",
+    "Notes/Characters/NPCs/Godric.md",
+    "Notes/Religion/Pantheon III/Scientii.md"
   ]
 }

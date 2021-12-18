@@ -4,7 +4,7 @@
 
 ### Details
 
-A village. Where the adventure began. When it was a bigger town, it had tributary villages. It has now gone to shit, but the surrounding villages are still counted as Green Orchard.
+A village. Where the adventure began. When it was a bigger town, it had tributary villages. It has now gone to shit, but the surrounding villages are still counted as Green Orchard. 4 day journey to [King's Call](King's%20Call.md).
 
 #### The Silver Star
 

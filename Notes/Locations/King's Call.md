@@ -4,7 +4,10 @@
 
 ### Details
 
-Big city split into 3 tiers.
+Big city split into 3 tiers. 
+
+4 days journey to [Green Orchard](Green%20Orchard.md). 
+3 days journey to [Souhold](Souhold.md).
 
 ***
 

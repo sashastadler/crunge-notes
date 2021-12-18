@@ -29,6 +29,8 @@
 - [Vitae](Pantheon%20III/Vitae.md)
 - [Floris](Pantheon%20III/Floris.md)
 - [Scientii](Pantheon%20III/Scientii.md)
+- [Luma](Pantheon%20III/Luma.md)
+- [Ferrus](Pantheon%20III/Ferrus.md)
 - 
 
 ### Pantheon IV: The Forgotten
