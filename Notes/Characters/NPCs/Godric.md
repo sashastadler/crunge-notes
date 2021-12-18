@@ -1,11 +1,13 @@
 >## Godric
 
-### Location:
+### Location: Unknown
 
-### Do we like them: Yes/No/Uncertain
+### Do we like them: Uncertain
 
 ***
 
 ### Details
 
-"godric bit it". Mentioned in passing by [Percival Rosa](Percival%20Rosa.md) during Session 27. No other info.
+Mentioned in passing by [Percival Rosa](Percival%20Rosa.md) during Session 27. No other info.
+
+"godric bit it"  - percival

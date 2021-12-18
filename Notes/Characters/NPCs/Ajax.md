@@ -1,6 +1,6 @@
 >## Ajax
 
-### Location: Unknown
+### Location: He's dead
 
 ### Do we like them: No
 
@@ -8,4 +8,8 @@
 
 ### Details
 
-Association with [Blythe](Blythe.md). Not much other info.
+Employed [Blythe](Blythe.md) and others to collect money from weak people. 
+
+We took his gold and other treasures.
+
+Killed in the cave during Session 26.
