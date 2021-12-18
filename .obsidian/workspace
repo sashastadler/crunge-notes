@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Adventure Log.md",
+            "file": "Notes/Locations/Obol.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Adventure Log.md",
+            "file": "Notes/Locations/Obol.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Adventure Log.md"
+                "file": "Notes/Locations/Obol.md"
               }
             }
           },
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Adventure Log.md",
+                "file": "Notes/Locations/Obol.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,8 +109,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c68c2d9ae1766041",
+  "active": "b9dbb5daeb1d97c5",
   "lastOpenFiles": [
+    "Notes/Locations/Obol.md",
     "Notes/Adventure Log.md",
     "Notes/Religion/Pantheon I/Rabbit.md",
     "Notes/Characters/PCs/Alphonse Steele.md",
@@ -119,7 +120,6 @@
     "Notes/Characters/NPCs/Dell Gondy.md",
     "Notes/Characters/NPCs/Alberic.md",
     "Notes/Characters/NPCs/Barenziah.md",
-    "Notes/Characters/NPCs/Carter.md",
-    "Notes/Characters/NPCs/Carrietta.md"
+    "Notes/Characters/NPCs/Carter.md"
   ]
 }
