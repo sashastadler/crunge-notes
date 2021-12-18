@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Adventure Log.md",
+            "file": "Notes/Locations/Green Orchard.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Adventure Log.md",
+            "file": "Notes/Locations/Green Orchard.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Adventure Log.md"
+                "file": "Notes/Locations/Green Orchard.md"
               }
             }
           },
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Adventure Log.md",
+                "file": "Notes/Locations/Green Orchard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +111,7 @@
   },
   "active": "b9dbb5daeb1d97c5",
   "lastOpenFiles": [
+    "Notes/Locations/Green Orchard.md",
     "Notes/Adventure Log.md",
     "Notes/Characters/NPCs/Keighry.md",
     "Notes/Characters/NPCs/Jerry.md",
@@ -119,7 +120,6 @@
     "Notes/Characters/NPCs/Quill.md",
     "Notes/Characters/NPCs/Demerara.md",
     "Notes/Characters/NPCs/Unferth.md",
-    "Notes/Characters/NPCs/Alberic.md",
-    "Notes/Characters/NPCs/Aildinim Oore.md"
+    "Notes/Characters/NPCs/Alberic.md"
   ]
 }
