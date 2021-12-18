@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Adventure Log.md",
-            "mode": "preview"
+            "file": "Notes/Characters/NPCs/Rodani.md",
+            "mode": "source"
           }
         },
         "group": "272af7a603950e99"
@@ -21,8 +21,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Adventure Log.md",
-            "mode": "source"
+            "file": "Notes/Characters/NPCs/Rodani.md",
+            "mode": "preview"
           }
         },
         "group": "272af7a603950e99"
@@ -81,7 +81,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Adventure Log.md"
+                "file": "Notes/Characters/NPCs/Rodani.md"
               }
             }
           },
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Adventure Log.md",
+                "file": "Notes/Characters/NPCs/Rodani.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,17 +109,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "12c827af493eb68f",
+  "active": "b9dbb5daeb1d97c5",
   "lastOpenFiles": [
+    "Notes/Characters/NPCs/Rodani.md",
+    "Notes/Characters/NPCs/Quinn Feldspar.md",
+    "Notes/Characters/NPCs/Quill.md",
+    "Notes/Characters/NPCs/Demerara.md",
     "Notes/Adventure Log.md",
     "Notes/Characters/NPCs/Unferth.md",
-    "Notes/Characters/NPCs/Quinn Feldspar.md",
     "Notes/Characters/NPCs/Alberic.md",
     "Notes/Characters/NPCs/Aildinim Oore.md",
     "Notes/Locations/Green Orchard.md",
-    "Notes/Religion/Pantheons.md",
-    "Notes/Characters/PCs/Alphonse Steele.md",
-    "Notes/Characters/NPCs/Roland Hunter.md",
-    "Notes/Characters/NPCs/Demerara.md"
+    "Notes/Religion/Pantheons.md"
   ]
 }

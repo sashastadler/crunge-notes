@@ -14,4 +14,4 @@
 
 ### Details
 
-Gay Herbalist. Brother of [Maria](Maria.md). Reads [Fredrick's](Notes/Characters/PCs/Alphonse%20Steele.md#Family) mind for fun. Works in the Herbal Shop.
+The Gay Herbalist. Brother of [Maria](Maria.md). Reads [Fredrick's](Notes/Characters/PCs/Alphonse%20Steele.md#Family) mind for fun. Works in the Herbal Shop.
