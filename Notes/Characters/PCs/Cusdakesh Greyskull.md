@@ -6,7 +6,9 @@
 
 #### Information
 
-Pirate. Captain of the Rockrose. Drinks Bumbos (pirate cocktail consisting of rum, water, sugar). His ship sank
+Pirate from the Banyan Confederacy. Wanted for piracy, murder, etc. Captain of the Rockrose. Drinks Bumbos (pirate cocktail consisting of rum, water, sugar). His ship sank around 6 months ago.
+
+Gildas: 2975 G
 
 #### Fun Quotes
 

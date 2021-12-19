@@ -8,6 +8,8 @@
 
 Lived in [Green Orchard](../../Locations/Green%20Orchard.md) with friends(?). Used to disguise herself to go to the tavern. 
 
+Gildas: 2785 G
+
 #### Fun Quotes
 
 #### Other
