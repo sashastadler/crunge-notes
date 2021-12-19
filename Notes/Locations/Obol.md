@@ -12,7 +12,7 @@ Dry grassland. Has nice roads.
 - Siege Richesse
 - D'Argent
 - D'Or
-- De Cuivre
+- [De Cuivre](De%20Cuivre.md)
 
 ### Notable people
 
