@@ -47,4 +47,4 @@ In the morning, Quentin uses the tavern's kitchen and cooks up some treats. Alhp
 
 The crew leaves Souhold and enters Obol. In [De Cuivre](Locations/De%20Cuivre.md), the crew signs a contract and gets their worth evaluated (see PC's pages for their worth in gildas).
 
-On the way to Siege Richesse, [O.T.W.M.](Characters/PCs/O.T.W.M..md) notices the group is being followed by a large bird. Everyone stops to fight the enormous bird.
+On the way to Siege Richesse, [O.T.W.M.](Characters/PCs/O.T.W.M..md) notices the group is being followed by a large bird. Everyone stops to fight the enormous bird. Cusdakesh falls 60 feet and is fine. It gets away after some fighting. 
