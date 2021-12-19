@@ -2,10 +2,10 @@
 
 ### Location: [Obol](../../Locations/Obol.md) ?
 
-### Do we like them: Uncertain
+### Do we like them: No
 
 ***
 
 ### Details
 
-? someone to do with [Alphonse Steele](../PCs/Alphonse%20Steele.md).
+Ruined [Alphonse's'](../PCs/Alphonse%20Steele.md) life. Worked for the Oore's as an accountant. Stole all their money.
