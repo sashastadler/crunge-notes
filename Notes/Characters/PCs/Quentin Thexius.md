@@ -8,7 +8,8 @@
 
 #### Information
 
-Used to be part of a church (religous sect)(church of miseries? [Pantheon III](../../Religion/Pantheons.md)) but ran away because he hated it. Performed with [Sextus Sergius](../NPCs/Sextus%20Sergius.md) for a while.
+Aasimar of [The Lawbreaker](../../Religion/Pantheon%20III/The%20Lawbreaker.md). Used to be part of a church (religous sect)(church of miseries - [Pantheon III](../../Religion/Pantheons.md)) but ran away because he hated it. Performed with [Sextus Sergius](../NPCs/Sextus%20Sergius.md) for a while.
+
 Someone named Cornelia? is important.
 
 #### Fun Quotes
