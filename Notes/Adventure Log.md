@@ -53,4 +53,4 @@ Set up camp in a cave. Some bounty hunters came by asking for Alphonse. They wer
 
 ### Jan 2, 2022 - Session 28
 
-[Lilianna](Characters/NPCs/Lilianna.md) reveals that she is (was?) engaged to [Alphonse](Characters/PCs/Alphonse%20Steele.md). 
+[Lilianna](Characters/NPCs/Lilianna.md) reveals that she is (was?) engaged to [Alphonse](Characters/PCs/Alphonse%20Steele.md). Told us to avoid [Siege Richesse](Locations/Siege%20Richesse.md) and to stick to the villages.

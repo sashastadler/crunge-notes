@@ -9,7 +9,7 @@ Dry grassland. Has nice roads.
 ### Cities
 
 - Roi du Ciel
-- Siege Richesse
+- [Siege Richesse](Siege%20Richesse.md)
 - D'Argent
 - D'Or
 - [De Cuivre](De%20Cuivre.md)
