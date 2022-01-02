@@ -43,7 +43,7 @@ We passed by [King's Call](Locations/King's%20Call.md) and moved on to [Souhold]
 
 Decided to spend a night there. Met [Gorok](Characters/NPCs/Gorok.md) and [Percival Rosa](Characters/NPCs/Percival%20Rosa.md), the latter of whom recognized Alphonse. [Quentin](Characters/PCs/Quentin%20Thexius.md) gives the performance of a lifetime.
 
-In the morning, Quentin uses the tavern's kitchen and cooks up some treats. Alhponse carves a ring that says "in promise of union" in Draconic and hangs in on his necklace in place of the one he traded away to [The Duke Delight](Characters/NPCs/Duke%20Delight.md).
+In the morning, Quentin uses the tavern's kitchen and cooks up some treats. Alphonse carves a ring that says "in promise of union" in Draconic and hangs it on his necklace in place of the one he traded away to [The Duke Delight](Characters/NPCs/Duke%20Delight.md).
 
 The crew leaves Souhold and enters Obol. In [De Cuivre](Locations/De%20Cuivre.md), the crew signs a contract and gets their worth evaluated (see PC's pages for their worth in gildas).
 

@@ -12,4 +12,4 @@
 
 ### Details
 
-Knows [Alphonse Steele](../PCs/Alphonse%20Steele.md).
+Knows [Alphonse Steele](../PCs/Alphonse%20Steele.md). An elven woman, 5.5 feet tall. Her hand, long and boack, is braided. Has a great sword. Fiancee of [Alphonse Oore](../PCs/Alphonse%20Steele.md).
