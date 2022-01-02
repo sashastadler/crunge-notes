@@ -10,6 +10,8 @@
 
 ![dell gondy 2](../../../Templates/images/npc-dell-gondy-2.png "catgirl 2.0")
 
+![dell gondy 3](../../../Templates/images/npc-dell-gondy-2.png "catgirl 2.0")
+
 ***
 
 ### Details
