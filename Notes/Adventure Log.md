@@ -48,3 +48,9 @@ In the morning, Quentin uses the tavern's kitchen and cooks up some treats. Alph
 The crew leaves Souhold and enters Obol. In [De Cuivre](Locations/De%20Cuivre.md), the crew signs a contract and gets their worth evaluated (see PC's pages for their worth in gildas).
 
 On the way to Siege Richesse, [O.T.W.M.](Characters/PCs/O.T.W.M..md) notices the group is being followed by a large bird. Everyone stops to fight the enormous bird. Cusdakesh falls 60 feet and is fine. It gets away after some fighting. 
+
+Set up camp in a cave. Some bounty hunters came by asking for Alphonse. They were killed by [Lilianna](Characters/NPCs/Lilianna.md).
+
+### Jan 2, 2022 - Session 28
+
+[Lilianna](Characters/NPCs/Lilianna.md) reveals that she is (was?) engaged to [Alphonse](Characters/PCs/Alphonse%20Steele.md). 
