@@ -55,6 +55,6 @@ Set up camp in a cave. Some bounty hunters came by asking for Alphonse. They wer
 
 [Lilianna](Characters/NPCs/Lilianna.md) reveals that she is (was?) engaged to [Alphonse](Characters/PCs/Alphonse%20Steele.md). Told us to avoid [Siege Richesse](Locations/Siege%20Richesse.md) and to stick to the villages. (we wont do that)
 
-\[\]
+After some catching up, we sleep in the cave and continue traveling in the morning.
 
-Travel to [Siege Richesse](Locations/Siege%20Richesse.md).
+Travel to [Siege Richesse](Locations/Siege%20Richesse.md). Stop in [Basses](Locations/Basses.md) outside of Siege Richesse.

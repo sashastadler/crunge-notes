@@ -13,6 +13,7 @@ Dry grassland. Has nice roads.
 - D'Argent
 - D'Or
 - [De Cuivre](De%20Cuivre.md)
+- [Basses](Basses.md)
 
 ### Notable people
 
