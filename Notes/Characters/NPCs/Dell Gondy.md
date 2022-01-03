@@ -16,4 +16,4 @@
 
 ### Details
 
-Friends (? relationship unknown) with [[Quinn Feldspar]]. Was imprisoned in the [Duke Delight's](Duke%20Delight.md) dungeon until we freed her.
+Friends (? relationship unknown) with [[Quinn Feldspar]]. Was imprisoned in the [Duke Delight's](Duke%20Delight.md) dungeon until we freed her. Bi.

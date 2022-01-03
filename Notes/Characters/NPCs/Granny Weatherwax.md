@@ -8,4 +8,4 @@
 
 ### Details
 
-Member of the [Witch's Coven](../../Organizations/Witch's%20Coven.md).
+Member of the [Witch's Coven](../../Organizations/Witch's%20Coven.md). Aroace.
