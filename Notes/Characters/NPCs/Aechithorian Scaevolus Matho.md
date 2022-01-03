@@ -8,6 +8,8 @@
 
 ![npc-matho](../../../Templates/images/npc-matho.png)
 
+![npc-matho-2](../../../Templates/images/npc-matho-2.png)
+
 ***
 
 ### Details

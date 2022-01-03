@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Religion/Pantheon II/The Unending Seeker.md",
+            "file": "Notes/Characters/PCs/Quentin Thexius.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Religion/Pantheon II/The Unending Seeker.md",
+            "file": "Notes/Characters/PCs/Quentin Thexius.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Religion/Pantheon II/The Unending Seeker.md"
+                "file": "Notes/Characters/PCs/Quentin Thexius.md"
               }
             }
           },
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Religion/Pantheon II/The Unending Seeker.md",
+                "file": "Notes/Characters/PCs/Quentin Thexius.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,8 +109,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c68c2d9ae1766041",
+  "active": "b9dbb5daeb1d97c5",
   "lastOpenFiles": [
+    "Notes/Characters/PCs/Quentin Thexius.md",
+    "Notes/Characters/NPCs/Aechithorian Scaevolus Matho.md",
     "Notes/Religion/Pantheon II/The Unending Seeker.md",
     "Notes/Religion/Pantheon II/The Penitent of Iron.md",
     "Notes/Religion/Pantheon II/The Ghost of the Storm.md",
@@ -118,8 +120,6 @@
     "Notes/Religion/Pantheon II/Old Alba.md",
     "Notes/Religion/Pantheon II/Old Atter.md",
     "Notes/Religion/Pantheon II/Cuo.md",
-    "Notes/Religion/Pantheon II/Impera.md",
-    "Notes/Characters/NPCs/Yahseh.md",
-    "Notes/Characters/PCs/O.T.W.M..md"
+    "Notes/Religion/Pantheon II/Impera.md"
   ]
 }
