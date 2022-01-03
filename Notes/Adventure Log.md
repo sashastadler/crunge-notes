@@ -57,4 +57,4 @@ Set up camp in a cave. Some bounty hunters came by asking for Alphonse. They wer
 
 After some catching up, we sleep in the cave and continue traveling in the morning.
 
-Travel to [Siege Richesse](Locations/Siege%20Richesse.md). Stop in [Basses](Locations/Basses.md) outside of Siege Richesse.
+Travel to [Siege Richesse](Locations/Siege%20Richesse.md). Stop in [Basses](Locations/Basses.md) outside of Siege Richesse. We get rooms in Zira's and drink alcohol. Everyone bathes.
