@@ -23,3 +23,5 @@ Like all the Ancients Ascendant, the Penitent is said to have once been mortal. 
 ***
 
 #### Known Worshippers
+
+- [O.T.W.M.](../../Characters/PCs/O.T.W.M..md)

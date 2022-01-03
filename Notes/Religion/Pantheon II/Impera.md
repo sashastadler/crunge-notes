@@ -14,7 +14,7 @@ Neutral Evil
 
 #### Symbol
 
-A gold-fanged grin
+A gold-fanged grin. Usually just the canines are sharpened.
 
 ***
 
