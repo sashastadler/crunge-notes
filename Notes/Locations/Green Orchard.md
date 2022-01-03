@@ -8,7 +8,7 @@ A village. Where the adventure began. When it was a bigger town, it had tributar
 
 #### The Silver Star
 
-Tavern owned by [Alberic](../Characters/NPCs/Alberic.md). [Maria](../Characters/NPCs/Maria.md) also works there.
+Tavern owned by [Alberic](../Characters/NPCs/Alberic.md). [Maria Castellan](../Characters/NPCs/Maria%20Castellan.md) also works there.
 
 #### Tower
 
@@ -29,4 +29,4 @@ Visited by party during Sessions 24-26.
 - [Alberic](../Characters/NPCs/Alberic.md)
 - [Demerara](../Characters/NPCs/Demerara.md)
 - [Dell Gondy](../Characters/NPCs/Dell%20Gondy.md)
-- [Maria](../Characters/NPCs/Maria.md)
+- [Maria Castellan](../Characters/NPCs/Maria%20Castellan.md)
