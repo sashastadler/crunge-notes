@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Characters/NPCs/Yahseh.md",
+            "file": "Notes/Religion/Pantheon II/The Unending Seeker.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Characters/NPCs/Yahseh.md",
+            "file": "Notes/Religion/Pantheon II/The Unending Seeker.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Characters/NPCs/Yahseh.md"
+                "file": "Notes/Religion/Pantheon II/The Unending Seeker.md"
               }
             }
           },
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Characters/NPCs/Yahseh.md",
+                "file": "Notes/Religion/Pantheon II/The Unending Seeker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,17 +109,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b9dbb5daeb1d97c5",
+  "active": "c68c2d9ae1766041",
   "lastOpenFiles": [
-    "Notes/Characters/NPCs/Yahseh.md",
-    "Notes/Characters/PCs/O.T.W.M..md",
-    "Notes/Religion/Pantheon II/Impera.md",
+    "Notes/Religion/Pantheon II/The Unending Seeker.md",
     "Notes/Religion/Pantheon II/The Penitent of Iron.md",
-    "Notes/Characters/NPCs/Roland Hunter.md",
-    "Notes/Characters/NPCs/Dell Gondy.md",
-    "Notes/Characters/NPCs/Granny Weatherwax.md",
-    "Notes/Adventure Log.md",
+    "Notes/Religion/Pantheon II/The Ghost of the Storm.md",
+    "Notes/Religion/Pantheon II/The Errant Grovetender.md",
     "Notes/Religion/Pantheon II/Old Alba.md",
-    "Notes/Characters/PCs/Alphonse Steele.md"
+    "Notes/Religion/Pantheon II/Old Atter.md",
+    "Notes/Religion/Pantheon II/Cuo.md",
+    "Notes/Religion/Pantheon II/Impera.md",
+    "Notes/Characters/NPCs/Yahseh.md",
+    "Notes/Characters/PCs/O.T.W.M..md"
   ]
 }
