@@ -11,4 +11,4 @@
 There is a beast plaguing the town, killing farmer's animals.
 [Orson](../Characters/NPCs/Orson.md) is the newest signature on the list. 
 Southwest corner of the town - Windmill Farm was the most recent attack.
-No tracks from the farm. Animals rotting. Rotting animals in the forest too.
+No tracks from the farm. Animals rotting. Rotting animals outside the farm too.
