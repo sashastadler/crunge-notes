@@ -67,4 +67,4 @@ Hear about some beast attacks that a bounty is being collected for. Met [Yahseh]
  
  The crew gets information about [Orson](Characters/NPCs/Orson.md) from the barkeep at Zira's and heads to his farm. Met Orson and saw the killed animals - they are rotting.
  
- Head back into town and visit a clothing store run by [[Mary]] where they purchase some nice clothes. 
+ Head back into town and visit a clothing store run by [[Mary]] where they purchase some nice clothes. Next they head to [Tia's Materium](Locations/Basses.md#Tia's%20Materium) with some squirrels.
