@@ -66,3 +66,5 @@ Hear about some beast attacks that a bounty is being collected for. Met [Yahseh]
  The crew wakes up after the night and [Quentin](Characters/PCs/Quentin%20Thexius.md) makes some cookies. [Alphonse](Characters/PCs/Alphonse%20Steele.md) find a flyer for a bounty on the [Night Terror](Quests/Night%20Terror%20in%20Basses.md).
  
  The crew gets information about [Orson](Characters/NPCs/Orson.md) from the barkeep at Zira's and heads to his farm. Met Orson and saw the killed animals - they are rotting.
+ 
+ Head back into town and visit a clothing store run by [[Mary]] where they purchase some nice clothes. 
