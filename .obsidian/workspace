@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Locations/King's Call.md",
+            "file": "Notes/Quests/Unnamed.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Locations/King's Call.md",
+            "file": "Notes/Quests/Unnamed.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Locations/King's Call.md"
+                "file": "Notes/Quests/Unnamed.md"
               }
             }
           },
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Locations/King's Call.md",
+                "file": "Notes/Quests/Unnamed.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,17 +109,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c68c2d9ae1766041",
+  "active": "b9dbb5daeb1d97c5",
   "lastOpenFiles": [
-    "Notes/Locations/King's Call.md",
-    "Notes/Adventure Log.md",
-    "Notes/Quests/Blythe Begone.md",
-    "Notes/Characters/PCs/Cusdakesh Greyskull.md",
+    "Notes/Quests/Unnamed.md",
+    "Notes/Characters/NPCs/Rodani.md",
+    "Notes/Characters/NPCs/Roland Hunter.md",
     "Notes/Characters/NPCs/Sextus Sergius.md",
-    "Notes/Characters/PCs/Quentin Thexius.md",
-    "Notes/Characters/PCs/Eldrid Vannar.md",
-    "Notes/Characters/NPCs/Aechithorian Scaevolus Matho.md",
-    "Notes/Characters/NPCs/Maria Castellan.md",
-    "Notes/Religion/Pantheon II/The Unending Seeker.md"
+    "Notes/Characters/NPCs/Singeir.md",
+    "Notes/Characters/NPCs/Maxwell Manderly.md",
+    "Notes/Locations/Obol.md",
+    "Notes/Characters/NPCs/Aildinim Oore.md",
+    "Notes/Characters/PCs/Alphonse Steele.md",
+    "Notes/Quests/Blythe Begone.md"
   ]
 }

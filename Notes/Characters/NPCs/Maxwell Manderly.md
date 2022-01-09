@@ -1,6 +1,6 @@
 >## Maxwell Manderly
 
-### Location: [Obol](../../Locations/Obol.md)?
+### Location: [Obol](../../Locations/Obol.md)
 
 ### Do we like them: Uncertain
 
