@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Quests/Unnamed.md",
+            "file": "Notes/Quests/Night Terror in Basses.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Quests/Unnamed.md",
+            "file": "Notes/Quests/Night Terror in Basses.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Quests/Unnamed.md"
+                "file": "Notes/Quests/Night Terror in Basses.md"
               }
             }
           },
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Quests/Unnamed.md",
+                "file": "Notes/Quests/Night Terror in Basses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,10 +111,10 @@
   },
   "active": "b9dbb5daeb1d97c5",
   "lastOpenFiles": [
-    "Notes/Quests/Unnamed.md",
     "Notes/Quests/Night Terror in Basses.md",
-    "Notes/Locations/Basses.md",
     "Notes/Adventure Log.md",
+    "Notes/Quests/Unnamed.md",
+    "Notes/Locations/Basses.md",
     "Notes/Characters/NPCs/Orson.md",
     "Notes/Characters/NPCs/Rodani.md",
     "Notes/Characters/NPCs/Roland Hunter.md",
