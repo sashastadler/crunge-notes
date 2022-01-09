@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Characters/NPCs/Maria Castellan.md",
+            "file": "Notes/Locations/King's Call.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Characters/NPCs/Maria Castellan.md",
+            "file": "Notes/Locations/King's Call.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Characters/NPCs/Maria Castellan.md"
+                "file": "Notes/Locations/King's Call.md"
               }
             }
           },
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Characters/NPCs/Maria Castellan.md",
+                "file": "Notes/Locations/King's Call.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,17 +109,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b9dbb5daeb1d97c5",
+  "active": "c68c2d9ae1766041",
   "lastOpenFiles": [
-    "Notes/Characters/NPCs/Maria Castellan.md",
+    "Notes/Locations/King's Call.md",
+    "Notes/Adventure Log.md",
+    "Notes/Quests/Blythe Begone.md",
+    "Notes/Characters/PCs/Cusdakesh Greyskull.md",
+    "Notes/Characters/NPCs/Sextus Sergius.md",
     "Notes/Characters/PCs/Quentin Thexius.md",
+    "Notes/Characters/PCs/Eldrid Vannar.md",
     "Notes/Characters/NPCs/Aechithorian Scaevolus Matho.md",
-    "Notes/Religion/Pantheon II/The Unending Seeker.md",
-    "Notes/Religion/Pantheon II/The Penitent of Iron.md",
-    "Notes/Religion/Pantheon II/The Ghost of the Storm.md",
-    "Notes/Religion/Pantheon II/The Errant Grovetender.md",
-    "Notes/Religion/Pantheon II/Old Alba.md",
-    "Notes/Religion/Pantheon II/Old Atter.md",
-    "Notes/Religion/Pantheon II/Cuo.md"
+    "Notes/Characters/NPCs/Maria Castellan.md",
+    "Notes/Religion/Pantheon II/The Unending Seeker.md"
   ]
 }
