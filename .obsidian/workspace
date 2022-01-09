@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Quests/Night Terror in Basses.md",
+            "file": "Notes/Adventure Log.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Quests/Night Terror in Basses.md",
+            "file": "Notes/Adventure Log.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Quests/Night Terror in Basses.md"
+                "file": "Notes/Adventure Log.md"
               }
             }
           },
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Quests/Night Terror in Basses.md",
+                "file": "Notes/Adventure Log.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,9 +111,9 @@
   },
   "active": "b9dbb5daeb1d97c5",
   "lastOpenFiles": [
-    "Notes/Quests/Night Terror in Basses.md",
-    "Notes/Locations/Basses.md",
     "Notes/Adventure Log.md",
+    "Notes/Locations/Basses.md",
+    "Notes/Quests/Night Terror in Basses.md",
     "Notes/Quests/Unnamed.md",
     "Notes/Characters/NPCs/Orson.md",
     "Notes/Characters/NPCs/Rodani.md",

@@ -12,4 +12,4 @@ Tavern we stayed in (Session 28) and met [Yahseh](../Characters/NPCs/Yahseh.md) 
 
 #### Tia's Materium
 
-Shop run by a dragonborn woman.
+Apothecary run by a dragonborn woman.
