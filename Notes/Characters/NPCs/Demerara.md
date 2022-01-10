@@ -10,6 +10,8 @@
 
 ![demerara](../../../Templates/images/npc-demerara-bandage.png "demerara even hotter")
 
+![demerara](../../../Templates/images/npc-demerara-3.png "demerara yassified")
+
 ***
 
 ### Details
