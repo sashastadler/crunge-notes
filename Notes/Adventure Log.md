@@ -59,7 +59,7 @@ After some catching up, we sleep in the cave and continue traveling in the morni
 
 Travel to [Siege Richesse](Locations/Siege%20Richesse.md). Stop in [Basses](Locations/Basses.md) outside of Siege Richesse. We get rooms in Zira's and drink alcohol. Everyone bathes.
 
-Hear about some beast attacks that a bounty is being collected for. Met [Yahseh](Characters/NPCs/Yahseh.md) and got high with him ([O.T.W.M.](Characters/PCs/O.T.W.M..md), [Alphonse](Characters/PCs/Alphonse%20Steele.md), [Eugine](Characters/PCs/Eugine%20Brawnanvil.md)).
+Hear about some beast attacks that a bounty is being collected for. Met [Yahseh an-Nasira](Characters/NPCs/Yahseh%20an-Nasira.md) and got high with him ([O.T.W.M.](Characters/PCs/O.T.W.M..md), [Alphonse](Characters/PCs/Alphonse%20Steele.md), [Eugine](Characters/PCs/Eugine%20Brawnanvil.md)).
 
  ### Jan 9, 2022 - Session 29
  

@@ -8,7 +8,7 @@ Small village outside of [Siege Richesse](Siege%20Richesse.md). Plagues by a bea
 
 #### Zira's Tavern
 
-Tavern we stayed in (Session 28) and met [Yahseh](../Characters/NPCs/Yahseh.md) there. 
+Tavern we stayed in (Session 28) and met [Yahseh an-Nasira](../Characters/NPCs/Yahseh%20an-Nasira.md) there. 
 
 #### Tia's Materium
 

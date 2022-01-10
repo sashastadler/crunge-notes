@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Characters/NPCs/Yahseh.md",
+            "file": "Notes/Adventure Log.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Characters/NPCs/Yahseh.md",
+            "file": "Notes/Adventure Log.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Characters/NPCs/Yahseh.md"
+                "file": "Notes/Adventure Log.md"
               }
             }
           },
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Characters/NPCs/Yahseh.md",
+                "file": "Notes/Adventure Log.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,15 +111,15 @@
   },
   "active": "b9dbb5daeb1d97c5",
   "lastOpenFiles": [
-    "Notes/Characters/NPCs/Yahseh.md",
     "Notes/Adventure Log.md",
+    "Notes/Characters/NPCs/Yahseh an-Nasira.md",
+    "Notes/Characters/NPCs/Quinn Feldspar.md",
     "Notes/Characters/NPCs/Maxwell Manderly.md",
     "Notes/Quests/Night Terror in Basses.md",
     "Notes/Quests/Unnamed.md",
     "Notes/Locations/Basses.md",
     "Notes/Characters/NPCs/Orson.md",
     "Notes/Characters/NPCs/Rodani.md",
-    "Notes/Characters/NPCs/Roland Hunter.md",
-    "Notes/Characters/NPCs/Sextus Sergius.md"
+    "Notes/Characters/NPCs/Roland Hunter.md"
   ]
 }

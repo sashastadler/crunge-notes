@@ -1,8 +1,12 @@
->## Yahseh
+>## Yahseh an-Nasira
 
 ### Location: [Basses](../../Locations/Basses.md)
 
 ### Do we like them: Uncertain
+
+***
+
+![yahseh](../../../Templates/images/npc-yahseh.png "wolf guy")
 
 ***
 
