@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mary-Yewande.md",
+            "file": "Notes/Adventure Log.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mary-Yewande.md",
+            "file": "Notes/Adventure Log.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mary-Yewande.md"
+                "file": "Notes/Adventure Log.md"
               }
             }
           },
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mary-Yewande.md",
+                "file": "Notes/Adventure Log.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,8 +111,8 @@
   },
   "active": "b9dbb5daeb1d97c5",
   "lastOpenFiles": [
-    "Mary-Yewande.md",
     "Notes/Adventure Log.md",
+    "Mary-Yewande.md",
     "Notes/Locations/Basses.md",
     "Notes/Characters/NPCs/Demerara.md",
     "Notes/Characters/NPCs/Duke Delight.md",
