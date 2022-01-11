@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Adventure Log.md",
+            "file": "Notes/Characters/NPCs/Ajax.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Adventure Log.md",
+            "file": "Notes/Characters/NPCs/Ajax.md",
             "mode": "preview"
           }
         },
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "session",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +61,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -81,7 +82,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Adventure Log.md"
+                "file": "Notes/Characters/NPCs/Ajax.md"
               }
             }
           },
@@ -91,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Adventure Log.md",
+                "file": "Notes/Characters/NPCs/Ajax.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,15 +112,15 @@
   },
   "active": "b9dbb5daeb1d97c5",
   "lastOpenFiles": [
+    "Notes/Characters/NPCs/Ajax.md",
     "Notes/Adventure Log.md",
-    "Mary-Yewande.md",
+    "Notes/Characters/NPCs/Aechithorian Scaevolus Matho.md",
+    "Notes/Characters/NPCs/Blythe.md",
+    "Notes/Characters/NPCs/Borzoi.md",
+    "Notes/Characters/NPCs/Mary-Yewande.md",
+    "Notes/Characters/NPCs/Marquis Viol.md",
     "Notes/Locations/Basses.md",
     "Notes/Characters/NPCs/Demerara.md",
-    "Notes/Characters/NPCs/Duke Delight.md",
-    "Notes/Characters/NPCs/Orson.md",
-    "Notes/Characters/NPCs/Yahseh an-Nasira.md",
-    "Notes/Characters/NPCs/Quinn Feldspar.md",
-    "Notes/Characters/NPCs/Maxwell Manderly.md",
-    "Notes/Quests/Night Terror in Basses.md"
+    "Notes/Characters/NPCs/Duke Delight.md"
   ]
 }
