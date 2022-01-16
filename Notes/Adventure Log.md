@@ -73,4 +73,6 @@ Hear about some beast attacks that a bounty is being collected for. Met [Yahseh 
  
  ### Jan 16, 2022 - Session 30
  
-The crew travels back to [Basses](Locations/Basses.md)
+The crew travels back to [Basses](Locations/Basses.md). Decides to help [Yewande](Characters/NPCs/Mary-Yewande.md).
+
+They head into the forest and go hunting then create a holy area.
