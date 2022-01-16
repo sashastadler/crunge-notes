@@ -7,11 +7,8 @@
         "id": "b9dbb5daeb1d97c5",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Notes/Characters/NPCs/Mary-Yewande.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         },
         "group": "e3057da5109060be"
       },
@@ -21,7 +18,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Characters/NPCs/Mary-Yewande.md",
+            "file": "Notes/Characters/PCs/Quentin Thexius.md",
             "mode": "preview"
           }
         },
@@ -80,9 +77,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notes/Characters/NPCs/Mary-Yewande.md"
-              }
+              "state": {}
             }
           },
           {
@@ -91,7 +86,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Characters/NPCs/Mary-Yewande.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +105,8 @@
   },
   "active": "b9dbb5daeb1d97c5",
   "lastOpenFiles": [
+    "Notes/Characters/PCs/Quentin Thexius.md",
+    "Notes/Characters/PCs/O.T.W.M..md",
     "Notes/Characters/NPCs/Mary-Yewande.md",
     "Notes/Adventure Log.md",
     "Notes/Quests/Night Terror in Basses.md",
@@ -118,8 +114,6 @@
     "Notes/Characters/NPCs/Yahseh an-Nasira.md",
     "Notes/Locations/Arcadia.md",
     "Notes/Characters/NPCs/Ajax.md",
-    "Notes/Characters/NPCs/Aechithorian Scaevolus Matho.md",
-    "Notes/Characters/NPCs/Blythe.md",
-    "Notes/Characters/NPCs/Borzoi.md"
+    "Notes/Characters/NPCs/Aechithorian Scaevolus Matho.md"
   ]
 }
