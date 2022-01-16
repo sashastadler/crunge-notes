@@ -67,12 +67,12 @@ Hear about some beast attacks that a bounty is being collected for. Met [Yahseh 
  
  The crew gets information about [Orson](Characters/NPCs/Orson.md) from the barkeep at Zira's and heads to his farm. Met Orson and saw the killed animals - they are rotting.
  
- Head back into town and visit a clothing store run by [Mary/Yewande](Characters/NPCs/Mary-Yewande.md) where they purchase some nice clothes. Next they head to [Tia's Materium](Locations/Basses.md#Tia's%20Materium) with some squirrels to maybe get information about the poison/rot.
+ Head back into town and visit a clothing store run by [Mary/Yewande](Characters/NPCs/Yewande%20Vesta.md) where they purchase some nice clothes. Next they head to [Tia's Materium](Locations/Basses.md#Tia's%20Materium) with some squirrels to maybe get information about the poison/rot.
  
  Talked to some folk about the beast and then set up camp for the night. Fought the beast (and some wolves and bats she summoned). After some fighting, she transdormed into Yewande. 
  
  ### Jan 16, 2022 - Session 30
  
-The crew travels back to [Basses](Locations/Basses.md). Decides to help [Yewande](Characters/NPCs/Mary-Yewande.md).
+The crew travels back to [Basses](Locations/Basses.md). Decides to help [Yewande Vesta](Characters/NPCs/Yewande%20Vesta.md).
 
 They head into the forest and go hunting then create a holy area.

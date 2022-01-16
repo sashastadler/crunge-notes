@@ -2,10 +2,8 @@
 
 ### Details
 
-Fell.
+Island. Fell.
 
 ### Notable people
-- [Yewande](../Characters/NPCs/Mary-Yewande.md)
+- [Yewande Vesta](../Characters/NPCs/Yewande%20Vesta.md)
 - [Yahseh an-Nasira](../Characters/NPCs/Yahseh%20an-Nasira.md)
-
-
