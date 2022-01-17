@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Locations/Arcadia.md",
+            "file": "Notes/Religion/Pantheon II/Impera.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Locations/Arcadia.md",
+            "file": "Notes/Religion/Pantheon II/Impera.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Locations/Arcadia.md"
+                "file": "Notes/Religion/Pantheon II/Impera.md"
               }
             }
           },
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Locations/Arcadia.md",
+                "file": "Notes/Religion/Pantheon II/Impera.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,17 +109,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b9dbb5daeb1d97c5",
+  "active": "c68c2d9ae1766041",
   "lastOpenFiles": [
+    "Notes/Religion/Pantheon II/Impera.md",
+    "Notes/Characters/NPCs/Yahseh an-Nasira.md",
     "Notes/Locations/Arcadia.md",
     "Notes/Characters/NPCs/Yewande Vesta.md",
-    "Notes/Characters/NPCs/Yahseh an-Nasira.md",
     "Notes/Characters/PCs/Alphonse Steele.md",
     "Notes/Adventure Log.md",
     "Notes/Characters/NPCs/Singeir.md",
     "Notes/Characters/PCs/Quentin Thexius.md",
     "Notes/Characters/PCs/O.T.W.M..md",
-    "Notes/Quests/Night Terror in Basses.md",
-    "Notes/Locations/Basses.md"
+    "Notes/Quests/Night Terror in Basses.md"
   ]
 }
