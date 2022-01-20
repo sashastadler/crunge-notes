@@ -13,4 +13,4 @@
 
 ### Details
 
-Friend of [Dell Gondy](Dell%20Gondy.md). Works as a blacksmith in one of the [Green Orchard](../../Locations/Green%20Orchard.md#Outlying%20%Villages). Bootlicker. Swore allegiance to [Alphonse Steele](../PCs/Alphonse%20Steele.md) after finding out his background.
+25 years old. Friend of [Dell Gondy](Dell%20Gondy.md). Works as a blacksmith in one of the [Green Orchard](../../Locations/Green%20Orchard.md#Outlying%20%Villages). Bootlicker. Swore allegiance to [Alphonse Steele](../PCs/Alphonse%20Steele.md) after finding out his background.

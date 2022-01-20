@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Characters/NPCs/Orson.md",
+            "file": "Notes/Characters/NPCs/Theophania Aching.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Characters/NPCs/Orson.md",
+            "file": "Notes/Characters/NPCs/Theophania Aching.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Characters/NPCs/Orson.md"
+                "file": "Notes/Characters/NPCs/Theophania Aching.md"
               }
             }
           },
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Characters/NPCs/Orson.md",
+                "file": "Notes/Characters/NPCs/Theophania Aching.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,15 +111,15 @@
   },
   "active": "b9dbb5daeb1d97c5",
   "lastOpenFiles": [
-    "Notes/Characters/NPCs/Orson.md",
-    "Notes/Characters/NPCs/Nav Liao.md",
-    "Notes/Characters/NPCs/Nanny Ogg.md",
-    "Notes/Characters/NPCs/Maxwell Manderly.md",
-    "Notes/Characters/NPCs/Marquis Viol.md",
-    "Notes/Characters/NPCs/Maria Castellan.md",
-    "Notes/Characters/NPCs/Margaret.md",
-    "Notes/Characters/NPCs/Granny Weatherwax.md",
-    "Notes/Characters/NPCs/Gorok.md",
-    "Notes/Characters/NPCs/Durthu.md"
+    "Notes/Characters/NPCs/Theophania Aching.md",
+    "Notes/Characters/NPCs/Singeir.md",
+    "Notes/Characters/NPCs/Sextus Sergius.md",
+    "Notes/Characters/NPCs/Roland Hunter.md",
+    "Notes/Characters/NPCs/Rodani.md",
+    "Notes/Characters/NPCs/Quinn Feldspar.md",
+    "Notes/Characters/NPCs/Quill.md",
+    "Notes/Characters/NPCs/Queen Night Mother.md",
+    "Notes/Characters/NPCs/Percival Rosa.md",
+    "Notes/Characters/NPCs/Orson.md"
   ]
 }

@@ -8,4 +8,4 @@
 
 ### Details
 
-Owner of Windmill Farm. Was the most recent victim of the [Night Terror in Basses](../../Quests/Night%20Terror%20in%20Basses.md).
+Owner of Windmill Farm. Was the most recent victim of the [Night Terror in Basses](../../Quests/Night%20Terror%20in%20Basses.md). 43 years old.
