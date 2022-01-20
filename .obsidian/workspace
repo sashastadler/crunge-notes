@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Characters/NPCs/Gorok.md",
+            "file": "Notes/Characters/NPCs/Blythe.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Characters/NPCs/Gorok.md",
+            "file": "Notes/Characters/NPCs/Blythe.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Characters/NPCs/Gorok.md"
+                "file": "Notes/Characters/NPCs/Blythe.md"
               }
             }
           },
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Characters/NPCs/Gorok.md",
+                "file": "Notes/Characters/NPCs/Blythe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,17 +109,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c68c2d9ae1766041",
+  "active": "b9dbb5daeb1d97c5",
   "lastOpenFiles": [
+    "Notes/Characters/NPCs/Blythe.md",
+    "Notes/Characters/NPCs/Alberic.md",
+    "Notes/Characters/NPCs/Ajax.md",
+    "Notes/Characters/NPCs/Aechithorian Scaevolus Matho.md",
     "Notes/Characters/NPCs/Gorok.md",
     "Notes/Characters/NPCs/Carter.md",
     "Notes/Religion/Pantheon II/Impera.md",
     "Notes/Characters/NPCs/Yahseh an-Nasira.md",
     "Notes/Locations/Arcadia.md",
-    "Notes/Characters/NPCs/Yewande Vesta.md",
-    "Notes/Characters/PCs/Alphonse Steele.md",
-    "Notes/Adventure Log.md",
-    "Notes/Characters/NPCs/Singeir.md",
-    "Notes/Characters/PCs/Quentin Thexius.md"
+    "Notes/Characters/NPCs/Yewande Vesta.md"
   ]
 }
