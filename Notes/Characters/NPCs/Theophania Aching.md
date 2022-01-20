@@ -12,4 +12,5 @@
 
 ### Details
 
-Member of [Witch's Coven](Notes/Organizations/Witch's%20Coven.md). Does not get along with [Roland Hunter](Roland%20Hunter.md).
+Also goes by Tiffany.
+18 years old. Member of [Witch's Coven](Notes/Organizations/Witch's%20Coven.md). Does not get along with [Roland Hunter](Roland%20Hunter.md).

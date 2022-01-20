@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Characters/NPCs/Theophania Aching.md",
+            "file": "Notes/Characters/PCs/Quentin Thexius.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Characters/NPCs/Theophania Aching.md",
+            "file": "Notes/Characters/PCs/Quentin Thexius.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Characters/NPCs/Theophania Aching.md"
+                "file": "Notes/Characters/PCs/Quentin Thexius.md"
               }
             }
           },
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Characters/NPCs/Theophania Aching.md",
+                "file": "Notes/Characters/PCs/Quentin Thexius.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,15 +111,15 @@
   },
   "active": "b9dbb5daeb1d97c5",
   "lastOpenFiles": [
+    "Notes/Characters/PCs/Quentin Thexius.md",
+    "Notes/Characters/PCs/O.T.W.M..md",
+    "Notes/Characters/PCs/Eugine Brawnanvil.md",
+    "Notes/Characters/PCs/Eldrid Vannar.md",
+    "Notes/Characters/PCs/Alphonse Steele.md",
+    "Notes/Characters/PCs/Cusdakesh Greyskull.md",
+    "Notes/Characters/NPCs/Yewande Vesta.md",
+    "Notes/Characters/NPCs/Yahseh an-Nasira.md",
     "Notes/Characters/NPCs/Theophania Aching.md",
-    "Notes/Characters/NPCs/Singeir.md",
-    "Notes/Characters/NPCs/Sextus Sergius.md",
-    "Notes/Characters/NPCs/Roland Hunter.md",
-    "Notes/Characters/NPCs/Rodani.md",
-    "Notes/Characters/NPCs/Quinn Feldspar.md",
-    "Notes/Characters/NPCs/Quill.md",
-    "Notes/Characters/NPCs/Queen Night Mother.md",
-    "Notes/Characters/NPCs/Percival Rosa.md",
-    "Notes/Characters/NPCs/Orson.md"
+    "Notes/Characters/NPCs/Singeir.md"
   ]
 }
