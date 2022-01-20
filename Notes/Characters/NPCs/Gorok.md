@@ -8,4 +8,4 @@
 
 ### Details
 
-"a body guard of sort". Orc. Body guard of [Percival Rosa](Percival%20Rosa.md).
+"a body guard of sort". Orc. Body guard of [Percival Rosa](Percival%20Rosa.md). 37 years old.

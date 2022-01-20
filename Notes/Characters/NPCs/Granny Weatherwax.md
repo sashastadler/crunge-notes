@@ -8,4 +8,4 @@
 
 ### Details
 
-Member of the [Witch's Coven](../../Organizations/Witch's%20Coven.md). Aroace.
+Member of the [Witch's Coven](../../Organizations/Witch's%20Coven.md). Aroace. 78 years old.

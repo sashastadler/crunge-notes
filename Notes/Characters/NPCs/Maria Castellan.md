@@ -14,4 +14,4 @@
 
 ### Details
 
-Sister of [Demerara](Demerara.md). Works for [Alberic](Alberic.md) in his tavern.
+Older sister of [Demerara](Demerara.md). 26 years old. Works for [Alberic](Alberic.md) in his tavern.

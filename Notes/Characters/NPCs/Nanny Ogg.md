@@ -8,4 +8,4 @@
 
 ### Details
 
-Spherical witch. Member of [Witch's Coven](Notes/Organizations/Witch's%20Coven.md). Taught [Quentin](Notes/Characters/PCs/Quentin%20Thexius.md) how to cook. 
+Spherical witch. Member of [Witch's Coven](Notes/Organizations/Witch's%20Coven.md). Taught [Quentin](Notes/Characters/PCs/Quentin%20Thexius.md) how to cook. 79 years old.

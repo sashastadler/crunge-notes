@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Characters/NPCs/Blythe.md",
+            "file": "Notes/Characters/NPCs/Orson.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Characters/NPCs/Blythe.md",
+            "file": "Notes/Characters/NPCs/Orson.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Characters/NPCs/Blythe.md"
+                "file": "Notes/Characters/NPCs/Orson.md"
               }
             }
           },
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Characters/NPCs/Blythe.md",
+                "file": "Notes/Characters/NPCs/Orson.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,15 +111,15 @@
   },
   "active": "b9dbb5daeb1d97c5",
   "lastOpenFiles": [
-    "Notes/Characters/NPCs/Blythe.md",
-    "Notes/Characters/NPCs/Alberic.md",
-    "Notes/Characters/NPCs/Ajax.md",
-    "Notes/Characters/NPCs/Aechithorian Scaevolus Matho.md",
+    "Notes/Characters/NPCs/Orson.md",
+    "Notes/Characters/NPCs/Nav Liao.md",
+    "Notes/Characters/NPCs/Nanny Ogg.md",
+    "Notes/Characters/NPCs/Maxwell Manderly.md",
+    "Notes/Characters/NPCs/Marquis Viol.md",
+    "Notes/Characters/NPCs/Maria Castellan.md",
+    "Notes/Characters/NPCs/Margaret.md",
+    "Notes/Characters/NPCs/Granny Weatherwax.md",
     "Notes/Characters/NPCs/Gorok.md",
-    "Notes/Characters/NPCs/Carter.md",
-    "Notes/Religion/Pantheon II/Impera.md",
-    "Notes/Characters/NPCs/Yahseh an-Nasira.md",
-    "Notes/Locations/Arcadia.md",
-    "Notes/Characters/NPCs/Yewande Vesta.md"
+    "Notes/Characters/NPCs/Durthu.md"
   ]
 }
