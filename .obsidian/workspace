@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Templates/religion template.md",
+            "file": "Notes/Adventure Log.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Templates/religion template.md",
+            "file": "Notes/Adventure Log.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/religion template.md"
+                "file": "Notes/Adventure Log.md"
               }
             }
           },
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/religion template.md",
+                "file": "Notes/Adventure Log.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,17 +109,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b9dbb5daeb1d97c5",
+  "active": "c68c2d9ae1766041",
   "lastOpenFiles": [
-    "Templates/religion template.md",
-    "Templates/quest template.md",
-    "Templates/npc template.md",
-    "Templates/location template.md",
-    "Notes/Locations/Arcadia.md",
-    "Notes/Locations/De Cuivre.md",
-    "Notes/Bathing Log.md",
     "Notes/Adventure Log.md",
-    "Notes/Characters/NPCs/Yahseh an-Nasira.md",
-    "Notes/Locations/Basses.md"
+    "Notes/Characters/NPCs/Orson.md",
+    "Notes/Locations/Basses.md",
+    "Notes/Characters/PCs/O.T.W.M..md",
+    "Notes/Characters/PCs/Eugine Brawnanvil.md",
+    "Notes/Characters/PCs/Quentin Thexius.md",
+    "Notes/Characters/PCs/Eldrid Vannar.md",
+    "Notes/Characters/PCs/Alphonse Steele.md",
+    "Notes/Characters/PCs/Cusdakesh Greyskull.md",
+    "Notes/Characters/NPCs/Roland Hunter.md"
   ]
 }

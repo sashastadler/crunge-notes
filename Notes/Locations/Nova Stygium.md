@@ -2,8 +2,7 @@
 
 ### Details
 
+?
 
-
-### Notable people
-- ?
-
+%%### Notable people
+- ?%%

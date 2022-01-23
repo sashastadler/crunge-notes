@@ -16,11 +16,14 @@ Gildas: 3815 G
 
 ##### Outfit
 
--
+- An ankle-length crimson georgette skirt, the fabric seemingly slashed to reveal a bright scarlet beneath. The slashes form a spiral pattern down the length of the skirt that shifts with movement, making it difficult to tell exactly how many layers of fabric there are. The slashes are sewn together with silver thread embellished with pearls. (purchased from [Ligne Argentée](../../Locations/Siege%20Richesse.md#Ligne%20Argentée) )
+- A black cape lined with rich purple velvet. A series of silvered buttons down one side are purely decorative. The cape’s collar is fastened with an amethyst clasp set in a black metal that remains cold to the touch no matter how long one remains in contact with it. (purchased from [Ligne Argentée](../../Locations/Siege%20Richesse.md#Ligne%20Argentée) )
+- A hip-length azure damask doublet, patterned with diamond-shapes of richer, deeper blues, sapphires stitched into each fastener along the cuffs and neck. The fasteners run up the side rather than the front. (purchased from [Ligne Argentée](../../Locations/Siege%20Richesse.md#Ligne%20Argentée) )
+- Shoes (purchased from [Ligne Argentée](../../Locations/Siege%20Richesse.md#Ligne%20Argentée) )
 
 #### Fun Quotes
 
-- 
+- "I can't walk in heels. Don't tell anybody"
 
 #### Other
 

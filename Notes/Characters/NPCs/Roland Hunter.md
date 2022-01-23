@@ -10,6 +10,8 @@
 
 ![roland_human](../../../Templates/images/npc-roland-hunter-2.png "blonde ron weasley")
 
+![roland_human](../../../Templates/images/npc-roland-hunter-3.png "ein")
+
 ***
 
 ### Details

@@ -12,7 +12,7 @@ Gildas: 2785 G
 
 ##### Outfit
 
--
+- 
 
 #### Fun Quotes
 

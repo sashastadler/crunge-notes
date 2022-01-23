@@ -17,6 +17,5 @@ Boutique? Clothing shop visited during [Session 31](../../../Adventure%20Log.md#
 ### Notable people
 - [Alphonse Steele](../Characters/PCs/Alphonse%20Steele.md)
 - [Aildinim Oore](../Characters/NPCs/Aildinim%20Oore.md)
-- c
 
 
