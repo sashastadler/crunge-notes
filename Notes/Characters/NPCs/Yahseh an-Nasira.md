@@ -12,5 +12,5 @@
 
 ### Details
 
-23 years old. Follower of [Impera](../../Religion/Pantheon%20II/Impera.md). Not from Obol. Met in Session 28 while he was getting scammed in [Basses](../../Locations/Basses.md). Comes from Tartaros. "his god hates him and wants him dead"
+23 years old. Follower of [Impera](../../Religion/Pantheon%20II/Impera.md). Not from Obol. Met in Session 28 while he was getting scammed in [Zira's Tavern](../../Locations/Basses.md#Zira's%20Tavern). Comes from Tartaros. "his god hates him and wants him dead"
 From [Arcadia](../../Locations/Arcadia.md)

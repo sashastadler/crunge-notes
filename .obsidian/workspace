@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Characters/PCs/Alphonse Steele.md",
+            "file": "Templates/religion template.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Characters/PCs/Alphonse Steele.md",
+            "file": "Templates/religion template.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Characters/PCs/Alphonse Steele.md"
+                "file": "Templates/religion template.md"
               }
             }
           },
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Characters/PCs/Alphonse Steele.md",
+                "file": "Templates/religion template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,15 +111,15 @@
   },
   "active": "b9dbb5daeb1d97c5",
   "lastOpenFiles": [
-    "Notes/Characters/PCs/Alphonse Steele.md",
-    "Notes/Characters/PCs/O.T.W.M..md",
-    "Notes/Characters/PCs/Quentin Thexius.md",
-    "Notes/Characters/PCs/Eugine Brawnanvil.md",
-    "Notes/Characters/PCs/Eldrid Vannar.md",
-    "Notes/Characters/PCs/Cusdakesh Greyskull.md",
+    "Templates/religion template.md",
+    "Templates/quest template.md",
+    "Templates/npc template.md",
+    "Templates/location template.md",
+    "Notes/Locations/Arcadia.md",
+    "Notes/Locations/De Cuivre.md",
+    "Notes/Bathing Log.md",
     "Notes/Adventure Log.md",
     "Notes/Characters/NPCs/Yahseh an-Nasira.md",
-    "Notes/Locations/Basses.md",
-    "Notes/Bathing Log.md"
+    "Notes/Locations/Basses.md"
   ]
 }

@@ -12,6 +12,10 @@ Originally very rich and from [Obol](../../Locations/Obol.md), but no longer so 
 
 Gildas: 15000 G
 
+##### Outfit
+
+- 
+
 #### Family
 
 - Fredrick (younger brother)

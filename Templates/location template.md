@@ -1,19 +1,18 @@
->## Name
+%%>## Name%%
 
-### Country: 
+%%### Country:%% 
 
-### Details
+%%### Details
 
-aaa
+aaa%%
 
-### Cities
+%%### Cities
 
 - a
 - b
-- c
+- c%%
 
-### Notable people
+%%### Notable people
 - a
 - b
-- c
-
+- c%%
