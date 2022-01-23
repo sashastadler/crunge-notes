@@ -17,7 +17,7 @@ The upper tier of King's Call. Rich.
 
 ##### The Duck's Back
 
-A fancy restaurant in the Upper Crust. Has live entertainment. Past performers include [Quentin Thexius](../Characters/PCs/Quentin%20Thexius.md) and [Sextus Sergius](../Characters/NPCs/Sextus%20Sergius.md). 50G cover charge.
+A fancy restaurant in the Upper Crust. Has live entertainment. Past performers include [Quentin Thexius](../Characters/PCs/Quentin%20Thexius.md) and [Sextus Sergius](../Characters/NPCs/Sextus%20Sergius.md). 50G cover charge. [Carter](../Characters/NPCs/Carter.md) works there as a waiter.
 
 ##### The Witch Hunter's Guild
 
