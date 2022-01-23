@@ -23,6 +23,7 @@ Gildas: 15000 G
 #### Fun Quotes
 
 - "I will remain a cat" 
+- "your teeth are done"
 
 #### Other
 

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Adventure Log.md",
+            "file": "Notes/Quests/Night Terror in Basses.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Adventure Log.md",
+            "file": "Notes/Quests/Night Terror in Basses.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Adventure Log.md"
+                "file": "Notes/Quests/Night Terror in Basses.md"
               }
             }
           },
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Adventure Log.md",
+                "file": "Notes/Quests/Night Terror in Basses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,15 +111,15 @@
   },
   "active": "b9dbb5daeb1d97c5",
   "lastOpenFiles": [
+    "Notes/Quests/Night Terror in Basses.md",
     "Notes/Adventure Log.md",
+    "Notes/Characters/PCs/Alphonse Steele.md",
     "Notes/Characters/PCs/Cusdakesh Greyskull.md",
     "Notes/Characters/PCs/Eldrid Vannar.md",
     "Notes/Characters/PCs/Quentin Thexius.md",
     "Notes/Characters/PCs/O.T.W.M..md",
     "Notes/Characters/PCs/Eugine Brawnanvil.md",
-    "Notes/Characters/PCs/Alphonse Steele.md",
     "Notes/Characters/NPCs/Yewande Vesta.md",
-    "Notes/Characters/NPCs/Yahseh an-Nasira.md",
-    "Notes/Characters/NPCs/Theophania Aching.md"
+    "Notes/Characters/NPCs/Yahseh an-Nasira.md"
   ]
 }
