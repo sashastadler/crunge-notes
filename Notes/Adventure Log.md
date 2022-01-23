@@ -81,4 +81,6 @@ They head into the forest and go hunting then create a holy area. Fought a vampi
 
 ### Jan 23, 2022 - Session 31
 
-The group cries over [O.T.W.M.](Characters/PCs/O.T.W.M..md) and acquires the large vampire corpse. Yahseh says to "Look for tieflings" ? to find people from Arcadia.
+The group cries over [O.T.W.M.](Characters/PCs/O.T.W.M..md) and acquires the large vampire corpse. Receive bounty from night terror quest. Yahseh says to "Look for tieflings" ? to find people from Arcadia. 
+
+Arrive in [Siege Richesse](Locations/Siege%20Richesse.md). 
