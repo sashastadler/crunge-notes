@@ -83,4 +83,4 @@ They head into the forest and go hunting then create a holy area. Fought a vampi
 
 The group cries over [O.T.W.M.](Characters/PCs/O.T.W.M..md) and acquires the large vampire corpse. Receive bounty from night terror quest. Yahseh says to "Look for tieflings" ? to find people from Arcadia. 
 
-Arrive in [Siege Richesse](Locations/Siege%20Richesse.md). Going shopping. Visit [Ligne Ar](Locations/Siege%20Richesse.md#Ligne%20Argentee). Everyone touches a rune to get clean. 
+Arrive in [Siege Richesse](Locations/Siege%20Richesse.md). Going shopping. Visit [Ligne Argentée](Locations/Siege%20Richesse.md#Ligne%20Argentée). Everyone touches a rune to get clean. 
