@@ -75,6 +75,10 @@ Hear about some beast attacks that a bounty is being collected for. Met [Yahseh 
  
 The crew travels back to [Basses](Locations/Basses.md). Decides to help [Yewande Vesta](Characters/NPCs/Yewande%20Vesta.md).
 
-They head into the forest and go hunting then create a holy area. 
+They head into the forest and go hunting then create a holy area. Fought a vampire guy.
 
 [O.T.W.M.](Characters/PCs/O.T.W.M..md) died and got revivified.
+
+### Jan 23, 2022 - Session 31
+
+The group cri
