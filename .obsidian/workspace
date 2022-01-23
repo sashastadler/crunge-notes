@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "session",
+                "query": "rowan",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -109,17 +109,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c68c2d9ae1766041",
+  "active": "b9dbb5daeb1d97c5",
   "lastOpenFiles": [
     "Notes/Locations/Siege Richesse.md",
+    "Notes/Characters/NPCs/Rowan.md",
+    "Notes/Characters/NPCs/Roland Hunter.md",
     "Notes/Adventure Log.md",
     "Notes/Characters/PCs/Cusdakesh Greyskull.md",
     "Notes/Characters/PCs/Eldrid Vannar.md",
     "Notes/Characters/PCs/Eugine Brawnanvil.md",
     "Notes/Characters/PCs/Alphonse Steele.md",
     "Notes/Characters/PCs/O.T.W.M..md",
-    "Notes/Characters/PCs/Quentin Thexius.md",
-    "Notes/Locations/King's Call.md",
-    "Notes/Locations/Nova Stygium.md"
+    "Notes/Characters/PCs/Quentin Thexius.md"
   ]
 }
