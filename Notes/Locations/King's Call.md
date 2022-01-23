@@ -43,6 +43,8 @@ Smithy. Silvered [Cusdakesh](../Characters/PCs/Cusdakesh%20Greyskull.md)'s great
 
 The lowest tier of King's Call. Shady. High crime. Has The Shitter's Gate.
 
+***
+
 ### Notable people
 - [Carter](../Characters/NPCs/Carter.md)
 - [Theophania Aching](../Characters/NPCs/Theophania%20Aching.md)

@@ -1,19 +1,14 @@
->## Name
+>## Siege Richesse
 
 ### Country: [Obol](Obol.md)
 
 ### Details
 
-aaa
-
-### Cities
-
-- a
-- b
-- c
+Big city in Obol.
 
 ### Notable people
-- a
-- b
+- [Alphonse Steele](../Characters/PCs/Alphonse%20Steele.md)
+- [Aildinim Oore](../Characters/NPCs/Aildinim%20Oore.md)
 - c
+
 

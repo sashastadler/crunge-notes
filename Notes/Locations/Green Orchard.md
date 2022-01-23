@@ -6,6 +6,8 @@
 
 A village. Where the adventure began. When it was a bigger town, it had tributary villages. It has now gone to shit, but the surrounding villages are still counted as Green Orchard. 4 day journey to [King's Call](King's%20Call.md).
 
+***
+
 #### The Silver Star
 
 Tavern owned by [Alberic](../Characters/NPCs/Alberic.md). [Maria Castellan](../Characters/NPCs/Maria%20Castellan.md) also works there.
@@ -22,6 +24,8 @@ One of them has a blacksmith and the now-deaceased hat shop owner.
 
 A cave system created (?) by [Ajax](../Characters/NPCs/Ajax.md) for a hideout. Has many traps such as bear traps and tripwires. Has many rooms including a prison cell in the center. The largest room - the farthest from the entrance - has a river flowing through it. 
 Visited by party during Sessions 24-26.
+
+***
 
 ### Notable people
 
