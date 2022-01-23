@@ -14,7 +14,7 @@ Boutique? Clothing shop visited during [Session 31](../../../Adventure%20Log.md#
 
 #### Joe's Chop
 
-Mentioned by warforged Linge Argentee tailor (worker?) to [O.T.W.M.](../Characters/PCs/O.T.W.M..md) during [Session 31](../../../Adventure%20Log.md#Jan%2023,%202022%20-%20Session%2031). No other info. Place where she got her face done. "not the best part of the city". Behind fishmonger usually. Tucked away in one of the bazaars. "a little intense but super good".
+Mentioned by warforged Linge Argentee tailor (worker?) to [O.T.W.M.](../Characters/PCs/O.T.W.M..md) during [Session 31](../../Adventure%20Log.md#Jan%2023,%202022%20-%20Session%2031). No other info. Place where she got her face done. "not the best part of the city". Behind fishmonger usually. Tucked away in one of the bazaars. "a little intense but super good".
 
 ***
 
