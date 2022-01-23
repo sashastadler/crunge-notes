@@ -12,8 +12,8 @@ Gildas: 2975 G
 
 ##### Outfit
 
-- A black cape lined with rich purple velvet. A series of silvered buttons down one side are purely decorative. The cape’s collar is fastened with an amethyst clasp set in a black metal that remains cold to the touch no matter how long one remains in contact with it. 
-- A pair of dark brown leather boots with inch-and-a-half heels. They reach up to the thigh. When the leg is fully extended, they appear normal. With the knee fully bent, the leather appears to split, revealing a dark red eye on the side of each boot and a mouth along the arch.
+- A black cape lined with rich purple velvet. A series of silvered buttons down one side are purely decorative. The cape’s collar is fastened with an amethyst clasp set in a black metal that remains cold to the touch no matter how long one remains in contact with it.  (purchased from [Ligne Argentée](../../Locations/Siege%20Richesse.md#Ligne%20Argentée) )
+- A pair of dark brown leather boots with inch-and-a-half heels. They reach up to the thigh. When the leg is fully extended, they appear normal. With the knee fully bent, the leather appears to split, revealing a dark red eye on the side of each boot and a mouth along the arch. (purchased from [Ligne Argentée](../../Locations/Siege%20Richesse.md#Ligne%20Argentée) )
 
 #### Fun Quotes
 

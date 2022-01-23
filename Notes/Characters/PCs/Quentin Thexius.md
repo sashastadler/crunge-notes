@@ -14,6 +14,10 @@ Someone named Cornelia? is important.
 
 Gildas: 3815 G
 
+##### Outfit
+
+-
+
 #### Fun Quotes
 
 - 

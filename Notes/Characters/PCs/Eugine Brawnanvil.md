@@ -10,6 +10,10 @@ Does not drink water. Map enthusiast. Apple juice enthusiast. Owns [Ghosts of Ir
 
 Gildas: 2785 G
 
+##### Outfit
+
+-
+
 #### Fun Quotes
 
 - "Eugine sounds like he could be a kitchen"

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Characters/PCs/Cusdakesh Greyskull.md",
+            "file": "Notes/Characters/PCs/Alphonse Steele.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Characters/PCs/Cusdakesh Greyskull.md",
+            "file": "Notes/Characters/PCs/Alphonse Steele.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Characters/PCs/Cusdakesh Greyskull.md"
+                "file": "Notes/Characters/PCs/Alphonse Steele.md"
               }
             }
           },
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Characters/PCs/Cusdakesh Greyskull.md",
+                "file": "Notes/Characters/PCs/Alphonse Steele.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,15 +111,15 @@
   },
   "active": "b9dbb5daeb1d97c5",
   "lastOpenFiles": [
+    "Notes/Characters/PCs/Alphonse Steele.md",
+    "Notes/Characters/PCs/O.T.W.M..md",
+    "Notes/Characters/PCs/Quentin Thexius.md",
+    "Notes/Characters/PCs/Eugine Brawnanvil.md",
+    "Notes/Characters/PCs/Eldrid Vannar.md",
     "Notes/Characters/PCs/Cusdakesh Greyskull.md",
+    "Notes/Adventure Log.md",
     "Notes/Characters/NPCs/Yahseh an-Nasira.md",
     "Notes/Locations/Basses.md",
-    "Notes/Adventure Log.md",
-    "Notes/Bathing Log.md",
-    "Notes/Locations/Siege Richesse.md",
-    "Notes/Characters/NPCs/Carter.md",
-    "Notes/Locations/King's Call.md",
-    "Notes/Characters/NPCs/Ajax.md",
-    "Notes/Locations/Green Orchard.md"
+    "Notes/Bathing Log.md"
   ]
 }

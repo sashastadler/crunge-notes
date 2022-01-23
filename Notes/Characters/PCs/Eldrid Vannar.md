@@ -10,7 +10,13 @@ Lived in [Green Orchard](../../Locations/Green%20Orchard.md) with friends(?). Us
 
 Gildas: 2785 G
 
+##### Outfit
+
+-
+
 #### Fun Quotes
+
+
 
 #### Other
 
