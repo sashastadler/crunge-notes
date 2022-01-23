@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Quests/Unnamed.md",
+            "file": "Notes/Locations/Arcadia.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Quests/Unnamed.md",
+            "file": "Notes/Locations/Arcadia.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Quests/Unnamed.md"
+                "file": "Notes/Locations/Arcadia.md"
               }
             }
           },
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Quests/Unnamed.md",
+                "file": "Notes/Locations/Arcadia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,10 +111,10 @@
   },
   "active": "b9dbb5daeb1d97c5",
   "lastOpenFiles": [
+    "Notes/Locations/Arcadia.md",
     "Notes/Quests/Unnamed.md",
     "Notes/Characters/NPCs/Maria Castellan.md",
     "Notes/Adventure Log.md",
-    "Notes/Locations/Arcadia.md",
     "Notes/Locations/Obol.md",
     "Notes/Locations/Souhold.md",
     "Notes/Locations/King's Call.md",
