@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Adventure Log.md",
+            "file": "Notes/Characters/PCs/Quentin Thexius.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Adventure Log.md",
+            "file": "Notes/Characters/PCs/Quentin Thexius.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Adventure Log.md"
+                "file": "Notes/Characters/PCs/Quentin Thexius.md"
               }
             }
           },
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Adventure Log.md",
+                "file": "Notes/Characters/PCs/Quentin Thexius.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,15 +111,15 @@
   },
   "active": "b9dbb5daeb1d97c5",
   "lastOpenFiles": [
+    "Notes/Characters/PCs/Quentin Thexius.md",
+    "Notes/Locations/King's Call.md",
+    "Notes/Locations/Nova Stygium.md",
+    "Notes/Locations/Obol.md",
+    "Notes/Locations/Siege Richesse.md",
     "Notes/Adventure Log.md",
     "Notes/Characters/NPCs/Ajax.md",
     "Notes/Characters/PCs/Alphonse Steele.md",
     "Notes/Characters/PCs/Cusdakesh Greyskull.md",
-    "Notes/Characters/PCs/Eldrid Vannar.md",
-    "Notes/Characters/PCs/Eugine Brawnanvil.md",
-    "Notes/Characters/PCs/O.T.W.M..md",
-    "Notes/Characters/NPCs/Orson.md",
-    "Notes/Locations/Basses.md",
-    "Notes/Characters/PCs/Quentin Thexius.md"
+    "Notes/Characters/PCs/Eldrid Vannar.md"
   ]
 }
