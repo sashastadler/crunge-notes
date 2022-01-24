@@ -7,11 +7,8 @@
         "id": "b9dbb5daeb1d97c5",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Notes/Characters/PCs/Quentin Thexius.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         },
         "group": "e3057da5109060be"
       },
@@ -21,7 +18,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Characters/PCs/Quentin Thexius.md",
+            "file": "Notes/Characters/NPCs/Lilianna.md",
             "mode": "preview"
           }
         },
@@ -80,9 +77,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notes/Characters/PCs/Quentin Thexius.md"
-              }
+              "state": {}
             }
           },
           {
@@ -91,7 +86,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Characters/PCs/Quentin Thexius.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,15 +105,15 @@
   },
   "active": "b9dbb5daeb1d97c5",
   "lastOpenFiles": [
+    "Notes/Characters/NPCs/Lilianna.md",
+    "Notes/Characters/NPCs/Maria Castellan.md",
+    "Notes/Characters/NPCs/Granny Weatherwax.md",
+    "Notes/Characters/NPCs/Honest Ed.md",
+    "Notes/Characters/NPCs/Lord Dotter.md",
     "Notes/Characters/PCs/Quentin Thexius.md",
     "Notes/Locations/Siege Richesse.md",
     "Notes/Characters/PCs/Eugine Brawnanvil.md",
     "Notes/Characters/PCs/Eldrid Vannar.md",
-    "Notes/Characters/PCs/Cusdakesh Greyskull.md",
-    "Notes/Characters/PCs/Alphonse Steele.md",
-    "Notes/Characters/PCs/O.T.W.M..md",
-    "Notes/Characters/NPCs/Rowan.md",
-    "Notes/Locations/Yonkers.md",
-    "Notes/Locations/King's Call.md"
+    "Notes/Characters/PCs/Cusdakesh Greyskull.md"
   ]
 }
