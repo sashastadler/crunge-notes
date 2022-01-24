@@ -18,7 +18,7 @@ Mentioned by warforged Linge Argentee tailor (worker?) to [O.T.W.M.](../Characte
 
 #### The Good Night
 
-Club owned by [Rowan](../Characters/NPCs/Rowan.md). Has alcohol, drugs, people. Partied and slept
+Club owned by [Rowan](../Characters/NPCs/Rowan.md). Has alcohol, drugs, people. Partied and slept here during [Session 31](../Adventure%20Log.md#Jan%2023,%202022%20-%20Session%2031).
 
 ***
 

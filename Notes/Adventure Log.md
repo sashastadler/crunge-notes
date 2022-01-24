@@ -87,4 +87,4 @@ Arrive in [Siege Richesse](Locations/Siege%20Richesse.md). Going shopping. Visit
 
 After shopping, keep walking through the city. [Alphonse](Characters/PCs/Alphonse%20Steele.md) asks for [Rowan](Characters/NPCs/Rowan.md) at [The Good Night](Locations/Siege%20Richesse.md#The%20Good%20Night). The crew spends the night partying and indulging in various pleasures.
 
-Spend the night at Rowan's club. [Quentin](Characters/PCs/Quentin%20Thexius.md) makes beef wellington as a treat.
+Spend the night at Rowan's club. [Quentin](Characters/PCs/Quentin%20Thexius.md) makes beef wellington as a treat. We eat quail eggs with wine sauce, ~~crescent~~ croissant rolls for breakfast.
