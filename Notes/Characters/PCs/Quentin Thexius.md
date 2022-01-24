@@ -6,9 +6,9 @@
 
 ![quentin_shroud](../../../Templates/images/quentin_shroud.png "Quentin Thexius high but like an angel form")
 
-![quentin_shroud](../../../Templates/images/quentin-new-outfit.png "Quentin Thexius session 31 cl")
+![quentin_shroud](../../../Templates/images/quentin-new-outfit.png "Quentin Thexius session 31 clothes")
 
-![quentin_shroud_new_clothes](../../../Templates/images/quentin_shroud-2.png "Quentin Thexius high but like an angel form")
+![quentin_shroud_new_clothes](../../../Templates/images/quentin_shroud-2.png "new clothes shroud form")
 (^Last updated during Session 31)
 
 #### Information
