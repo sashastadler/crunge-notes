@@ -1,6 +1,6 @@
 >## King's Call
 
-### Country: Gardena
+### Country: [Gardena](Gardena.md)
 
 ### Details
 

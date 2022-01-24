@@ -10,7 +10,7 @@ Big city in Obol.
 
 #### Ligne Argentée
 
-Boutique? Clothing shop visited during [Session 31](../../../Adventure%20Log.md#Jan%2023,%202022%20-%20Session%2031). Has a magical cleansing rune. Little girl told us to go there.
+Boutique? Clothing shop visited during [Session 31](../../../Adventure%20Log.md#Jan%2023,%202022%20-%20Session%2031). Has a magical cleansing rune. Little girl told us to go there. Owned by Sec(?).
 
 #### Joe's Chop
 
@@ -18,7 +18,7 @@ Mentioned by warforged Linge Argentee tailor (worker?) to [O.T.W.M.](../Characte
 
 #### The Good Night
 
-Club owned by [Rowan](../Characters/NPCs/Rowan.md). 
+Club owned by [Rowan](../Characters/NPCs/Rowan.md). Has alcohol, drugs, people.
 
 ***
 
