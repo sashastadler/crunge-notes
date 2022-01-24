@@ -85,4 +85,6 @@ The group cries over [O.T.W.M.](Characters/PCs/O.T.W.M..md) and acquires the lar
 
 Arrive in [Siege Richesse](Locations/Siege%20Richesse.md). Going shopping. Visit [Ligne Argentée](Locations/Siege%20Richesse.md#Ligne%20Argentée). Everyone touches a rune to get clean. 
 
-After shopping, keep walking through the city. [Alphonse](Characters/PCs/Alphonse%20Steele.md) asks for [[Characters/NPCs/Rowan]] at a club.
+After shopping, keep walking through the city. [Alphonse](Characters/PCs/Alphonse%20Steele.md) asks for [Rowan](Characters/NPCs/Rowan.md) at [The Good Night](Locations/Siege%20Richesse.md#The%20Good%20Night). The crew spends the night partying and indulging in various pleasures.
+
+Spend the night at Rowan's club. [Quentin](Characters/PCs/Quentin%20Thexius.md) makes beef wellington as a treat.

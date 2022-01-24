@@ -7,4 +7,5 @@
 ***
 
 ### Details
+
 Creator of an artifact [Quentin](../PCs/Quentin%20Thexius.md) has.

@@ -6,6 +6,8 @@ Obol was founded by dragons. Main language is Draconic. Functions off of a syste
 
 Dry grassland. Has nice roads.
 
+![crunge](../../../Templates/images/obol.png "map")
+
 ### Cities
 
 - Roi du Ciel
