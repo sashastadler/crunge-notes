@@ -89,5 +89,5 @@ After shopping, keep walking through the city. [Alphonse](Characters/PCs/Alphons
 
 Spend the night at Rowan's club. [Quentin](Characters/PCs/Quentin%20Thexius.md) makes beef wellington as a treat. We eat quail eggs with wine sauce, ~~crescent~~ croissant rolls for breakfast. Ask Rowan for information about [Morthos Rodani](Characters/NPCs/Morthos%20Rodani.md). Rowan goes to get info. 
 
-Quentin, O.T.W.M., and Cusdakesh explore the city. Eugine goes a temple to pray to Bondye. Alphonse visits his old home outside the city. Eldrid? OTWM shops for warforged face plates.
+Quentin, O.T.W.M., and Cusdakesh explore the city. Eugine goes a temple to pray to Bondye. Alphonse visits his old home outside the city. Eldrid? OTWM shops for warforged face plates. 
 
