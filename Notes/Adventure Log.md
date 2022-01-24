@@ -87,4 +87,7 @@ Arrive in [Siege Richesse](Locations/Siege%20Richesse.md). Going shopping. Visit
 
 After shopping, keep walking through the city. [Alphonse](Characters/PCs/Alphonse%20Steele.md) asks for [Rowan](Characters/NPCs/Rowan.md) at [The Good Night](Locations/Siege%20Richesse.md#The%20Good%20Night). The crew spends the night partying and indulging in various pleasures. [Cusdakesh](Characters/PCs/Cusdakesh%20Greyskull.md) tears up the dance floor. [Quentin](Characters/PCs/Quentin%20Thexius.md) attempts to perform. [Eldrid](Characters/PCs/Eldrid%20Vannar.md) meets a serpent on the dance floor.
 
-Spend the night at Rowan's club. [Quentin](Characters/PCs/Quentin%20Thexius.md) makes beef wellington as a treat. We eat quail eggs with wine sauce, ~~crescent~~ croissant rolls for breakfast. Ask Rowan for information about [Morthos Rodani](Characters/NPCs/Morthos%20Rodani.md).
+Spend the night at Rowan's club. [Quentin](Characters/PCs/Quentin%20Thexius.md) makes beef wellington as a treat. We eat quail eggs with wine sauce, ~~crescent~~ croissant rolls for breakfast. Ask Rowan for information about [Morthos Rodani](Characters/NPCs/Morthos%20Rodani.md). Rowan goes to get info. 
+
+Quentin, O.T.W.M., and Cusdakesh explore the city. Eugine goes to pray to Bondye. Alphonse? Eldrid?
+
