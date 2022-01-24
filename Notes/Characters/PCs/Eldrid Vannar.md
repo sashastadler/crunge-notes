@@ -12,7 +12,9 @@ Lived in [Green Orchard](../../Locations/Green%20Orchard.md) with friends(?). Us
 
 ##### Outfit
 
-- 
+- A black-bone corset with ebony fasteners and a cool viridian fabric. The corset’s fabric coverage extends from waist to sternum. The bone extends several inches beyond, shaped into designs that appear subtly flexible to allow range of motion while emphasizing the wearer's feminine figure (purchased from [Ligne Argentée](../../Locations/Siege%20Richesse.md#Ligne%20Argentée) )
+    
+- A long black dress with a slit up to the thigh. the top has sleeves that go into a bell shape starting at the elbow. before the bell shape though there is a band of lace (purchased from [Ligne Argentée](../../Locations/Siege%20Richesse.md#Ligne%20Argentée) )
 
 #### Fun Quotes
 
