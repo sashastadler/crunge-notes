@@ -4,6 +4,8 @@
 
 Obol was founded by dragons. Main language is Draconic. Functions off of a system of gildas - a numerical value placed on a person based off different factors (wealth, status, etc). Some sort of slave trade going on there.
 
+Good lake and river fish. Traders have methods of preserving fish for a long while. Has some pretty robust fish markets.
+
 Dry grassland. Has nice roads.
 
 ![crunge](../../../Templates/images/obol.png "map")

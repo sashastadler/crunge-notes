@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Adventure Log.md",
+            "file": "Notes/Locations/Obol.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Adventure Log.md",
+            "file": "Notes/Locations/Obol.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Adventure Log.md"
+                "file": "Notes/Locations/Obol.md"
               }
             }
           },
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Adventure Log.md",
+                "file": "Notes/Locations/Obol.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,15 +111,15 @@
   },
   "active": "b9dbb5daeb1d97c5",
   "lastOpenFiles": [
-    "Notes/Adventure Log.md",
+    "Notes/Locations/Obol.md",
+    "Notes/Locations/Arrasta Kesh.md",
     "Notes/Characters/PCs/Quentin Thexius.md",
+    "Notes/Characters/NPCs/Duke Delight.md",
+    "Notes/Adventure Log.md",
     "Notes/Quests/Beef With Rodani.md",
     "Notes/Locations/Arcadia.md",
     "Notes/Locations/Siege Richesse.md",
     "Notes/Characters/NPCs/Kairi Edelsson.md",
-    "Notes/Characters/NPCs/Laura.md",
-    "Notes/Characters/NPCs/Keighry.md",
-    "Notes/Characters/NPCs/Jerry.md",
-    "Notes/Characters/NPCs/Honest Ed.md"
+    "Notes/Characters/NPCs/Laura.md"
   ]
 }
