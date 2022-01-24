@@ -4,7 +4,7 @@ The crew pays the [Duke Delight](Characters/NPCs/Duke%20Delight.md) to escape th
 
 Decided to not return to [Yonkers](Locations/Yonkers.md) and instead return to [King's Call](Locations/King's%20Call.md). Gave [Carrietta](Characters/NPCs/Carrietta.md) to the Witch's Coven. Got night vision goggles and some lessons.
 
-Went back to [Green Orchard](Locations/Green%20Orchard.md). Alphonse visits [dad](../Characters/PCs/Alphonse%20Steele.md#Family), argues about returning to [Obol](Locations/Obol.md), pays 100G debt. Most of the crew day drink and pass out. Eldrid coughs up feathers in the morning.
+Went back to [Green Orchard](Locations/Green%20Orchard.md). Alphonse visits [his dad](Characters/NPCs/Aildinim%20Oore.md), argues about returning to [Obol](Locations/Obol.md), pays 100G debt. Most of the crew day drink and pass out. Eldrid coughs up feathers in the morning.
 
 ### Nov 21, 2021 - Session 23
 
@@ -85,6 +85,6 @@ The group cries over [O.T.W.M.](Characters/PCs/O.T.W.M..md) and acquires the lar
 
 Arrive in [Siege Richesse](Locations/Siege%20Richesse.md). Going shopping. Visit [Ligne Argentée](Locations/Siege%20Richesse.md#Ligne%20Argentée). Everyone touches a rune to get clean. 
 
-After shopping, keep walking through the city. [Alphonse](Characters/PCs/Alphonse%20Steele.md) asks for [Rowan](Characters/NPCs/Rowan.md) at [The Good Night](Locations/Siege%20Richesse.md#The%20Good%20Night). The crew spends the night partying and indulging in various pleasures.
+After shopping, keep walking through the city. [Alphonse](Characters/PCs/Alphonse%20Steele.md) asks for [Rowan](Characters/NPCs/Rowan.md) at [The Good Night](Locations/Siege%20Richesse.md#The%20Good%20Night). The crew spends the night partying and indulging in various pleasures. [Cusdakesh](Characters/PCs/Cusdakesh%20Greyskull.md) tears up the dance floor. [Quentin](Characters/PCs/Quentin%20Thexius.md) attempts to perform. [Eldrid](Characters/PCs/Eldrid%20Vannar.md) meets a serpent on the dance floor.
 
-Spend the night at Rowan's club. [Quentin](Characters/PCs/Quentin%20Thexius.md) makes beef wellington as a treat. We eat quail eggs with wine sauce, ~~crescent~~ croissant rolls for breakfast.
+Spend the night at Rowan's club. [Quentin](Characters/PCs/Quentin%20Thexius.md) makes beef wellington as a treat. We eat quail eggs with wine sauce, ~~crescent~~ croissant rolls for breakfast. Ask Rowan for information about [Morthos Rodani](Characters/NPCs/Morthos%20Rodani.md).
