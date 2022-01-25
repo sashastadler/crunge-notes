@@ -12,6 +12,8 @@
 
 ![dell gondy 3](../../../Templates/images/npc-dell-gondy-3.png "yassified")
 
+![dell gondy 4](../../../Templates/images/npc-dell-gondy-4.png "murder")
+
 ***
 
 ### Details
