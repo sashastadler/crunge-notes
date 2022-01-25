@@ -1,3 +1,0 @@
->## Name
-
-#### Backstory information
