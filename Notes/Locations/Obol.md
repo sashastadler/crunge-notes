@@ -8,7 +8,7 @@ Good lake and river fish. Traders have methods of preserving fish for a long whi
 
 Dry grassland. Has nice roads.
 
-![crunge](../../../Templates/images/obol.png "map")
+![map](../../Templates/images/obol.png "map")
 
 ### Cities
 

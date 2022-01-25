@@ -9,23 +9,23 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Characters/PCs/Cusdakesh Greyskull.md",
+            "file": "Notes/Books/Ghosts of Iron.md",
             "mode": "source"
           }
         },
-        "group": "e1cddf0335268860"
+        "group": "08d1854979731223"
       },
       {
-        "id": "0f60fc45db1416ce",
+        "id": "4597637d91d78652",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Characters/PCs/Cusdakesh Greyskull.md",
+            "file": "Notes/Books/Ghosts of Iron.md",
             "mode": "preview"
           }
         },
-        "group": "e1cddf0335268860"
+        "group": "08d1854979731223"
       }
     ],
     "direction": "vertical"
@@ -81,7 +81,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Characters/PCs/Cusdakesh Greyskull.md"
+                "file": "Notes/Books/Ghosts of Iron.md"
               }
             }
           },
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Characters/PCs/Cusdakesh Greyskull.md",
+                "file": "Notes/Books/Ghosts of Iron.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,15 +128,15 @@
   },
   "active": "d4e09683b10de24c",
   "lastOpenFiles": [
-    "Notes/Characters/PCs/Cusdakesh Greyskull.md",
+    "Notes/Books/Ghosts of Iron.md",
+    "Notes/Books/For God or Love.md",
+    "Notes/Adventure Log.md",
+    "Notes/Locations/Obol.md",
+    "Notes/Locations/Arrasta Kesh.md",
     "Notes/Characters/PCs/Quentin Thexius.md",
+    "Notes/Characters/PCs/Cusdakesh Greyskull.md",
     "Notes/Characters/PCs/Eugine Brawnanvil.md",
     "Notes/Characters/PCs/Eldrid Vannar.md",
-    "Notes/Characters/PCs/O.T.W.M..md",
-    "Notes/Quests/Blythe Begone.md",
-    "Notes/Quests/Merc-ing the Marquee.md",
-    "Notes/Quests/Night Terror in Basses.md",
-    "Notes/Quests/Beef With Rodani.md",
-    "Notes/Locations/Souhold.md"
+    "Notes/Characters/PCs/O.T.W.M..md"
   ]
 }

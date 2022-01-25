@@ -4,7 +4,7 @@
 
 ### Details
 
-Great fish. beautiful big fish. can get great fish. Booming fish economy.
+Great fish. Beautiful big fish. Can get great fish. Booming fish economy.
 
 %%### Cities
 
