@@ -12,12 +12,12 @@
 
 ### Details
 
-Old friend of [Alphonse Steele](../PCs/Alphonse%20Steele.md). Has horns. Calls Alphonse "Alphie". The sole owner and proprietor of [The Good Night](../../Locations/Siege%20Richesse.md#The%20Good%20Night). Very flirty. Alphonse finds him annoying. 
+Old friend of [Alphonse Steele](../PCs/Alphonse%20Steele.md). Has horns. The sole owner and proprietor of [The Good Night](../../Locations/Siege%20Richesse.md#The%20Good%20Night). Very flirty. Alphonse finds him annoying. Gives people nicknames (see table)
 
-| Real name | Price | # In stock |
 
-|--------------|-----------|------------|
-
-| Juicy Apples | 1.99 | *7* |
-
-| Bananas | **1.89** | 5234 |
+| real name | nickname given by Rowan|
+|-----------|------------|
+| Alphonse  | Alphie     |
+| Cusdakesh | Beefcake   |
+| Quentin   | Angel      |
+| Eugine    | Shortstack |

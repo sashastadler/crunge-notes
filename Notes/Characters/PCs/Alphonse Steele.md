@@ -29,7 +29,6 @@ A full outfit including corset, skirt, slip, cloak, belt, leggings, bracers, boo
 #### Fun Quotes
 
 - "I will remain a cat" 
-- "your teeth are done"
 
 #### Other
 
