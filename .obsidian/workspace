@@ -6,23 +6,10 @@
       {
         "id": "5cd82ceea6f34115",
         "type": "leaf",
-        "dimension": 44.93589743589744,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Locations/Siege Richesse.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "c68c2d9ae1766041",
-        "type": "leaf",
-        "dimension": 55.06410256410257,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Notes/Adventure Log.md",
+            "file": "Notes/Characters/NPCs/Maria Castellan.md",
             "mode": "source"
           }
         }
@@ -81,7 +68,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Adventure Log.md"
+                "file": "Notes/Characters/NPCs/Maria Castellan.md"
               }
             }
           },
@@ -91,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Adventure Log.md",
+                "file": "Notes/Characters/NPCs/Maria Castellan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,17 +113,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c68c2d9ae1766041",
+  "active": "5cd82ceea6f34115",
   "lastOpenFiles": [
-    "Notes/Adventure Log.md",
+    "Notes/Characters/NPCs/Maria Castellan.md",
+    "Notes/Characters/NPCs/Demerara.md",
     "Notes/Locations/Siege Richesse.md",
+    "Notes/Adventure Log.md",
     "Notes/Locations/Obol.md",
     "Notes/Locations/Arrasta Kesh.md",
     "Notes/Characters/PCs/Quentin Thexius.md",
     "Notes/Characters/NPCs/Duke Delight.md",
     "Notes/Quests/Beef With Rodani.md",
-    "Notes/Locations/Arcadia.md",
-    "Notes/Characters/NPCs/Kairi Edelsson.md",
-    "Notes/Characters/NPCs/Laura.md"
+    "Notes/Locations/Arcadia.md"
   ]
 }
