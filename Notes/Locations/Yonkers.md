@@ -9,6 +9,6 @@ They hate witches.
 ### Notable people
 - [Carrietta](../Characters/NPCs/Carrietta.md)
 - [Margaret](../Characters/NPCs/Margaret.md)
-- [[../Characters/NPCs/Laura]]
+- [Laura](../Characters/NPCs/Laura.md)
 - [[Daniel]]
 - [[Samara]]

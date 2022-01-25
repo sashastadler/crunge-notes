@@ -8,6 +8,8 @@
 
 ![yewande beast form](../../../Templates/images/npc-yewande.png "yewande night terror form")
 
+![yewande beast form](../../../Templates/images/npc-yewande-2.png "yewande night terror form")
+
 ***
 
 ### Details
