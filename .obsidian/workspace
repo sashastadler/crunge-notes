@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Characters/PCs/Quentin Thexius.md",
+            "file": "Notes/Characters/PCs/Cusdakesh Greyskull.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Characters/PCs/Quentin Thexius.md",
+            "file": "Notes/Characters/PCs/Cusdakesh Greyskull.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Characters/PCs/Quentin Thexius.md"
+                "file": "Notes/Characters/PCs/Cusdakesh Greyskull.md"
               }
             }
           },
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Characters/PCs/Quentin Thexius.md",
+                "file": "Notes/Characters/PCs/Cusdakesh Greyskull.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,15 +128,15 @@
   },
   "active": "d4e09683b10de24c",
   "lastOpenFiles": [
+    "Notes/Characters/PCs/Cusdakesh Greyskull.md",
     "Notes/Characters/PCs/Quentin Thexius.md",
-    "Notes/Characters/PCs/Alphonse Steele.md",
-    "Notes/Characters/NPCs/Quinn Feldspar.md",
-    "Notes/Characters/NPCs/Roland Hunter.md",
-    "Notes/Characters/NPCs/Rowan.md",
     "Notes/Characters/PCs/Eugine Brawnanvil.md",
+    "Notes/Characters/PCs/Eldrid Vannar.md",
     "Notes/Characters/PCs/O.T.W.M..md",
-    "Notes/Characters/NPCs/Orson.md",
-    "Notes/Characters/NPCs/Queen Night Mother.md",
-    "Notes/Characters/NPCs/Quill.md"
+    "Notes/Quests/Blythe Begone.md",
+    "Notes/Quests/Merc-ing the Marquee.md",
+    "Notes/Quests/Night Terror in Basses.md",
+    "Notes/Quests/Beef With Rodani.md",
+    "Notes/Locations/Souhold.md"
   ]
 }

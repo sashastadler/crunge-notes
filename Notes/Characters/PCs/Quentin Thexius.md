@@ -35,5 +35,5 @@ Someone named Cornelia? is important.
 **gaslight** ~~gatekeep girlboss mansplain manipulate malewife~~
 
 ##### Performances
-- Session 31: (nat 1) Attempted to perform at [The Good Night](../../Locations/Siege%20Richesse.md#The%20Good%20Night) . Was too intoxicated and fell off the stage before playing anything.
-- Session 27: (nat 20) A tarvern in [Souhold](../../Locations/Souhold.md). One of the best performance he has ever done.
+- Session 31: (nat 1) Attempted to perform at [The Good Night](../../Locations/Siege%20Richesse.md#The%20Good%20Night) . Was too intoxicated and fell off the stage (was maybe pushed) before playing anything.
+- Session 27: (nat 20) A tavern in [Souhold](../../Locations/Souhold.md). One of the best performance he has ever done.
