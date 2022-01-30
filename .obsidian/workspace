@@ -7,8 +7,11 @@
         "id": "4597637d91d78652",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Notes/Locations/Arcadia.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -45,7 +48,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -64,7 +68,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notes/Locations/Arcadia.md"
+              }
             }
           },
           {
@@ -73,6 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notes/Locations/Arcadia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +116,7 @@
   },
   "active": "4597637d91d78652",
   "lastOpenFiles": [
+    "Notes/Locations/Arcadia.md",
     "Notes/Adventure Log.md",
     "Notes/Religion/Pantheon III/The Lawbreaker.md",
     "Notes/Religion/Pantheons.md",
@@ -117,7 +125,6 @@
     "Notes/Religion/Pantheon I/Osebo.md",
     "Notes/Religion/Pantheon I/Fox.md",
     "Notes/Religion/Pantheon I/Bondye.md",
-    "Notes/Religion/Pantheon I/Bear.md",
-    "Notes/Religion/Pantheon I/Baron Samedi.md"
+    "Notes/Religion/Pantheon I/Bear.md"
   ]
 }
