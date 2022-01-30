@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Characters/NPCs/Scarlet.md",
+            "file": "Notes/Locations/Siege Richesse.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Characters/NPCs/Scarlet.md",
+            "file": "Notes/Locations/Siege Richesse.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Characters/NPCs/Scarlet.md"
+                "file": "Notes/Locations/Siege Richesse.md"
               }
             }
           },
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Characters/NPCs/Scarlet.md",
+                "file": "Notes/Locations/Siege Richesse.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,6 +128,7 @@
   },
   "active": "4597637d91d78652",
   "lastOpenFiles": [
+    "Notes/Locations/Siege Richesse.md",
     "Notes/Characters/NPCs/Scarlet.md",
     "Notes/Adventure Log.md",
     "Notes/Characters/NPCs/Maxwell Manderly.md",
@@ -136,7 +137,6 @@
     "Notes/Characters/NPCs/Durthu.md",
     "Notes/Characters/NPCs/Gorok.md",
     "Notes/Characters/NPCs/Barenziah.md",
-    "Notes/Characters/NPCs/Borzoi.md",
-    "Notes/Locations/Arcadia.md"
+    "Notes/Characters/NPCs/Borzoi.md"
   ]
 }
