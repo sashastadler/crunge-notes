@@ -9,10 +9,23 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Characters/NPCs/Maxwell Manderly.md",
+            "file": "Notes/Adventure Log.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "698ba495ab4a36b6"
+      },
+      {
+        "id": "59348cfca567c580",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Notes/Adventure Log.md",
+            "mode": "preview"
+          }
+        },
+        "group": "698ba495ab4a36b6"
       }
     ],
     "direction": "vertical"
@@ -68,7 +81,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Characters/NPCs/Maxwell Manderly.md"
+                "file": "Notes/Adventure Log.md"
               }
             }
           },
@@ -78,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Characters/NPCs/Maxwell Manderly.md",
+                "file": "Notes/Adventure Log.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +128,7 @@
   },
   "active": "4597637d91d78652",
   "lastOpenFiles": [
+    "Notes/Adventure Log.md",
     "Notes/Characters/NPCs/Maxwell Manderly.md",
     "Notes/Characters/NPCs/Blythe.md",
     "Notes/Characters/NPCs/Godric.md",
@@ -123,7 +137,6 @@
     "Notes/Characters/NPCs/Barenziah.md",
     "Notes/Characters/NPCs/Borzoi.md",
     "Notes/Locations/Arcadia.md",
-    "Notes/Adventure Log.md",
     "Notes/Religion/Pantheon III/The Lawbreaker.md"
   ]
 }

@@ -91,3 +91,7 @@ Spend the night at Rowan's club. [Quentin](Characters/PCs/Quentin%20Thexius.md) 
 
 Quentin, O.T.W.M., and Cusdakesh explore the city. Eugine goes a temple to pray to Bondye. Alphonse visits his old home outside the city. Eldrid? OTWM shops for warforged face plates. 
 
+The crew (- alphonse) go back to The Good Night and are about to get attacked.
+
+### Jan 30, 2022 - Session 32
+
