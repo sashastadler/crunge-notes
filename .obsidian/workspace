@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Locations/Arcadia.md",
-            "mode": "preview"
+            "file": "Notes/Characters/NPCs/Maxwell Manderly.md",
+            "mode": "source"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "rowan",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -69,7 +68,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Locations/Arcadia.md"
+                "file": "Notes/Characters/NPCs/Maxwell Manderly.md"
               }
             }
           },
@@ -79,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Locations/Arcadia.md",
+                "file": "Notes/Characters/NPCs/Maxwell Manderly.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,15 +115,15 @@
   },
   "active": "4597637d91d78652",
   "lastOpenFiles": [
+    "Notes/Characters/NPCs/Maxwell Manderly.md",
+    "Notes/Characters/NPCs/Blythe.md",
+    "Notes/Characters/NPCs/Godric.md",
+    "Notes/Characters/NPCs/Durthu.md",
+    "Notes/Characters/NPCs/Gorok.md",
+    "Notes/Characters/NPCs/Barenziah.md",
+    "Notes/Characters/NPCs/Borzoi.md",
     "Notes/Locations/Arcadia.md",
     "Notes/Adventure Log.md",
-    "Notes/Religion/Pantheon III/The Lawbreaker.md",
-    "Notes/Religion/Pantheons.md",
-    "Notes/Religion/Pantheon I/Wolf.md",
-    "Notes/Religion/Pantheon I/Rabbit.md",
-    "Notes/Religion/Pantheon I/Osebo.md",
-    "Notes/Religion/Pantheon I/Fox.md",
-    "Notes/Religion/Pantheon I/Bondye.md",
-    "Notes/Religion/Pantheon I/Bear.md"
+    "Notes/Religion/Pantheon III/The Lawbreaker.md"
   ]
 }
