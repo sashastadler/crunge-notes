@@ -18,7 +18,7 @@ Lived in [Green Orchard](../../Locations/Green%20Orchard.md) with friends(?). Us
 
 #### Fun Quotes
 
-
+- \*Eldrid blast*
 
 #### Other
 

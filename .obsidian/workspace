@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Characters/NPCs/Barenziah.md",
+            "file": "Notes/Characters/PCs/Alphonse Steele.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Characters/NPCs/Barenziah.md",
+            "file": "Notes/Characters/PCs/Alphonse Steele.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Characters/NPCs/Barenziah.md"
+                "file": "Notes/Characters/PCs/Alphonse Steele.md"
               }
             }
           },
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Characters/NPCs/Barenziah.md",
+                "file": "Notes/Characters/PCs/Alphonse Steele.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,15 +128,15 @@
   },
   "active": "4597637d91d78652",
   "lastOpenFiles": [
+    "Notes/Characters/PCs/Alphonse Steele.md",
+    "Notes/Characters/PCs/Eldrid Vannar.md",
+    "Notes/Characters/PCs/Eugine Brawnanvil.md",
     "Notes/Characters/NPCs/Barenziah.md",
     "Notes/Characters/NPCs/Maxwell Manderly.md",
     "Notes/Adventure Log.md",
     "Notes/Locations/Siege Richesse.md",
     "Notes/Characters/NPCs/Scarlet.md",
     "Notes/Characters/NPCs/Blythe.md",
-    "Notes/Characters/NPCs/Godric.md",
-    "Notes/Characters/NPCs/Durthu.md",
-    "Notes/Characters/NPCs/Gorok.md",
-    "Notes/Characters/NPCs/Borzoi.md"
+    "Notes/Characters/NPCs/Godric.md"
   ]
 }

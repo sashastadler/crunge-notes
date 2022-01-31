@@ -4,7 +4,9 @@
 
 ![alphonse_human](../../../Templates/images/alphonse-regular.png "Alphonse poor form")
 
-![alphonse_human2](../../../Templates/images/alphonse-rich.png "Alphonse rich form")
+![alphonse_human2](../../../Templates/images/alphonse-rich.png "Alphonse yassified form")
+
+![alphonse_human2](../../../Templates/images/alphonse-yass.png "Alphonse yass form")
 
 #### Information
 
