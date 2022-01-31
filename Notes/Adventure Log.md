@@ -95,3 +95,4 @@ The crew (- alphonse) go back to The Good Night and are about to get attacked.
 
 ### Jan 30, 2022 - Session 32
 
+Alphonse shows up and talks his way out of the situation. 
