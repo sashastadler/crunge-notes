@@ -9,23 +9,23 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Characters/NPCs/Maxwell Manderly.md",
+            "file": "Notes/Characters/NPCs/Francis Manderly.md",
             "mode": "source"
           }
         },
-        "group": "698ba495ab4a36b6"
+        "group": "4e68c9d9321c80f3"
       },
       {
-        "id": "59348cfca567c580",
+        "id": "7a35fc11d9807c82",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Characters/NPCs/Maxwell Manderly.md",
+            "file": "Notes/Characters/NPCs/Francis Manderly.md",
             "mode": "preview"
           }
         },
-        "group": "698ba495ab4a36b6"
+        "group": "4e68c9d9321c80f3"
       }
     ],
     "direction": "vertical"
@@ -81,7 +81,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Characters/NPCs/Maxwell Manderly.md"
+                "file": "Notes/Characters/NPCs/Francis Manderly.md"
               }
             }
           },
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Characters/NPCs/Maxwell Manderly.md",
+                "file": "Notes/Characters/NPCs/Francis Manderly.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,15 +128,15 @@
   },
   "active": "4597637d91d78652",
   "lastOpenFiles": [
+    "Notes/Characters/NPCs/Francis Manderly.md",
     "Notes/Characters/NPCs/Maxwell Manderly.md",
+    "Notes/Characters/NPCs/Rebecca Manderly.md",
     "Notes/Characters/NPCs/Morthos Rodani.md",
     "Notes/Adventure Log.md",
     "Notes/Characters/PCs/Quentin Thexius.md",
     "Notes/Characters/PCs/Alphonse Steele.md",
     "Notes/Characters/PCs/Eldrid Vannar.md",
     "Notes/Characters/PCs/Eugine Brawnanvil.md",
-    "Notes/Characters/NPCs/Barenziah.md",
-    "Notes/Locations/Siege Richesse.md",
-    "Notes/Characters/NPCs/Scarlet.md"
+    "Notes/Characters/NPCs/Barenziah.md"
   ]
 }
