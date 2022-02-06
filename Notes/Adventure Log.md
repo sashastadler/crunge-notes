@@ -96,3 +96,8 @@ The crew (- alphonse) go back to The Good Night and are about to get attacked.
 ### Jan 30, 2022 - Session 32
 
 Alphonse shows up and talks his way out of the situation. 
+
+Went to the Manderly Mansion, saw human puppet. Need to heist her away. Got attacked on the way there. Defeated the bandits - were sent by [Morthos Rodani](Characters/NPCs/Morthos%20Rodani.md).
+
+### Feb 6, 2022 - Session 33
+
