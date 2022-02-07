@@ -20,6 +20,10 @@ Mentioned by warforged Linge Argentee tailor (worker?) to [O.T.W.M.](../Characte
 
 Club owned by [Rowan](../Characters/NPCs/Rowan.md). Has alcohol, drugs, people. Partied and slept here during [Session 31](../Adventure%20Log.md#Jan%2023,%202022%20-%20Session%2031).
 
+#### Philtre Mine
+
+Store that sells potions and drinks. Visited during [Session 33](../Adventure%20Log.md#Feb%206,%202022%20-%20Session%2033).
+
 ***
 
 ### Notable people

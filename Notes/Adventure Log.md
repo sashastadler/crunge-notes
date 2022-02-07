@@ -95,9 +95,12 @@ The crew (- alphonse) go back to The Good Night and are about to get attacked by
 
 ### Jan 30, 2022 - Session 32
 
-Alphonse shows up and talks his way out of the situation. 
+Alphonse shows up and talks his way out of the situation. We go with OTWM to [Joe's Chop](Locations/Siege%20Richesse.md#Joe's%20Chop).
 
 Went to the Manderly Mansion, saw human puppet. Need to heist her away. Got attacked on the way there. Defeated the bandits - were sent by [Morthos Rodani](Characters/NPCs/Morthos%20Rodani.md).
 
 ### Feb 6, 2022 - Session 33
 
+Plot to heist the puppet.
+
+Visit 
