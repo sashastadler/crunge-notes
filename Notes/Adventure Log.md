@@ -103,4 +103,4 @@ Went to the Manderly Mansion, saw human puppet. Need to heist her away. Got atta
 
 Plot to heist the puppet.
 
-Visit [Philtre Mine](Locations/Siege%20Richesse.md#Philtre%20Mine) and buy wine ("Avery's Best") and buy some health potions (Potion of Greater Healing x1, Potion of Healing x ).
+Visit [Philtre Mine](Locations/Siege%20Richesse.md#Philtre%20Mine) and buy wine ("Avery's Best") and buy some health potions (Potion of Greater Healing x1, Potion of Healing x2). 

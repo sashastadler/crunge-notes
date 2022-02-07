@@ -22,7 +22,11 @@ Club owned by [Rowan](../Characters/NPCs/Rowan.md). Has alcohol, drugs, people. 
 
 #### Philtre Mine
 
-Store that sells potions and drinks. Visited during [Session 33](../Adventure%20Log.md#Feb%206,%202022%20-%20Session%2033).
+Store that sells potions and drinks run by a cobold. Visited during [Session 33](../Adventure%20Log.md#Feb%206,%202022%20-%20Session%2033).
+
+#### Folie à Deux
+
+Store that sells pricy special drinks :).
 
 ***
 

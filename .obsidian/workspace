@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Adventure Log.md",
+            "file": "Notes/Locations/Siege Richesse.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Adventure Log.md",
+            "file": "Notes/Locations/Siege Richesse.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Adventure Log.md"
+                "file": "Notes/Locations/Siege Richesse.md"
               }
             }
           },
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Adventure Log.md",
+                "file": "Notes/Locations/Siege Richesse.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,9 +128,9 @@
   },
   "active": "4597637d91d78652",
   "lastOpenFiles": [
+    "Notes/Locations/Siege Richesse.md",
     "Notes/Adventure Log.md",
     "Notes/Characters/NPCs/Aechithorian Scaevolus Matho.md",
-    "Notes/Locations/Siege Richesse.md",
     "Notes/Characters/NPCs/Francis Manderly.md",
     "Notes/Characters/NPCs/Maxwell Manderly.md",
     "Notes/Characters/NPCs/Rebecca Manderly.md",
