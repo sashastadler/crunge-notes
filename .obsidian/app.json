@@ -1,9 +1,11 @@
 {
   "attachmentFolderPath": "Info",
-  "foldIndent": false,
+  "foldIndent": true,
   "useTab": false,
   "newLinkFormat": "relative",
   "useMarkdownLinks": true,
   "alwaysUpdateLinks": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "showLineNumber": true,
+  "foldHeading": true
 }

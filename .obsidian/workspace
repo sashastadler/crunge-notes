@@ -12,20 +12,7 @@
             "file": "Notes/Adventure Log.md",
             "mode": "source"
           }
-        },
-        "group": "4e68c9d9321c80f3"
-      },
-      {
-        "id": "7a35fc11d9807c82",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Notes/Adventure Log.md",
-            "mode": "preview"
-          }
-        },
-        "group": "4e68c9d9321c80f3"
+        }
       }
     ],
     "direction": "vertical"
