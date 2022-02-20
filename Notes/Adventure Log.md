@@ -121,11 +121,11 @@ The group (Cusdakesh, Eugine, Alphonse, Quentin) go through these spaces:
 
 ##### A space of great sadness
 
-
+A dying tree, with 2 guardians. The tree dies and we console the two creatures (big hug), then continue on our way.
 
 ##### A space of triumph and madness
 
-
+A clearing with a queen bee, with several creatures dressed as bees as well. She asked 
 
 ##### A space of of wicked trial 
 
