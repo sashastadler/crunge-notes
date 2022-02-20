@@ -106,3 +106,8 @@ Plot to heist the puppet.
 Visit [Philtre Mine](Locations/Siege%20Richesse.md#Philtre%20Mine) and buy wine ("Avery's Best") and buy some health potions (Potion of Greater Healing x1, Potion of Healing x2). 
 
 ### Feb 12, 2022 - Session 34
+
+Some of the group meet Super Freaky and buy a few things ([Cusdakesh Greyskull](Characters/PCs/Cusdakesh%20Greyskull.md). The group uses the Plane Shift tablet (from Session 23) to go to the [Feywild](Locations/Feywild.md). 
+
+### Feb 20, 2022 - Session 35
+
