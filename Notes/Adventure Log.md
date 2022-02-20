@@ -107,7 +107,34 @@ Visit [Philtre Mine](Locations/Siege%20Richesse.md#Philtre%20Mine) and buy wine 
 
 ### Feb 12, 2022 - Session 34
 
-Some of the group meet Super Freaky and buy a few things ([Cusdakesh Greyskull](Characters/PCs/Cusdakesh%20Greyskull.md). The group uses the Plane Shift tablet (from Session 23) to go to the [Feywild](Locations/Feywild.md). 
+Some of the group meet Super Freaky and buy a few things ([Cusdakesh](Characters/PCs/Cusdakesh%20Greyskull.md) gets wings, Quentin gets a rat). The group uses the Plane Shift tablet (from Session 23) to go to the [Feywild](Locations/Feywild.md). 
+The [Duke Delight](Characters/NPCs/Duke%20Delight.md) tells the group how to get to [Barenziah](Characters/NPCs/Barenziah.md) :
+> A space of great sadness 
+> A space of triumph and madness 
+> A space of wicked trial 
+> A space of meetings final
+
+And how to get back to his domain:
+> Yell "surprise" and then run in any direction
+
+The group (Cusdakesh, Eugine, Alphonse, Quentin) go through these spaces:
+
+##### A space of great sadness
+
+
+
+##### A space of triumph and madness
+
+
+
+##### A space of of wicked trial 
+
+
+
+##### A space of meetings final
+
+
+
 
 ### Feb 20, 2022 - Session 35
 
