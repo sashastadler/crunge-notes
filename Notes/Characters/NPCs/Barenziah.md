@@ -1,11 +1,11 @@
 >## Barenziah
 
-### Location: [Feywild](../../Locations/Feywild.md)
+### Location: [Feywild](../../Locations/Feywild.md) / Dead?
 
-### Do we like them: Uncertain
+### Do we like them: No
 
 ***
 
 ### Details
 
-Creator of an artifact [Quentin](../PCs/Quentin%20Thexius.md) has.
+Creator of an artifact [Quentin](../PCs/Quentin%20Thexius.md) has. Sold a living puppet to [Maxwell Manderly](Maxwell%20Manderly.md) ([Cornelia](Cornelia.md)).

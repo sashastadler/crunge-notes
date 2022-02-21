@@ -14,4 +14,4 @@
 
 ### Details
 
-Older sister (???) of [Demerara](Demerara.md). 26 years old. Works for [Alberic](Alberic.md) in his tavern. ?is she from Arcadia?
+Friend of [Demerara](Demerara.md). 26 years old. Works for [Alberic](Alberic.md) in his tavern. From [Arcadia](../../Locations/Arcadia.md).
