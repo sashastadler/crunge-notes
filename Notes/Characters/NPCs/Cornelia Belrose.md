@@ -1,4 +1,4 @@
->## Cornelia ("Nells")
+>## Cornelia ("Nells") Belrose
 
 ### Location: [Siege Richesse](../../Locations/Siege%20Richesse.md)
 
