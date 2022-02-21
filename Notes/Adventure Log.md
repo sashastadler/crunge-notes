@@ -133,8 +133,12 @@ A fairground where we had a choice between three trials: strength, wit, and char
 
 ##### A space of meetings final
 
-An area of the woods with a large tree, guarded by 2 sma
+An area of the woods with a large tree, guarded by 2 smaller tree beings, warning that anyone who gets too close gets killed, strengthening the tree. The crew convinces the two to fight the tree they guard and the group of 6 fights the large tree, eventually winning and being allowed to continue to find [Barenziah](Characters/NPCs/Barenziah.md).
 
+The crew finds themselves in Barenziah's house (?), facing wooden copies of themselves, about to fight.
 
 ### Feb 20, 2022 - Session 35
 
+The group spends a while fighting their copies. Alphonse captures Barenziah in his mouth (as a giant polar bear) and the crew ties him down and goes back to the Duke Delight's domain. 
+
+The Duke rips Barenziah's head off and tells the party to go back to their plane of existence. They head through the Duke Delight's portal and 
