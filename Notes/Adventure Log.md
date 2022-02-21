@@ -125,15 +125,15 @@ A dying tree, with 2 guardians. The tree dies and we console the two creatures (
 
 ##### A space of triumph and madness
 
-A clearing with a queen bee, with several creatures dressed as bees as well. She asked 
+A clearing with a queen bee, with several creatures dressed as bees as well. She asked for a bee, so [Eugine](Characters/PCs/Eugine%20Brawnanvil.md) carved a bee for her and [Quentin](Characters/PCs/Quentin%20Thexius.md) animated it. The queen was delighted by this and let us leave.
 
 ##### A space of of wicked trial 
 
-
+A fairground where we had a choice between three trials: strength, wit, and charm. [Cusdakesh](Characters/PCs/Cusdakesh%20Greyskull.md) competed in the trial of strength, which consisted of a simple wrestling match, which he won because he is very great and strong. The group was allowed to leave, but chose to compete in the other trials for fun (for glory or shame). [Eugine](Characters/PCs/Eugine%20Brawnanvil.md) attempted and lost the trial of wits, which involved solving riddles. [Alphonse](Characters/PCs/Alphonse%20Steele.md) attempted the trial of charm - a breath holding contest disguised as a kissing contest.
 
 ##### A space of meetings final
 
-
+An area of the woods with a large tree, guarded by 2 sma
 
 
 ### Feb 20, 2022 - Session 35
