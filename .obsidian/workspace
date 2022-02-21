@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Adventure Log.md",
+            "file": "Notes/Characters/NPCs/Cornelia.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Adventure Log.md",
+            "file": "Notes/Characters/NPCs/Cornelia.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Adventure Log.md"
+                "file": "Notes/Characters/NPCs/Cornelia.md"
               }
             }
           },
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Adventure Log.md",
+                "file": "Notes/Characters/NPCs/Cornelia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,15 +128,15 @@
   },
   "active": "4597637d91d78652",
   "lastOpenFiles": [
+    "Notes/Characters/NPCs/Cornelia.md",
+    "Notes/Characters/PCs/Quentin Thexius.md",
     "Notes/Adventure Log.md",
     "Notes/Quests/Merc-ing the Marquee.md",
     "Notes/Quests/Blythe Begone.md",
     "Notes/Characters/NPCs/Borzoi.md",
     "Notes/Characters/NPCs/Barenziah.md",
     "Notes/Bathing Log.md",
-    "Notes/Characters/PCs/Quentin Thexius.md",
     "Notes/Characters/PCs/Eugine Brawnanvil.md",
-    "Notes/Characters/PCs/Alphonse Steele.md",
-    "Notes/Religion/Pantheons.md"
+    "Notes/Characters/PCs/Alphonse Steele.md"
   ]
 }
