@@ -142,3 +142,6 @@ The crew finds themselves in Barenziah's house (?), facing wooden copies of them
 The group spends a while fighting their copies. Alphonse captures Barenziah in his mouth (as a giant polar bear) and the crew ties him down and goes back to the Duke Delight's domain. 
 
 The Duke rips Barenziah's head off and tells the party to go back to their plane of existence. They head through the Duke Delight's portal and end up back at the Oore mansion.
+
+### Feb 27, 2022 - Session 36
+
