@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Characters/PCs/Cusdakesh Greyskull.md",
+            "file": "Notes/Locations/Basses.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Characters/PCs/Cusdakesh Greyskull.md",
+            "file": "Notes/Locations/Basses.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Characters/PCs/Cusdakesh Greyskull.md"
+                "file": "Notes/Locations/Basses.md"
               }
             }
           },
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Characters/PCs/Cusdakesh Greyskull.md",
+                "file": "Notes/Locations/Basses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,6 +128,7 @@
   },
   "active": "4597637d91d78652",
   "lastOpenFiles": [
+    "Notes/Locations/Basses.md",
     "Notes/Characters/PCs/Cusdakesh Greyskull.md",
     "Notes/Religion/Pantheon II/The Ghost of the Storm.md",
     "Notes/Quests/Church Graffiti.md",
@@ -136,7 +137,6 @@
     "Notes/Quests/Night Terror in Basses.md",
     "Notes/Characters/NPCs/Cornelia Belrose.md",
     "Notes/Characters/NPCs/Demerara.md",
-    "Notes/Characters/NPCs/Francis Manderly.md",
-    "Notes/Characters/NPCs/Aildinim Oore.md"
+    "Notes/Characters/NPCs/Francis Manderly.md"
   ]
 }
