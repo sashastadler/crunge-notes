@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Religion/Pantheon II/The Ghost of the Storm.md",
+            "file": "Notes/Characters/PCs/Cusdakesh Greyskull.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Religion/Pantheon II/The Ghost of the Storm.md",
+            "file": "Notes/Characters/PCs/Cusdakesh Greyskull.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Religion/Pantheon II/The Ghost of the Storm.md"
+                "file": "Notes/Characters/PCs/Cusdakesh Greyskull.md"
               }
             }
           },
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Religion/Pantheon II/The Ghost of the Storm.md",
+                "file": "Notes/Characters/PCs/Cusdakesh Greyskull.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,11 +126,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "043d2a9cbd101daf",
+  "active": "4597637d91d78652",
   "lastOpenFiles": [
+    "Notes/Characters/PCs/Cusdakesh Greyskull.md",
     "Notes/Religion/Pantheon II/The Ghost of the Storm.md",
     "Notes/Quests/Church Graffiti.md",
-    "Notes/Characters/PCs/Cusdakesh Greyskull.md",
     "Notes/Characters/PCs/Eldrid Vannar.md",
     "Notes/Quests/Pixie Hunt.md",
     "Notes/Quests/Night Terror in Basses.md",

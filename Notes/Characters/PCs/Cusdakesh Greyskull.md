@@ -23,6 +23,7 @@ Pirate from SE Ashanti. Wanted for piracy, murder, etc. Captain of the Rockrose.
 - "Every pirate has a lucky object" (if you don't, your ship will sink)
 - "A pirate never turns down a drink"
 - "Ale is the best smell, second only to the sea."
+- "The sea is always within you."
 
 #### Other
 
