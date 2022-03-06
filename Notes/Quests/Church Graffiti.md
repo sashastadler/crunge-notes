@@ -12,3 +12,7 @@
 ### Revelant Information
  
  Catch the church vandals.
+ 
+ Dragon cult
+ Dragonborn vandal?
+ Kasan? -> leader?
