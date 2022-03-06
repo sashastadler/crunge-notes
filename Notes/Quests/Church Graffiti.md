@@ -15,4 +15,5 @@
  
  Dragon cult
  Dragonborn vandal?
- Kasan? -> leader?
+ Kasan? -> leader?. scary dude
+ "The Nest" is their hideout/base
