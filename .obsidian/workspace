@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Locations/Basses.md",
+            "file": "Notes/Quests/Church Graffiti.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Locations/Basses.md",
+            "file": "Notes/Quests/Church Graffiti.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Locations/Basses.md"
+                "file": "Notes/Quests/Church Graffiti.md"
               }
             }
           },
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Locations/Basses.md",
+                "file": "Notes/Quests/Church Graffiti.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,10 +128,10 @@
   },
   "active": "4597637d91d78652",
   "lastOpenFiles": [
+    "Notes/Quests/Church Graffiti.md",
     "Notes/Locations/Basses.md",
     "Notes/Characters/PCs/Cusdakesh Greyskull.md",
     "Notes/Religion/Pantheon II/The Ghost of the Storm.md",
-    "Notes/Quests/Church Graffiti.md",
     "Notes/Characters/PCs/Eldrid Vannar.md",
     "Notes/Quests/Pixie Hunt.md",
     "Notes/Quests/Night Terror in Basses.md",
