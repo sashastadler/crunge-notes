@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Quests/Church Graffiti.md",
+            "file": "Notes/Quests/Pixies for Puppets.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Quests/Church Graffiti.md",
+            "file": "Notes/Quests/Pixies for Puppets.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Quests/Church Graffiti.md"
+                "file": "Notes/Quests/Pixies for Puppets.md"
               }
             }
           },
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Quests/Church Graffiti.md",
+                "file": "Notes/Quests/Pixies for Puppets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,15 +128,15 @@
   },
   "active": "4597637d91d78652",
   "lastOpenFiles": [
+    "Notes/Quests/Pixies for Puppets.md",
     "Notes/Quests/Church Graffiti.md",
+    "Notes/Quests/Night Terror in Basses.md",
     "Notes/Religion/Pantheons.md",
     "Notes/Religion/Pantheon IV/Thor.md",
     "Notes/Religion/Pantheon IV/Zeus.md",
     "Notes/Religion/Pantheon IV/Seth.md",
     "Notes/Religion/Pantheon IV/Odin.md",
     "Notes/Religion/Pantheon IV/Locky.md",
-    "Notes/Religion/Pantheon IV/Arudite.md",
-    "Notes/Religion/Pantheon III/Vitae.md",
-    "Notes/Religion/Pantheon III/The Lawbreaker.md"
+    "Notes/Religion/Pantheon IV/Arudite.md"
   ]
 }
