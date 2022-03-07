@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Characters/NPCs/Roland Hunter.md",
+            "file": "Notes/Characters/NPCs/Vicas Aster.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Characters/NPCs/Roland Hunter.md",
+            "file": "Notes/Characters/NPCs/Vicas Aster.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Characters/NPCs/Roland Hunter.md"
+                "file": "Notes/Characters/NPCs/Vicas Aster.md"
               }
             }
           },
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Characters/NPCs/Roland Hunter.md",
+                "file": "Notes/Characters/NPCs/Vicas Aster.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,8 +126,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "043d2a9cbd101daf",
+  "active": "4597637d91d78652",
   "lastOpenFiles": [
+    "Notes/Characters/NPCs/Vicas Aster.md",
     "Notes/Characters/NPCs/Roland Hunter.md",
     "Notes/Characters/NPCs/Rowan.md",
     "Notes/Characters/NPCs/Sextus Sergius.md",
@@ -136,7 +137,6 @@
     "Notes/Quests/Pixies for Puppets.md",
     "Notes/Religion/Pantheons.md",
     "Notes/Religion/Pantheon IV/Thor.md",
-    "Notes/Religion/Pantheon IV/Zeus.md",
-    "Notes/Religion/Pantheon IV/Seth.md"
+    "Notes/Religion/Pantheon IV/Zeus.md"
   ]
 }
