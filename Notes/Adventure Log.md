@@ -145,3 +145,9 @@ The Duke rips Barenziah's head off and tells the party to go back to their plane
 
 ### Feb 27, 2022 - Session 36
 
+### Mar 6, 2022 - Session 37
+
+Chased the guy. Met w Rodani.
+
+### Mar 13, 2022 - Session 38
+
