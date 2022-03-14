@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Quests/Church Graffiti.md",
+            "file": "Notes/Adventure Log.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Quests/Church Graffiti.md",
+            "file": "Notes/Adventure Log.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Quests/Church Graffiti.md"
+                "file": "Notes/Adventure Log.md"
               }
             }
           },
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Quests/Church Graffiti.md",
+                "file": "Notes/Adventure Log.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,11 +128,11 @@
   },
   "active": "4597637d91d78652",
   "lastOpenFiles": [
+    "Notes/Adventure Log.md",
     "Notes/Quests/Church Graffiti.md",
     "Notes/Quests/Blythe Begone.md",
     "Notes/Quests/Beef With Rodani.md",
     "Notes/Quests/Pixies for Puppets.md",
-    "Notes/Adventure Log.md",
     "Notes/Characters/PCs/Alphonse Steele.md",
     "Notes/Characters/NPCs/Vikas Hastur.md",
     "Notes/Characters/NPCs/Roland Hunter.md",

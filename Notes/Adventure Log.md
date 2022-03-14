@@ -151,3 +151,5 @@ Chased the guy. Met w Rodani.
 
 ### Mar 13, 2022 - Session 38
 
+Went through Rodani's house.
+Rescued Cara. Running though market/outside area. In combat
