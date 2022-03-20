@@ -145,6 +145,8 @@ The Duke rips Barenziah's head off and tells the party to go back to their plane
 
 ### Feb 27, 2022 - Session 36
 
+Went to church. Decided to stake out the church to catch the vandal.
+
 ### Mar 6, 2022 - Session 37
 
 Chased the guy. Met w Rodani.
@@ -152,4 +154,10 @@ Chased the guy. Met w Rodani.
 ### Mar 13, 2022 - Session 38
 
 Went through Rodani's house.
-Rescued Cara. Running though market/outside area. In combat
+Rescued [Cara]. 
+Running though market/outside area. 
+In combat.
+
+### Mar 20, 2022 - Session 39
+
+Finished fight in the street. Kanatali disengaged and left with his crew. Went back to [The Good Night](Locations/Siege%20Richesse.md#The%20Good%20Night) to recover.
