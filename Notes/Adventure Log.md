@@ -160,4 +160,4 @@ In combat.
 
 ### Mar 20, 2022 - Session 39
 
-Finished fight in the street. Kanatali disengaged and left with his crew. Went back to [The Good Night](Locations/Siege%20Richesse.md#The%20Good%20Night) to recover.
+Finished fight in the street. Kanatali disengaged and left with his crew. Went back to [The Good Night](Locations/Siege%20Richesse.md#The%20Good%20Night) to recover. Alphonse met with the Hastur's and persuaded them to not kill us.
