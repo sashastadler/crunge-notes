@@ -1,4 +1,4 @@
->## Blythe Begone
+>## Blythe Begone - Complete
 
 ### Quest Giver: [Aildinim Oore](../Characters/NPCs/Aildinim%20Oore.md)
 
