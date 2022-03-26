@@ -33,6 +33,7 @@ A full outfit including corset, skirt, slip, cloak, belt, leggings, bracers, boo
 - "I will remain a cat" 
 - "I'm going to disguise myself as just some guy"
 - "I will haunt you even if you kill me"
+- "I'm putting the centipedes in my pockets"
 
 #### Other
 
