@@ -19,6 +19,7 @@ An ochre and umber kilt. Thick but breathable wool. A deceptive amount of give, 
 #### Fun Quotes
 
 - "Eugine sounds like he could be a kitchen"
+- "Eugine is into DILFs" (despite being allegedly straight)
 
 #### Other
 

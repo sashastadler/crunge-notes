@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Quests/Pixies for Puppets.md",
+            "file": "Notes/Characters/PCs/Eugine Brawnanvil.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Quests/Pixies for Puppets.md",
+            "file": "Notes/Characters/PCs/Eugine Brawnanvil.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Quests/Pixies for Puppets.md"
+                "file": "Notes/Characters/PCs/Eugine Brawnanvil.md"
               }
             }
           },
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Quests/Pixies for Puppets.md",
+                "file": "Notes/Characters/PCs/Eugine Brawnanvil.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,6 +128,7 @@
   },
   "active": "4597637d91d78652",
   "lastOpenFiles": [
+    "Notes/Characters/PCs/Eugine Brawnanvil.md",
     "Notes/Quests/Pixies for Puppets.md",
     "Notes/Adventure Log.md",
     "Notes/Bathing Log.md",
@@ -136,7 +137,6 @@
     "Notes/Quests/Beef With Rodani.md",
     "Notes/Quests/Night Terror in Basses.md",
     "Notes/Quests/Merc-ing the Marquee.md",
-    "Notes/Characters/NPCs/Rufus Hennek.md",
-    "Notes/Characters/PCs/Alphonse Steele.md"
+    "Notes/Characters/NPCs/Rufus Hennek.md"
   ]
 }
