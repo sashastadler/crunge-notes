@@ -161,3 +161,10 @@ In combat.
 ### Mar 20, 2022 - Session 39
 
 Finished fight in the street. Kanatali disengaged and left with his crew. Went back to [The Good Night](Locations/Siege%20Richesse.md#The%20Good%20Night) to recover. Alphonse met with the Hastur's and persuaded them to not kill us.
+
+### Mar 27, 2022 - Session 40
+
+Decided to do the fairy quest for Maxwell Manderly.
+
+### Apr 10, 2022 - Session 41
+
