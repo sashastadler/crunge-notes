@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Characters/PCs/Quentin Thexius.md",
+            "file": "Notes/Characters/PCs/Alphonse Steele.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Characters/PCs/Quentin Thexius.md",
+            "file": "Notes/Characters/PCs/Alphonse Steele.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Characters/PCs/Quentin Thexius.md"
+                "file": "Notes/Characters/PCs/Alphonse Steele.md"
               }
             }
           },
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Characters/PCs/Quentin Thexius.md",
+                "file": "Notes/Characters/PCs/Alphonse Steele.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,6 +128,7 @@
   },
   "active": "043d2a9cbd101daf",
   "lastOpenFiles": [
+    "Notes/Characters/PCs/Alphonse Steele.md",
     "Notes/Characters/PCs/Quentin Thexius.md",
     "Notes/Characters/NPCs/Cornelia Belrose.md",
     "Notes/Adventure Log.md",
@@ -136,7 +137,6 @@
     "Notes/Religion/Pantheon II/Impera.md",
     "Notes/Religion/Obol Dragon God.md",
     "Notes/Quests/Church Graffiti.md",
-    "Notes/Locations/Obol.md",
-    "Notes/Religion/Pantheon III/The Lawbreaker.md"
+    "Notes/Locations/Obol.md"
   ]
 }
