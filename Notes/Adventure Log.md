@@ -168,3 +168,4 @@ Decided to do the fairy quest for Maxwell Manderly.
 
 ### Apr 10, 2022 - Session 41
 
+Handed over the fairy bodies.
