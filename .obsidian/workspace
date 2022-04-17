@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Adventure Log.md",
+            "file": "Notes/Locations/Obol.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Adventure Log.md",
+            "file": "Notes/Locations/Obol.md",
             "mode": "preview"
           }
         },
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "dragon",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,7 +81,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Adventure Log.md"
+                "file": "Notes/Locations/Obol.md"
               }
             }
           },
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Adventure Log.md",
+                "file": "Notes/Locations/Obol.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,15 +128,15 @@
   },
   "active": "4597637d91d78652",
   "lastOpenFiles": [
-    "Notes/Adventure Log.md",
+    "Notes/Locations/Obol.md",
+    "Notes/Religion/Pantheon III/The Lawbreaker.md",
+    "Notes/Religion/Pantheon III/Vitae.md",
+    "Notes/Religion/Pantheons.md",
+    "Notes/Religion/Pantheon IV/Zeus.md",
     "Notes/Characters/PCs/Eugine Brawnanvil.md",
+    "Notes/Characters/PCs/Quentin Thexius.md",
+    "Notes/Adventure Log.md",
     "Notes/Quests/Pixies for Puppets.md",
-    "Notes/Bathing Log.md",
-    "Notes/Quests/Blythe Begone.md",
-    "Notes/Quests/Church Graffiti.md",
-    "Notes/Quests/Beef With Rodani.md",
-    "Notes/Quests/Night Terror in Basses.md",
-    "Notes/Quests/Merc-ing the Marquee.md",
-    "Notes/Characters/NPCs/Rufus Hennek.md"
+    "Notes/Bathing Log.md"
   ]
 }

@@ -17,6 +17,8 @@ Aasimar of [The Lawbreaker](../../Religion/Pantheon%20III/The%20Lawbreaker.md). 
 
 Knows [Cornelia Belrose](../NPCs/Cornelia%20Belrose.md).
 
+Has a recurring dream about singing a lullaby to a dog.
+
 >Gildas: 3815 G
 
 ##### Outfit
@@ -36,5 +38,5 @@ Knows [Cornelia Belrose](../NPCs/Cornelia%20Belrose.md).
 **gaslight** ~~gatekeep girlboss mansplain manipulate malewife~~
 
 ##### Performances
-- Session 31: (nat 1) Attempted to perform at [The Good Night](../../Locations/Siege%20Richesse.md#The%20Good%20Night) . Was too intoxicated and fell off the stage (was maybe pushed) before playing anything.
+- Session 31: (2?) Attempted to perform at [The Good Night](../../Locations/Siege%20Richesse.md#The%20Good%20Night) . Was too intoxicated and fell off the stage (was maybe pushed) before playing anything.
 - Session 27: (nat 20) A tavern in [Souhold](../../Locations/Souhold.md). One of the best performance he has ever done.
