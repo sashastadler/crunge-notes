@@ -13,7 +13,7 @@
 
 #### Information
 
-Aasimar of [The Lawbreaker](../../Religion/Pantheon%20III/The%20Lawbreaker.md). Born in the Westergoth Empire. Used to be part of a church (religous sect)(church of miseries - [Pantheon III](../../Religion/Pantheons.md)) but ran away because he hated it ("you could say I left illegally"). Performed with [Sextus Sergius](../NPCs/Sextus%20Sergius.md) for a while after. Has a tattoo bought from Super Freaky during Session 34, allowing him to summon a familiar (a rat named Pickle). Does not wash his hands before cooking (not surprising giving his reluctance to bathe).
+Aasimar of [The Lawbreaker](../../Religion/Pantheon%20III/The%20Lawbreaker.md). Born in the Westergoth Empire. Used to be part of a church (religous sect)(church of miseries - [Pantheon III](../../Religion/Pantheons.md)) but ran away because he hated it ("you could say I left illegally"). His church beheaded followers of Impera. Performed with [Sextus Sergius](../NPCs/Sextus%20Sergius.md) for a while after. Has a tattoo bought from Super Freaky during Session 34, allowing him to summon a familiar (a rat named Pickle). Does not wash his hands before cooking (not surprising giving his reluctance to bathe).
 
 Knows [Cornelia Belrose](../NPCs/Cornelia%20Belrose.md).
 

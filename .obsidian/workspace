@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Adventure Log.md",
+            "file": "Notes/Characters/PCs/Quentin Thexius.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Adventure Log.md",
+            "file": "Notes/Characters/PCs/Quentin Thexius.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Adventure Log.md"
+                "file": "Notes/Characters/PCs/Quentin Thexius.md"
               }
             }
           },
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Adventure Log.md",
+                "file": "Notes/Characters/PCs/Quentin Thexius.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,8 +126,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4597637d91d78652",
+  "active": "043d2a9cbd101daf",
   "lastOpenFiles": [
+    "Notes/Characters/PCs/Quentin Thexius.md",
+    "Notes/Characters/NPCs/Cornelia Belrose.md",
     "Notes/Adventure Log.md",
     "Notes/Characters/NPCs/Lilianna.md",
     "Notes/Characters/NPCs/Vikas Hastur.md",
@@ -135,8 +137,6 @@
     "Notes/Religion/Obol Dragon God.md",
     "Notes/Quests/Church Graffiti.md",
     "Notes/Locations/Obol.md",
-    "Notes/Religion/Pantheon III/The Lawbreaker.md",
-    "Notes/Religion/Pantheon III/Vitae.md",
-    "Notes/Religion/Pantheons.md"
+    "Notes/Religion/Pantheon III/The Lawbreaker.md"
   ]
 }
