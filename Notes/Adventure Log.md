@@ -172,3 +172,4 @@ Handed over the fairy bodies. Talked with Artyeom.
 
 ### Apr 17, 2022 - Session 42
 
+4 of the crew go research 
