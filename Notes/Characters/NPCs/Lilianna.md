@@ -1,4 +1,4 @@
->## Lilianna
+>## Lilianna Hastur
 
 ### Location: [Obol](../../Locations/Obol.md)
 

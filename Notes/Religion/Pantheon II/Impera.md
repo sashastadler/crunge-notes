@@ -27,3 +27,4 @@ Impera is an aged goddess. Her relevance, once world-shaking, has waned. She sti
 #### Known Worshippers
 
 - [Yahseh an-Nasira](../../Characters/NPCs/Yahseh%20an-Nasira.md)
+- [Vikas Hastur](../../Characters/NPCs/Vikas%20Hastur.md)
