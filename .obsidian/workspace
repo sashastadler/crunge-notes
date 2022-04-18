@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Characters/PCs/Cusdakesh Greyskull.md",
+            "file": "Notes/Characters/PCs/Eugine Brawnanvil.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Characters/PCs/Cusdakesh Greyskull.md",
+            "file": "Notes/Characters/PCs/Eugine Brawnanvil.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Characters/PCs/Cusdakesh Greyskull.md"
+                "file": "Notes/Characters/PCs/Eugine Brawnanvil.md"
               }
             }
           },
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Characters/PCs/Cusdakesh Greyskull.md",
+                "file": "Notes/Characters/PCs/Eugine Brawnanvil.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,6 +128,7 @@
   },
   "active": "043d2a9cbd101daf",
   "lastOpenFiles": [
+    "Notes/Characters/PCs/Eugine Brawnanvil.md",
     "Notes/Characters/PCs/Cusdakesh Greyskull.md",
     "Notes/Characters/PCs/Alphonse Steele.md",
     "Notes/Characters/PCs/Quentin Thexius.md",
@@ -136,7 +137,6 @@
     "Notes/Characters/NPCs/Lilianna.md",
     "Notes/Characters/NPCs/Vikas Hastur.md",
     "Notes/Religion/Pantheon II/Impera.md",
-    "Notes/Religion/Obol Dragon God.md",
-    "Notes/Quests/Church Graffiti.md"
+    "Notes/Religion/Obol Dragon God.md"
   ]
 }
