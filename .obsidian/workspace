@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Characters/PCs/Eugine Brawnanvil.md",
+            "file": "Notes/Characters/PCs/O.T.W.M..md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Characters/PCs/Eugine Brawnanvil.md",
+            "file": "Notes/Characters/PCs/O.T.W.M..md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Characters/PCs/Eugine Brawnanvil.md"
+                "file": "Notes/Characters/PCs/O.T.W.M..md"
               }
             }
           },
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Characters/PCs/Eugine Brawnanvil.md",
+                "file": "Notes/Characters/PCs/O.T.W.M..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,6 +128,7 @@
   },
   "active": "043d2a9cbd101daf",
   "lastOpenFiles": [
+    "Notes/Characters/PCs/O.T.W.M..md",
     "Notes/Characters/PCs/Eugine Brawnanvil.md",
     "Notes/Characters/PCs/Cusdakesh Greyskull.md",
     "Notes/Characters/PCs/Alphonse Steele.md",
@@ -136,7 +137,6 @@
     "Notes/Adventure Log.md",
     "Notes/Characters/NPCs/Lilianna.md",
     "Notes/Characters/NPCs/Vikas Hastur.md",
-    "Notes/Religion/Pantheon II/Impera.md",
-    "Notes/Religion/Obol Dragon God.md"
+    "Notes/Religion/Pantheon II/Impera.md"
   ]
 }
