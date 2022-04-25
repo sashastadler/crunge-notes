@@ -6,7 +6,9 @@
 
 #### Information
 
-Does not drink water. Map enthusiast. Apple juice enthusiast. Owns [Ghosts of Iron](../../Books/Ghosts%20of%20Iron.md). Gave up the ending of [For God or Love](../../Books/For%20God%20or%20Love.md) to [Duke Delight](../NPCs/Duke%20Delight.md) in exchange for escape. Worships [Bondye](../../Religion/Pantheon%20I/Bondye.md). Can forge stuff. His dreams look like the covers of romance novels with shirtless men on horses.
+Does not drink water. Map enthusiast. Apple juice enthusiast. Owns [Ghosts of Iron](../../Books/Ghosts%20of%20Iron.md). Gave up the ending of [For God or Love](../../Books/For%20God%20or%20Love.md) to [Duke Delight](../NPCs/Duke%20Delight.md) in exchange for escape. Worships [Bondye](../../Religion/Pantheon%20I/Bondye.md). Can forge stuff. His dreams look like the covers of romance novels with shirtless men on horses. 
+
+"has had some kiss kiss"
 
 >Gildas: 2785 G
 
