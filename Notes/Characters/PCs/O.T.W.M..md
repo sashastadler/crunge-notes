@@ -6,7 +6,7 @@
 
 #### Information
 
-Has memories of someone important to him? But gave up his memory of what she looks like (and where her grave is?) to escape [The Duke Delight](../NPCs/Duke%20Delight.md). From the Tartaros. A 3000-series. Follows [The Penitent of Iron](../../Religion/Pantheon%20II/The%20Penitent%20of%20Iron.md). Warforged manufactured in the Banyan Confederacy.
+A 3000-series. Follows [The Penitent of Iron](../../Religion/Pantheon%20II/The%20Penitent%20of%20Iron.md). From [[Tartaros]]. Warforged manufactured in the Banyan Confederacy. Was in [Gardena](../../Locations/Gardena.md) living with his wife (!) for around a year before meeting the rest of the crew. Wife died a few months before he met the crew. Has memories of someone important to him (his wife), but gave up his memory of what she looks like (and where her grave is?) to escape [The Duke Delight](../NPCs/Duke%20Delight.md). 
 
 >Gildas: 3895 G
 
