@@ -184,3 +184,4 @@ Fight with [Morthos Rodani](Characters/NPCs/Morthos%20Rodani.md).
 
 ### May 8, 2022 - Session 44
 
+Alphonse tricks kids. Groups plans to overthrow the government. Drinking and bonding. Rodani says we must leave Obol.

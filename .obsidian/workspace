@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Characters/PCs/Cusdakesh Greyskull.md",
+            "file": "Notes/Adventure Log.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Characters/PCs/Cusdakesh Greyskull.md",
+            "file": "Notes/Adventure Log.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Characters/PCs/Cusdakesh Greyskull.md"
+                "file": "Notes/Adventure Log.md"
               }
             }
           },
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Characters/PCs/Cusdakesh Greyskull.md",
+                "file": "Notes/Adventure Log.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,12 +128,12 @@
   },
   "active": "4597637d91d78652",
   "lastOpenFiles": [
+    "Notes/Adventure Log.md",
     "Notes/Characters/PCs/Cusdakesh Greyskull.md",
     "Notes/Characters/PCs/Eugine Brawnanvil.md",
     "Notes/Characters/PCs/Alphonse Steele.md",
     "Notes/Characters/PCs/O.T.W.M..md",
     "Notes/Characters/PCs/Quentin Thexius.md",
-    "Notes/Adventure Log.md",
     "Notes/Characters/NPCs/Cornelia Belrose.md",
     "Notes/Characters/NPCs/Lilianna.md",
     "Notes/Characters/NPCs/Vikas Hastur.md",
