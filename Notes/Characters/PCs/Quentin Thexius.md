@@ -38,5 +38,6 @@ Has a recurring dream about singing a lullaby to a dog.
 **gaslight** ~~gatekeep girlboss mansplain manipulate malewife~~
 
 ##### Performances
+- Session 44: (dirty 20) Performed at [The Good Night](../../Locations/Siege%20Richesse.md#The%20Good%20Night) . Plays grunge music. Crowd loves it.
 - Session 31: (2?) Attempted to perform at [The Good Night](../../Locations/Siege%20Richesse.md#The%20Good%20Night) . Was too intoxicated and fell off the stage (was maybe pushed) before playing anything.
 - Session 27: (nat 20) A tavern in [Souhold](../../Locations/Souhold.md). One of the best performance he has ever done.

@@ -173,3 +173,14 @@ Handed over the fairy bodies. Talked with Artyeom.
 ### Apr 17, 2022 - Session 42
 
 4 of the crew go research gods and laws in a wizard library. Eugine and Crunge do their own thing.
+
+### Apr 24, 2022 - Session 43
+
+?
+
+### May 1, 2022 - Session 44
+
+Fight with [Morthos Rodani](Characters/NPCs/Morthos%20Rodani.md).
+
+### May 8, 2022 - Session 44
+
