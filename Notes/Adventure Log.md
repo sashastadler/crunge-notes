@@ -186,3 +186,7 @@ Fight with [Morthos Rodani](Characters/NPCs/Morthos%20Rodani.md).
 
 Alphonse tricks kids. Groups plans to overthrow the government. Drinking and bonding. Rodani says we must leave Obol.
 
+### May 15, 2022 - Session 46
+
+We shop. Cusdakesh says bye to Covey. OTWM gets a docer. Alphonse meets with the guy who has his pets. He named them all dumb names.
+
