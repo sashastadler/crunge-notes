@@ -22,6 +22,7 @@ An ochre and umber kilt. Thick but breathable wool. A deceptive amount of give, 
 
 - "Eugine sounds like he could be a kitchen"
 - "Eugine is into DILFs" (despite being allegedly straight)
+- "OTWM, what's your penis situation?"
 
 #### Other
 
