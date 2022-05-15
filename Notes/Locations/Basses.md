@@ -4,7 +4,7 @@
 
 ### Details
 
-Small village outside of [Siege Richesse](Siege%20Richesse.md). Plagues by a beast dubbed the [Night Terror](../Quests/Night%20Terror%20in%20Basses.md). 
+Small village outside of [Siege Richesse](Siege%20Richesse.md). Plagues by a beast dubbed the [Night Terror](../Quests/Night%20Terror%20in%20Basses.md). Defeated by us.
 
 #### Zira's Tavern
 
