@@ -188,5 +188,5 @@ Alphonse tricks kids. Groups plans to overthrow the government. Drinking and bon
 
 ### May 15, 2022 - Session 46
 
-We shop. Cusdakesh says bye to Covey. OTWM gets a docer. Alphonse meets with the guy who has his pets. He named them all dumb names.
+We shop. Cusdakesh says bye to Covey. OTWM gets a docer. Alphonse meets with the guy who has his pets (Vetenari?). He named them all dumb names.
 
