@@ -7,8 +7,11 @@
         "id": "4597637d91d78652",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Notes/Locations/Souhold.md",
+            "mode": "source"
+          }
         },
         "group": "ae52f77e1bb68642"
       },
@@ -16,8 +19,11 @@
         "id": "043d2a9cbd101daf",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Notes/Locations/Souhold.md",
+            "mode": "source"
+          }
         },
         "group": "ae52f77e1bb68642"
       }
@@ -74,7 +80,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notes/Locations/Souhold.md"
+              }
             }
           },
           {
@@ -83,6 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notes/Locations/Souhold.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,6 +128,8 @@
   },
   "active": "4597637d91d78652",
   "lastOpenFiles": [
+    "Notes/Locations/Souhold.md",
+    "Notes/Locations/Basses.md",
     "Notes/Bathing Log.md",
     "Notes/Books/Ghosts of Iron.md",
     "Notes/Characters/NPCs/Lilianna Hastur.md",
@@ -126,8 +137,6 @@
     "Notes/Characters/NPCs/Carrietta.md",
     "Notes/Characters/NPCs/Gorok.md",
     "Notes/Characters/NPCs/Orson.md",
-    "Notes/Characters/NPCs/Yahseh an-Nasira.md",
-    "Notes/Locations/Basses.md",
-    "Notes/Adventure Log.md"
+    "Notes/Characters/NPCs/Yahseh an-Nasira.md"
   ]
 }
