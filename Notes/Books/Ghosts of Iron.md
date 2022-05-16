@@ -6,7 +6,7 @@
 
 #### Plot
 
-Alphonse's life?
+Alphonse's life? OC kills Alphonse and marries [Lilianna Hastur](../Characters/NPCs/Lilianna%20Hastur.md)
 
 ***
 

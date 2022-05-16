@@ -49,11 +49,11 @@ The crew leaves Souhold and enters Obol. In [De Cuivre](Locations/De%20Cuivre.md
 
 On the way to Siege Richesse, [O.T.W.M.](Characters/PCs/O.T.W.M..md) notices the group is being followed by a large bird. Everyone stops to fight the enormous bird. Cusdakesh falls 60 feet and is fine. It gets away after some fighting. 
 
-Set up camp in a cave. Some bounty hunters came by asking for Alphonse. They were killed by [Lilianna](Characters/NPCs/Lilianna.md).
+Set up camp in a cave. Some bounty hunters came by asking for Alphonse. They were killed by [Lilianna Hastur](Characters/NPCs/Lilianna%20Hastur.md).
 
 ### Jan 2, 2022 - Session 28
 
-[Lilianna](Characters/NPCs/Lilianna.md) reveals that she is (was?) engaged to [Alphonse](Characters/PCs/Alphonse%20Steele.md). Told us to avoid [Siege Richesse](Locations/Siege%20Richesse.md) and to stick to the villages. (we wont do that)
+[Lilianna Hastur](Characters/NPCs/Lilianna%20Hastur.md) reveals that she is (was?) engaged to [Alphonse](Characters/PCs/Alphonse%20Steele.md). Told us to avoid [Siege Richesse](Locations/Siege%20Richesse.md) and to stick to the villages. (we wont do that)
 
 After some catching up, we sleep in the cave and continue traveling in the morning.
 

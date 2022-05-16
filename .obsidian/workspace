@@ -7,11 +7,8 @@
         "id": "4597637d91d78652",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Notes/Characters/NPCs/Gorok.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         },
         "group": "ae52f77e1bb68642"
       },
@@ -19,11 +16,8 @@
         "id": "043d2a9cbd101daf",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Notes/Characters/NPCs/Gorok.md",
-            "mode": "preview"
-          }
+          "type": "empty",
+          "state": {}
         },
         "group": "ae52f77e1bb68642"
       }
@@ -80,9 +74,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notes/Characters/NPCs/Gorok.md"
-              }
+              "state": {}
             }
           },
           {
@@ -91,7 +83,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Characters/NPCs/Gorok.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,17 +117,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "043d2a9cbd101daf",
+  "active": "4597637d91d78652",
   "lastOpenFiles": [
+    "Notes/Bathing Log.md",
+    "Notes/Books/Ghosts of Iron.md",
+    "Notes/Characters/NPCs/Lilianna Hastur.md",
+    "Notes/Books/For God or Love.md",
+    "Notes/Characters/NPCs/Carrietta.md",
     "Notes/Characters/NPCs/Gorok.md",
     "Notes/Characters/NPCs/Orson.md",
     "Notes/Characters/NPCs/Yahseh an-Nasira.md",
     "Notes/Locations/Basses.md",
-    "Notes/Adventure Log.md",
-    "Notes/Characters/PCs/Eugine Brawnanvil.md",
-    "Notes/Characters/PCs/Quentin Thexius.md",
-    "Notes/Characters/PCs/Cusdakesh Greyskull.md",
-    "Notes/Characters/PCs/Alphonse Steele.md",
-    "Notes/Characters/PCs/O.T.W.M..md"
+    "Notes/Adventure Log.md"
   ]
 }
