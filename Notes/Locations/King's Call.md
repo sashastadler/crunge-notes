@@ -52,3 +52,5 @@ The lowest tier of King's Call. Shady. High crime. Has The Shitter's Gate.
 - [Granny Weatherwax](../Characters/NPCs/Granny%20Weatherwax.md)
 - [Lawmaster Krauss](Lawmaster%20Krauss)
 - [Nav Liao](../Characters/NPCs/Nav%20Liao.md)
+- [Sextus Sergius](../Characters/NPCs/Sextus%20Sergius.md)
+- [Cornelia Belrose](../Characters/NPCs/Cornelia%20Belrose.md)

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Locations/King's Call.md",
+            "file": "Notes/Characters/NPCs/Untitled.md",
             "mode": "source"
           }
         },
@@ -21,8 +21,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Locations/King's Call.md",
-            "mode": "preview"
+            "file": "Notes/Characters/NPCs/Untitled.md",
+            "mode": "source"
           }
         },
         "group": "ae52f77e1bb68642"
@@ -81,7 +81,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Locations/King's Call.md"
+                "file": "Notes/Characters/NPCs/Untitled.md"
               }
             }
           },
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Locations/King's Call.md",
+                "file": "Notes/Characters/NPCs/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,17 +126,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "043d2a9cbd101daf",
+  "active": "4597637d91d78652",
   "lastOpenFiles": [
-    "Notes/Locations/King's Call.md",
+    "Notes/Characters/NPCs/Untitled.md",
+    "Notes/Characters/NPCs/Carrietta.md",
+    "Notes/Characters/NPCs/Carter.md",
     "Notes/Characters/NPCs/Cornelia Belrose.md",
+    "Notes/Characters/NPCs/Nanny Ogg.md",
+    "Notes/Locations/King's Call.md",
     "Notes/Characters/NPCs/Sextus Sergius.md",
     "Notes/Characters/NPCs/Roland Hunter.md",
     "Notes/Characters/NPCs/Rowan.md",
-    "Notes/Adventure Log.md",
-    "Notes/Books/Ghosts of Iron.md",
-    "Notes/Books/For God or Love.md",
-    "Notes/Books/Escape from the Tenth Hell.md",
-    "Notes/Books/Vermillian and Veridian.md"
+    "Notes/Adventure Log.md"
   ]
 }
