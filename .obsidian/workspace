@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Locations/Souhold.md",
+            "file": "Notes/Books/Ghosts of Iron.md",
             "mode": "source"
           }
         },
@@ -21,8 +21,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Locations/Souhold.md",
-            "mode": "source"
+            "file": "Notes/Books/Ghosts of Iron.md",
+            "mode": "preview"
           }
         },
         "group": "ae52f77e1bb68642"
@@ -81,7 +81,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Locations/Souhold.md"
+                "file": "Notes/Books/Ghosts of Iron.md"
               }
             }
           },
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Locations/Souhold.md",
+                "file": "Notes/Books/Ghosts of Iron.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,15 +128,15 @@
   },
   "active": "4597637d91d78652",
   "lastOpenFiles": [
+    "Notes/Books/Ghosts of Iron.md",
+    "Notes/Books/For God or Love.md",
+    "Notes/Books/Escape from the Tenth Hell.md",
+    "Notes/Books/Vermillian and Veridian.md",
     "Notes/Locations/Souhold.md",
     "Notes/Locations/Basses.md",
     "Notes/Bathing Log.md",
-    "Notes/Books/Ghosts of Iron.md",
     "Notes/Characters/NPCs/Lilianna Hastur.md",
-    "Notes/Books/For God or Love.md",
     "Notes/Characters/NPCs/Carrietta.md",
-    "Notes/Characters/NPCs/Gorok.md",
-    "Notes/Characters/NPCs/Orson.md",
-    "Notes/Characters/NPCs/Yahseh an-Nasira.md"
+    "Notes/Characters/NPCs/Gorok.md"
   ]
 }
