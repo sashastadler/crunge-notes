@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Characters/NPCs/Roland Hunter.md",
+            "file": "Notes/Locations/King's Call.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Characters/NPCs/Roland Hunter.md",
+            "file": "Notes/Locations/King's Call.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Characters/NPCs/Roland Hunter.md"
+                "file": "Notes/Locations/King's Call.md"
               }
             }
           },
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Characters/NPCs/Roland Hunter.md",
+                "file": "Notes/Locations/King's Call.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,17 +126,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4597637d91d78652",
+  "active": "043d2a9cbd101daf",
   "lastOpenFiles": [
+    "Notes/Locations/King's Call.md",
+    "Notes/Characters/NPCs/Cornelia Belrose.md",
+    "Notes/Characters/NPCs/Sextus Sergius.md",
     "Notes/Characters/NPCs/Roland Hunter.md",
     "Notes/Characters/NPCs/Rowan.md",
     "Notes/Adventure Log.md",
-    "Notes/Characters/NPCs/Sextus Sergius.md",
     "Notes/Books/Ghosts of Iron.md",
     "Notes/Books/For God or Love.md",
     "Notes/Books/Escape from the Tenth Hell.md",
-    "Notes/Books/Vermillian and Veridian.md",
-    "Notes/Locations/Souhold.md",
-    "Notes/Locations/Basses.md"
+    "Notes/Books/Vermillian and Veridian.md"
   ]
 }
