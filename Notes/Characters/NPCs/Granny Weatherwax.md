@@ -1,4 +1,4 @@
->## Granny Weatherwax
+>## Esmerelda "Granny" Weatherwax
 
 ### Location: [King's Call](../../Locations/King's%20Call.md)
 
