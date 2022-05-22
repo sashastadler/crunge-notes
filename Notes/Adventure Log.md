@@ -190,3 +190,8 @@ Alphonse tricks kids. Groups plans to overthrow the government. Drinking and bon
 
 We shop. Cusdakesh says bye to Covey. OTWM gets a docer. Alphonse meets with the guy who has his pets (Vetenari?). He named them all dumb names.
 
+### May 22, 2022 - Session 47
+
+[Quentin](Characters/PCs/Quentin%20Thexius.md) cooks for [Nanny Ogg](Characters/NPCs/Nanny%20Ogg.md) and gains her approval. The crew dines and drinks at [The Duck's Back](Locations/King's%20Call.md#The%20Duck's%20Back), where they find the performance due The Young Lovers - [Sextus](Characters/NPCs/Sextus%20Sergius.md) and [Nells](Characters/NPCs/Cornelia%20Belrose.md). [Roland Hunter](Characters/NPCs/Roland%20Hunter.md) is also dining there, and is revealed to be a De Chuffley, though he no longer associates with them.
+
+The crew (excluding Eldrid and Eugine) sleep over at Nell's and
