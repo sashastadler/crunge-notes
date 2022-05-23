@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Adventure Log.md",
+            "file": "Notes/Characters/PCs/Quentin Thexius.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Adventure Log.md",
+            "file": "Notes/Characters/PCs/Quentin Thexius.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Adventure Log.md"
+                "file": "Notes/Characters/PCs/Quentin Thexius.md"
               }
             }
           },
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Adventure Log.md",
+                "file": "Notes/Characters/PCs/Quentin Thexius.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,15 +128,15 @@
   },
   "active": "4597637d91d78652",
   "lastOpenFiles": [
+    "Notes/Characters/PCs/Quentin Thexius.md",
+    "Notes/Characters/PCs/Eldrid Vannar.md",
+    "Notes/Characters/PCs/O.T.W.M..md",
+    "Notes/Characters/PCs/Eugine Brawnanvil.md",
     "Notes/Adventure Log.md",
     "Notes/Characters/NPCs/Roland Hunter.md",
     "Notes/Characters/NPCs/Sextus Sergius.md",
     "Notes/Locations/Green Orchard.md",
     "Notes/Characters/PCs/Alphonse Steele.md",
-    "Notes/Characters/NPCs/Granny Weatherwax.md",
-    "Notes/Characters/NPCs/Caraniette.md",
-    "Notes/Characters/NPCs/Carrietta.md",
-    "Notes/Characters/NPCs/Carter.md",
-    "Notes/Characters/NPCs/Cornelia Belrose.md"
+    "Notes/Characters/NPCs/Granny Weatherwax.md"
   ]
 }

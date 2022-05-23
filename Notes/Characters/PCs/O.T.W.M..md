@@ -19,6 +19,7 @@ A full robe plus trousers, wrap, slippers. The dominant colors are royal blue an
 #### Fun Quotes
 
 - \*dying in every combat*
+- "I'm like a Bionicle"
 
 #### Other
 
