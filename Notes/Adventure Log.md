@@ -194,4 +194,6 @@ We shop. Cusdakesh says bye to Covey. OTWM gets a docer. Alphonse meets with the
 
 [Quentin](Characters/PCs/Quentin%20Thexius.md) cooks for [Nanny Ogg](Characters/NPCs/Nanny%20Ogg.md) and gains her approval. The crew dines and drinks at [The Duck's Back](Locations/King's%20Call.md#The%20Duck's%20Back), where they find the performance due The Young Lovers - [Sextus](Characters/NPCs/Sextus%20Sergius.md) and [Nells](Characters/NPCs/Cornelia%20Belrose.md). [Roland Hunter](Characters/NPCs/Roland%20Hunter.md) is also dining there, and is revealed to be a De Chuffley, though he no longer associates with them.
 
-The crew (excluding Eldrid and Eugine) sleep over at Nell's and
+The crew (excluding [Eldrid](Characters/PCs/Eldrid%20Vannar.md) and [Eugine](Characters/PCs/Eugine%20Brawnanvil.md)) sleep over at Nell's and Sextus' place, where [Alphonse](Characters/PCs/Alphonse%20Steele.md) and [Cusdakesh](Characters/PCs/Cusdakesh%20Greyskull.md) start hatching a plan to set up [Quentin](Characters/PCs/Quentin%20Thexius.md) with Nells.
+
+Quentin brings Nanny Ogg a gallon of wine in the morning,
