@@ -196,4 +196,4 @@ We shop. Cusdakesh says bye to Covey. OTWM gets a docer. Alphonse meets with the
 
 The crew (excluding [Eldrid](Characters/PCs/Eldrid%20Vannar.md) and [Eugine](Characters/PCs/Eugine%20Brawnanvil.md)) sleep over at Nell's and Sextus' place, where [Alphonse](Characters/PCs/Alphonse%20Steele.md) and [Cusdakesh](Characters/PCs/Cusdakesh%20Greyskull.md) start hatching a plan to set up [Quentin](Characters/PCs/Quentin%20Thexius.md) with Nells.
 
-Quentin brings Nanny Ogg a gallon of wine in the morning and the group sets off for [Green Orchard](Locations/Green%20Orchard.md).
+Quentin brings Nanny Ogg a gallon of wine in the morning and the group sets off for [Green Orchard](Locations/Green%20Orchard.md). While camping, the group fights some monsters.
