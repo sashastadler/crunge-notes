@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Organizations/Witch Hunter's Guild.md",
+            "file": "Notes/Characters/NPCs/Quinn Feldspar.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Organizations/Witch Hunter's Guild.md",
+            "file": "Notes/Characters/NPCs/Quinn Feldspar.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Organizations/Witch Hunter's Guild.md"
+                "file": "Notes/Characters/NPCs/Quinn Feldspar.md"
               }
             }
           },
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Organizations/Witch Hunter's Guild.md",
+                "file": "Notes/Characters/NPCs/Quinn Feldspar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,6 +128,7 @@
   },
   "active": "043d2a9cbd101daf",
   "lastOpenFiles": [
+    "Notes/Characters/NPCs/Quinn Feldspar.md",
     "Notes/Organizations/Witch Hunter's Guild.md",
     "Notes/Locations/Arrasta Kesh.md",
     "Notes/Locations/Basses.md",
@@ -136,7 +137,6 @@
     "Notes/Adventure Log.md",
     "Notes/Organizations/Founders Keepers.md",
     "Notes/Organizations/Witch's Coven.md",
-    "Notes/Characters/NPCs/Demerara.md",
-    "Notes/Locations/Green Orchard.md"
+    "Notes/Characters/NPCs/Demerara.md"
   ]
 }
