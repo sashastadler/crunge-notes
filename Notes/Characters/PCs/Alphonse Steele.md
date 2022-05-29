@@ -28,6 +28,7 @@ A full outfit including corset, skirt, slip, cloak, belt, leggings, bracers, boo
 - Lillith (mother)
 - [Aildinim Oore](../NPCs/Aildinim%20Oore.md) (father)
 - [Rabbit](../../Religion/Pantheon%20I/Rabbit.md) (paternal grandmother)
+- [Impera](../../Religion/Pantheon%20II/Impera.md) (maternal grandmother)
 
 #### Fun Quotes
 
