@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Characters/NPCs/Demerara.md",
+            "file": "Notes/Organizations/Witch Hunter's Guild.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Characters/NPCs/Demerara.md",
+            "file": "Notes/Organizations/Witch Hunter's Guild.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Characters/NPCs/Demerara.md"
+                "file": "Notes/Organizations/Witch Hunter's Guild.md"
               }
             }
           },
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Characters/NPCs/Demerara.md",
+                "file": "Notes/Organizations/Witch Hunter's Guild.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,17 +126,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4597637d91d78652",
+  "active": "043d2a9cbd101daf",
   "lastOpenFiles": [
-    "Notes/Characters/NPCs/Demerara.md",
-    "Notes/Locations/Green Orchard.md",
+    "Notes/Organizations/Witch Hunter's Guild.md",
+    "Notes/Locations/Arrasta Kesh.md",
+    "Notes/Locations/Basses.md",
+    "Notes/Locations/Arcadia.md",
+    "Notes/Locations/Nova Stygium.md",
     "Notes/Adventure Log.md",
-    "Notes/Characters/NPCs/Roland Hunter.md",
-    "Notes/Characters/NPCs/Jerry.md",
-    "Notes/Characters/NPCs/Keighry.md",
-    "Notes/Characters/PCs/Quentin Thexius.md",
-    "Notes/Characters/PCs/Eldrid Vannar.md",
-    "Notes/Characters/PCs/O.T.W.M..md",
-    "Notes/Characters/PCs/Eugine Brawnanvil.md"
+    "Notes/Organizations/Founders Keepers.md",
+    "Notes/Organizations/Witch's Coven.md",
+    "Notes/Characters/NPCs/Demerara.md",
+    "Notes/Locations/Green Orchard.md"
   ]
 }
