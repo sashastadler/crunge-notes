@@ -18,4 +18,4 @@
 
 ### Details
 
-The Gay Herbalist. Friend of [Maria Castellan](Maria%20Castellan.md). Reads [Fredrick's](Notes/Characters/PCs/Alphonse%20Steele.md#Family) mind for fun. Works in the Herbal Shop. 19 years old.
+The Gay Herbalist. Friend of [Maria Castellan](Maria%20Castellan.md). Reads [Fredrick's](Notes/Characters/PCs/Alphonse%20Steele.md#Family) mind for fun. Works in the Herbal Shop. 19 years old. Inventor of Red Bull.

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Locations/Green Orchard.md",
+            "file": "Notes/Characters/NPCs/Demerara.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Locations/Green Orchard.md",
+            "file": "Notes/Characters/NPCs/Demerara.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Locations/Green Orchard.md"
+                "file": "Notes/Characters/NPCs/Demerara.md"
               }
             }
           },
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Locations/Green Orchard.md",
+                "file": "Notes/Characters/NPCs/Demerara.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,8 +126,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "043d2a9cbd101daf",
+  "active": "4597637d91d78652",
   "lastOpenFiles": [
+    "Notes/Characters/NPCs/Demerara.md",
     "Notes/Locations/Green Orchard.md",
     "Notes/Adventure Log.md",
     "Notes/Characters/NPCs/Roland Hunter.md",
@@ -136,7 +137,6 @@
     "Notes/Characters/PCs/Quentin Thexius.md",
     "Notes/Characters/PCs/Eldrid Vannar.md",
     "Notes/Characters/PCs/O.T.W.M..md",
-    "Notes/Characters/PCs/Eugine Brawnanvil.md",
-    "Notes/Characters/NPCs/Sextus Sergius.md"
+    "Notes/Characters/PCs/Eugine Brawnanvil.md"
   ]
 }
