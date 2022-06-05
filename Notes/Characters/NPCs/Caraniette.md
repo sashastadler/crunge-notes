@@ -1,6 +1,6 @@
 >## Cara
 
-### Location: [Obol](../../Locations/Obol.md)
+### Location: [Green Orchard](../../Locations/Green%20Orchard.md)
 
 ### Do we like them: Yes
 
