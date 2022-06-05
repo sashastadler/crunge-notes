@@ -200,9 +200,14 @@ Quentin brings Nanny Ogg a gallon of wine in the morning and the group sets off 
 
 ### May 29, 2022 - Session 48
 
-Went to [Green Orchard](Locations/Green%20Orchard.md), which has expanded. There's a child missing too?. 7 years old, orange hair.
+1-Akhet 23(?): Made it to [Green Orchard](Locations/Green%20Orchard.md), which has expanded. 
+
+1-Akhet 27: Cusdakesh gets his greataxe from Demerara. The crew learns that a child has gone missing - 7 year old boy with orange hair.
 
 ### Jun 5, 2022 - Session 49
 
-1-Akhet 26
-Group quickly heads to the tower. Tower looks pretty much the same as before. There are tracks nearby near a trench made by the beast fought previously, so the group chooses to follow them quickly.
+1-Akhet 27: Group quickly heads to the tower. 
+
+1-Akhet 28: Made it to the tower. Tower looks pretty much the same as before. There are tracks nearby near a trench made by the beast fought previously, so the group chooses to follow them quickly. Tracks end in the middle of the woods.
+
+1-Akhet 29:
