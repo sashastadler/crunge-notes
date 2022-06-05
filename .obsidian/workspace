@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Adventure Log.md",
+            "file": "Notes/Characters/PCs/Alphonse Steele.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Adventure Log.md",
+            "file": "Notes/Characters/PCs/Alphonse Steele.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Adventure Log.md"
+                "file": "Notes/Characters/PCs/Alphonse Steele.md"
               }
             }
           },
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Adventure Log.md",
+                "file": "Notes/Characters/PCs/Alphonse Steele.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,9 +128,9 @@
   },
   "active": "4597637d91d78652",
   "lastOpenFiles": [
+    "Notes/Characters/PCs/Alphonse Steele.md",
     "Notes/Adventure Log.md",
     "Notes/Religion/Pantheon II/Impera.md",
-    "Notes/Characters/PCs/Alphonse Steele.md",
     "Notes/Characters/NPCs/Demerara.md",
     "Notes/Characters/NPCs/Quinn Feldspar.md",
     "Notes/Organizations/Witch Hunter's Guild.md",
