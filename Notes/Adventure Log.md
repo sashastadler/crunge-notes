@@ -203,3 +203,5 @@ Quentin brings Nanny Ogg a gallon of wine in the morning and the group sets off 
 Went to [Green Orchard](Locations/Green%20Orchard.md), which has expanded. There's a child missing too?. 7 years old, orange hair.
 
 ### Jun 5, 2022 - Session 49
+
+Group quickly heads to the tower. Tower looks pre
