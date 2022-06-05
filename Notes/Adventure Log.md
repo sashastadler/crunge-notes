@@ -180,7 +180,7 @@ Handed over the fairy bodies. Talked with Artyeom.
 
 ### May 1, 2022 - Session 44
 
-Fight with [Morthos Rodani](Characters/NPCs/Morthos%20Rodani.md).
+1-Akhet 15: Fight with [Morthos Rodani](Characters/NPCs/Morthos%20Rodani.md).
 
 ### May 8, 2022 - Session 45
 
@@ -210,4 +210,4 @@ Quentin brings Nanny Ogg a gallon of wine in the morning and the group sets off 
 
 1-Akhet 28: Made it to the tower. Tower looks pretty much the same as before. There are tracks nearby near a trench made by the beast fought previously, so the group chooses to follow them quickly. Tracks end in the middle of the woods, where an old road begins. It's getting late, so the group camps there for the night.
 
-1-Akhet 29: Quentin cooks breakfast (sausage in a bun with mayo). The groups finds a frog-like demon creature guarding a large doorway in a mountian. After distracting it with rocks and a fake deer, the group goes through the doorway into the mountain. Inside, it is dark, but they see 
+1-Akhet 29: Quentin cooks breakfast (sausage in a bun with mayo). The groups finds a frog-like demon creature guarding a large doorway in a mountian. After distracting it with rocks and a fake deer, the group goes through the doorway into the mountain. Inside, it is dark, but they see much of the cavern used to have wall and pillar art/drawings/words/markings (?) that have been purposefully erased or ruined. They find tunnels, and decide to proceed through them.
