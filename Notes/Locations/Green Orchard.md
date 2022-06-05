@@ -10,7 +10,7 @@ A village. Where the adventure began. When it was a bigger town, it had tributar
 
 #### The Silver Star
 
-Tavern owned by [Alberic](../Characters/NPCs/Alberic.md). [Maria Castellan](../Characters/NPCs/Maria%20Castellan.md) also works there.
+Tavern owned by [Alberic](../Characters/NPCs/Alberic.md). [Maria Castellan](../Characters/NPCs/Maria%20Castellan.md) also works there. Upgraded sometime in 4-Shemu or 1-Akhet to be fancier, pricier, and now with an attached hotel.
 
 #### Tower
 
