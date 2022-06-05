@@ -208,6 +208,6 @@ Quentin brings Nanny Ogg a gallon of wine in the morning and the group sets off 
 
 1-Akhet 27: Group quickly heads to the tower. 
 
-1-Akhet 28: Made it to the tower. Tower looks pretty much the same as before. There are tracks nearby near a trench made by the beast fought previously, so the group chooses to follow them quickly. Tracks end in the middle of the woods.
+1-Akhet 28: Made it to the tower. Tower looks pretty much the same as before. There are tracks nearby near a trench made by the beast fought previously, so the group chooses to follow them quickly. Tracks end in the middle of the woods, where an old road begins. It's getting late, so the group camps there for the night.
 
-1-Akhet 29:
+1-Akhet 29: Quentin cooks breakfast (sausage in a bun with mayo).
