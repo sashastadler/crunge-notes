@@ -214,4 +214,4 @@ Quentin brings Nanny Ogg a gallon of wine in the morning and the group sets off 
 
 ### Jun 12, 2022 - Session 50
 
-1-Akhet 29: 
+1-Akhet 29: Using Pickle to scout ahead, the group continues through the dungeon.
