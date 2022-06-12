@@ -214,4 +214,4 @@ Quentin brings Nanny Ogg a gallon of wine in the morning and the group sets off 
 
 ### Jun 12, 2022 - Session 50
 
-1-Akhet 29: Using Pickle to scout ahead, the group continues through the dungeon.
+1-Akhet 29: Using Pickle to scout ahead, the group continues through the dungeon. Found a room with a statue, after completing its little riddle, Eldrid is granted knowledge of the path throug the dungeon. The crew comes upon a magical door which seems to damage anything going through (it is like a giant blender). After stopping the blade with a large rod, the group makes it through mostly unharmed. Next, they find themselves in a room with two choices: a man-made hole in the wall, or a doorway labeled (something about trials?). The group chooses the latter. They each pray before a different statue, gaining help in various ways (getting stronger, more charismatic, healing, etc). The following room is 
