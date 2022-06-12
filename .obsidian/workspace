@@ -6,10 +6,11 @@
       {
         "id": "4597637d91d78652",
         "type": "leaf",
+        "dimension": 50.128205128205124,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Characters/PCs/Alphonse Steele.md",
+            "file": "Notes/Adventure Log.md",
             "mode": "source"
           }
         },
@@ -18,10 +19,11 @@
       {
         "id": "043d2a9cbd101daf",
         "type": "leaf",
+        "dimension": 49.871794871794876,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Characters/PCs/Alphonse Steele.md",
+            "file": "Notes/Adventure Log.md",
             "mode": "preview"
           }
         },
@@ -81,7 +83,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Characters/PCs/Alphonse Steele.md"
+                "file": "Notes/Adventure Log.md"
               }
             }
           },
@@ -91,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Characters/PCs/Alphonse Steele.md",
+                "file": "Notes/Adventure Log.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,8 +130,8 @@
   },
   "active": "4597637d91d78652",
   "lastOpenFiles": [
-    "Notes/Characters/PCs/Alphonse Steele.md",
     "Notes/Adventure Log.md",
+    "Notes/Characters/PCs/Alphonse Steele.md",
     "Notes/Locations/Green Orchard.md",
     "Notes/Locations/King's Call.md",
     "Notes/Locations/Obol.md",

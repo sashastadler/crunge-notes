@@ -200,9 +200,9 @@ Quentin brings Nanny Ogg a gallon of wine in the morning and the group sets off 
 
 ### May 29, 2022 - Session 48
 
-1-Akhet 23(?): Made it to [Green Orchard](Locations/Green%20Orchard.md), which has expanded. 
+1-Akhet 23(?): Made it to [Green Orchard](Locations/Green%20Orchard.md), which has expanded. Cusdakesh turns in his greataxe for upgrades. Alphonse finds his family.
 
-1-Akhet 27: Cusdakesh gets his greataxe from Demerara. The crew learns that a child has gone missing - 7 year old boy with orange hair.
+1-Akhet 27: Cusdakesh gets his greataxe from [Quinn](Characters/NPCs/Quinn%20Feldspar.md). The crew learns that a child has gone missing - 7 year old boy with orange hair.
 
 ### Jun 5, 2022 - Session 49
 
