@@ -37,6 +37,7 @@ A full outfit including corset, skirt, slip, cloak, belt, leggings, bracers, boo
 - "I will haunt you even if you kill me"
 - "I'm putting the centipedes in my pockets"
 - "I don't care that much about Sextus"
+- "Would I be able to pass through the door if I didn't have thumbs?"
 
 #### Other
 
