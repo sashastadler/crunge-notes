@@ -218,4 +218,6 @@ Quentin brings Nanny Ogg a gallon of wine in the morning and the group sets off 
 
 ### Jun 19, 2022 - Session 51
 
-1-Akhet 30: The group loots the temple and makes their way out with the child. Realizing it is night time, they decide to camp out for the night, due to many injuries. 
+1-Akhet 30: The group loots the temple and makes their way out with the child. Realizing it is night time, they decide to camp out for the rest of the night, due to many injuries. In the morning, [Alphonse](Characters/PCs/Alphonse%20Steele.md) and [Quentin](Characters/PCs/Quentin%20Thexius.md) go ahead of the crew to get back to town faster, while the rest of the crew travels at a normal pace. They make it back around
+
+2-Akhet 1:
