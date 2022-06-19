@@ -6,7 +6,7 @@
 
 #### Information
 
-Lived in [Green Orchard](../../Locations/Green%20Orchard.md) with friends(?). Used to disguise herself (as what?) to go to the tavern. Follower of [Odin](../../Religion/Pantheon%20IV/Odin.md).
+Lived in [Green Orchard](../../Locations/Green%20Orchard.md) with friends(?). Used to disguise herself (as what?) to go to the tavern. Follower of [Odin](../../Religion/Pantheon%20IV/Odin.md). Missing an eye from dying (Session 50).
 
 >Gildas: 2785 G
 
