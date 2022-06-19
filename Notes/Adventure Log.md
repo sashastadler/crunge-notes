@@ -220,4 +220,4 @@ Quentin brings Nanny Ogg a gallon of wine in the morning and the group sets off 
 
 1-Akhet 30: The group loots the temple and makes their way out with the child. Realizing it is night time, they decide to camp out for the rest of the night, due to many injuries. In the morning, [Alphonse](Characters/PCs/Alphonse%20Steele.md) and [Quentin](Characters/PCs/Quentin%20Thexius.md) go ahead of the crew to get back to town faster, while the rest of the crew travels at a normal pace. They make it back to Green Orchard that night.
 
-2-Akhet 1:
+2-Akhet 1: Quentin visits Quinn to inquire about a leg. The rest of the crew returns in the evening.
