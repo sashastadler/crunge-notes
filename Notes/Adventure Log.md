@@ -226,4 +226,4 @@ Quentin brings Nanny Ogg a gallon of wine in the morning and the group sets off 
 
 ### Jun 26, 2022 - Session 52
 
-2-Akhet 3: The crew sets off for the swamp in the morning. 
+2-Akhet 3: The crew sets off for the swamp in the morning. Quick fight against some vines and a walking tree. Return with the materials (vines and wood) for [Quinn](Characters/NPCs/Quinn%20Feldspar.md). 
