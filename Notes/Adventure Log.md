@@ -222,4 +222,6 @@ Quentin brings Nanny Ogg a gallon of wine in the morning and the group sets off 
 
 2-Akhet 1: Quentin visits Quinn to inquire about a leg. The rest of the crew returns in the evening. Eldrid commissions an eyepatch.
 
-2-Akhet 2: Eugine makes crutches. Eldrid gets her eyepatch.
+2-Akhet 2: Eugine makes crutches. Eldrid gets her eyepatch. Crew plans to go to swamp for resources the next day
+
+2-Akhet 3:
