@@ -233,4 +233,8 @@ Quentin brings Nanny Ogg a gallon of wine in the morning and the group sets off 
 ### Jul 3, 2022 - Session 53
 
 3-Akhet 2: Eldrid gets a ring of spell storing.
-3-Akhet ?: Enter Feywild.
+3-Akhet ?: Enter Feywild. Planning a surprise party for Eldrid?
+
+### Jul 10, 2022 - Session 54
+
+3-Akhet ?: 
