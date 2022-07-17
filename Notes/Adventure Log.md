@@ -237,4 +237,8 @@ Quentin brings Nanny Ogg a gallon of wine in the morning and the group sets off 
 
 ### Jul 10, 2022 - Session 54
 
-3-Akhet ?: 
+3-Akhet ?: Found a large (giant) child. Her parents had left her. Found [Margaret](Characters/NPCs/Margaret.md). Found [Aech](Characters/NPCs/Aechithorian%20Scaevolus%20Matho.md). Fought [Vaevictae](Characters/NPCs/Vaevictae.md).
+
+### Jul 17, 2022 - Session 53
+
+3-Akhet ?: Talked to [Vaevictae](Characters/NPCs/Vaevictae.md) to convince him to let us leave. Went through a portal, ending up on the outskirts of [Gardena](Locations/Gardena.md) (Ldyo?). 
