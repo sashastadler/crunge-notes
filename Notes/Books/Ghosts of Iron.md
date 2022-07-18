@@ -9,6 +9,7 @@
 Alphonse's life? OC kills Alphonse and marries [Lilianna Hastur](../Characters/NPCs/Lilianna%20Hastur.md)
 
 An adventurer named Cercislas Andross explores (a highly fictionalized version of) the wrecked Oore mansion (Iron family - renamed in the book), interacting with various locals.
+
 ***
 
 #### Other Info
