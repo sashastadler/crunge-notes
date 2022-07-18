@@ -6,8 +6,10 @@
 
 #### Plot
 
+
+
 ***
 
 #### Other Info
 
-Owned by [Quentin](../Characters/PCs/Quentin%20Thexius.md)
+Owned by [Quentin Thexius](../Characters/PCs/Quentin%20Thexius.md)
