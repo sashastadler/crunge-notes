@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Characters/NPCs/Aechithorian Scaevolus Matho.md",
+            "file": "Notes/Characters/NPCs/Alberic.md",
             "mode": "source",
             "source": false
           }
@@ -24,7 +24,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Characters/NPCs/Aechithorian Scaevolus Matho.md",
+            "file": "Notes/Characters/NPCs/Alberic.md",
             "mode": "preview",
             "source": false
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Characters/NPCs/Aechithorian Scaevolus Matho.md"
+                "file": "Notes/Characters/NPCs/Alberic.md"
               }
             }
           },
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Characters/NPCs/Aechithorian Scaevolus Matho.md",
+                "file": "Notes/Characters/NPCs/Alberic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,15 +134,15 @@
   },
   "active": "4597637d91d78652",
   "lastOpenFiles": [
+    "Notes/Characters/NPCs/Ajax.md",
+    "Notes/Characters/NPCs/Aildinim Oore.md",
+    "Notes/Characters/NPCs/Aechithorian Scaevolus Matho.md",
+    "Notes/Characters/NPCs/Vaevictae.md",
     "Notes/Characters/NPCs/Roland Hunter.md",
     "Notes/Adventure Log.md",
     "Notes/Books/Vermillian and Veridian.md",
     "Notes/Books/For God or Love.md",
     "Notes/Characters/PCs/Eugine Brawnanvil.md",
-    "Notes/Characters/PCs/Alphonse Steele.md",
-    "Notes/Characters/PCs/Eldrid Vannar.md",
-    "Notes/Books/Escape from the Tenth Hell.md",
-    "Notes/Characters/PCs/Quentin Thexius.md",
-    "Notes/Characters/NPCs/Aechithorian Scaevolus Matho.md"
+    "Notes/Characters/PCs/Alphonse Steele.md"
   ]
 }
