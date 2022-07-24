@@ -241,4 +241,8 @@ Quentin brings Nanny Ogg a gallon of wine in the morning and the group sets off 
 
 ### Jul 17, 2022 - Session 53
 
-3-Akhet ?: Talked to [Vaevictae](Characters/NPCs/Vaevictae.md) to convince him to let us leave. Went through a portal, ending up on the outskirts of [Gardena](Locations/Gardena.md) (Ldyo?). 
+4-Akhet 1: Talked to [Vaevictae](Characters/NPCs/Vaevictae.md) to convince him to let us leave. Went through a portal, ending up on the outskirts of [Gardena](Locations/Gardena.md) (Ldyo?). 
+
+### Jul 24, 2022 - Session 54
+
+4-Akhet 10: Went back to [Gardena](Locations/Gardena.md). 
