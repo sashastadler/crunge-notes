@@ -245,4 +245,4 @@ Quentin brings Nanny Ogg a gallon of wine in the morning and the group sets off 
 
 ### Jul 24, 2022 - Session 54
 
-4-Akhet 10: Went back to [Gardena](Locations/Gardena.md). 
+4-Akhet 10: Went back to [Gardena](Locations/Gardena.md). Drank
