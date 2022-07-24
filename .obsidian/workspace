@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Adventure Log.md",
+            "file": "Notes/Characters/NPCs/Roland Hunter.md",
             "mode": "source",
             "source": false
           }
@@ -24,7 +24,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Adventure Log.md",
+            "file": "Notes/Characters/NPCs/Roland Hunter.md",
             "mode": "preview",
             "source": false
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Adventure Log.md"
+                "file": "Notes/Characters/NPCs/Roland Hunter.md"
               }
             }
           },
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Adventure Log.md",
+                "file": "Notes/Characters/NPCs/Roland Hunter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,8 +132,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "043d2a9cbd101daf",
+  "active": "4597637d91d78652",
   "lastOpenFiles": [
+    "Notes/Adventure Log.md",
     "Notes/Books/Vermillian and Veridian.md",
     "Notes/Books/For God or Love.md",
     "Notes/Characters/PCs/Eugine Brawnanvil.md",
@@ -142,7 +143,6 @@
     "Notes/Books/Escape from the Tenth Hell.md",
     "Notes/Characters/PCs/Quentin Thexius.md",
     "Notes/Characters/NPCs/Aechithorian Scaevolus Matho.md",
-    "Notes/Characters/NPCs/Kairi Edelsson.md",
-    "Notes/Books/Ghosts of Iron.md"
+    "Notes/Characters/NPCs/Kairi Edelsson.md"
   ]
 }
