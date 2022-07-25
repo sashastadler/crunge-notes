@@ -245,4 +245,8 @@ Quentin brings Nanny Ogg a gallon of wine in the morning and the group sets off 
 
 ### Jul 24, 2022 - Session 54
 
-4-Akhet 10: Went back to [Gardena](Locations/Gardena.md). Drank
+4-Akhet 10: Went back to [Gardena](Locations/Gardena.md). Drank. Alphonse spoke to his family.
+
+4-Akhet 11: The crew goes to [Yewande](Characters/NPCs/Yewande%20Vesta.md) to order winter/cold clothes.
+
+4-Akhet 19: The clothes are ready and the crew gets a note from [Aech](Characters/NPCs/Aechithorian%20Scaevolus%20Matho.md) and from "A.V.D." (three seperate people. [Vaevictae](Characters/NPCs/Vaevictae.md), [[Agatha]], [[D]])

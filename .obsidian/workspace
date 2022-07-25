@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Characters/NPCs/Durthu.md",
+            "file": "Notes/Organizations/Witch Hunter's Guild.md",
             "mode": "source",
             "source": false
           }
@@ -24,7 +24,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Characters/NPCs/Durthu.md",
+            "file": "Notes/Organizations/Witch Hunter's Guild.md",
             "mode": "preview",
             "source": false
           }
@@ -56,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dragon",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Characters/NPCs/Durthu.md"
+                "file": "Notes/Organizations/Witch Hunter's Guild.md"
               }
             }
           },
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Characters/NPCs/Durthu.md",
+                "file": "Notes/Organizations/Witch Hunter's Guild.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,15 +134,15 @@
   },
   "active": "4597637d91d78652",
   "lastOpenFiles": [
+    "Notes/Adventure Log.md",
+    "Notes/Characters/NPCs/Vaevictae.md",
+    "Notes/Characters/NPCs/Durthu.md",
     "Notes/Characters/NPCs/Demerara.md",
     "Notes/Characters/NPCs/Duke Delight.md",
-    "Notes/Characters/NPCs/Durthu.md",
     "Notes/Characters/NPCs/Alberic.md",
     "Notes/Characters/NPCs/Ajax.md",
     "Notes/Characters/NPCs/Aildinim Oore.md",
     "Notes/Characters/NPCs/Aechithorian Scaevolus Matho.md",
-    "Notes/Characters/NPCs/Vaevictae.md",
-    "Notes/Characters/NPCs/Roland Hunter.md",
-    "Notes/Adventure Log.md"
+    "Notes/Characters/NPCs/Roland Hunter.md"
   ]
 }
