@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Characters/PCs/Quentin Thexius.md",
+            "file": "Notes/Adventure Log.md",
             "mode": "source",
             "source": false
           }
@@ -24,7 +24,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Characters/PCs/Quentin Thexius.md",
+            "file": "Notes/Adventure Log.md",
             "mode": "preview",
             "source": false
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Characters/PCs/Quentin Thexius.md"
+                "file": "Notes/Adventure Log.md"
               }
             }
           },
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Characters/PCs/Quentin Thexius.md",
+                "file": "Notes/Adventure Log.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,12 +134,12 @@
   },
   "active": "4597637d91d78652",
   "lastOpenFiles": [
+    "Notes/Characters/PCs/Quentin Thexius.md",
     "Notes/Books/Vermillian and Veridian.md",
     "Notes/Characters/PCs/Daephyrantia Pholpfi.md",
     "Notes/Characters/PCs/Cusdakesh Greyskull.md",
     "Notes/Characters/PCs/Eldrid Vannar.md",
     "Notes/Characters/PCs/Eugine Brawnanvil.md",
-    "Notes/Characters/PCs/Quentin Thexius.md",
     "Notes/Characters/PCs/Alphonse Steele.md",
     "Notes/Characters/NPCs/Alberic.md",
     "Notes/Characters/NPCs/Marquis Viol.md",
