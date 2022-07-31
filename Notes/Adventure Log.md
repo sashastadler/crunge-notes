@@ -253,4 +253,4 @@ Quentin brings Nanny Ogg a gallon of wine in the morning and the group sets off 
 
 ### Jul 31, 2022 - Session 55
 
-4-A
+4-Akhet 19: Looking like a storm is approaching, the group takes shelter in the surrounding ruins.
