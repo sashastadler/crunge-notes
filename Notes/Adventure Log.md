@@ -249,8 +249,10 @@ Quentin brings Nanny Ogg a gallon of wine in the morning and the group sets off 
 
 4-Akhet 11: The crew goes to [Yewande](Characters/NPCs/Yewande%20Vesta.md) to order winter/cold clothes.
 
-4-Akhet 19: The clothes are ready and the crew gets a note from [Aech](Characters/NPCs/Aechithorian%20Scaevolus%20Matho.md) and from "A.V.D." (three seperate people. [Vaevictae](Characters/NPCs/Vaevictae.md), [[Agatha]], [[D]]). After some talking with Vaevictae (where he is definitely not really there), a fight breaks out.
+4-Akhet 20: The clothes are ready and the crew gets a note from [Aech](Characters/NPCs/Aechithorian%20Scaevolus%20Matho.md) and from "A.V.D." (three seperate people. [Vaevictae](Characters/NPCs/Vaevictae.md), [[Agatha]], [[D]]). After some talking with Vaevictae (where he is definitely not really there), a fight breaks out.
 
 ### Jul 31, 2022 - Session 55
 
-4-Akhet 19: Looking like a storm is approaching, the group takes shelter in the surrounding ruins.
+4-Akhet 20: Looking like a storm is approaching, the group takes shelter in the surrounding ruins. To rest a little. 
+
+4-Akhet 21: Alphonse leaves along with the prisoners.
