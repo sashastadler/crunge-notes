@@ -4,7 +4,7 @@
 
 #### Information
 
-Tabaxi. Has magic boots and an amulet. Met during session 54 when fighting [Vaevictae](../NPCs/Vaevictae.md) and [Agatha](Agatha). Has a familiar named Archibald (owl).
+Tabaxi. Has magic boots and an amulet. Met during session 56 when fighting [Vaevictae](../NPCs/Vaevictae.md) and [Agatha](Agatha). Has a familiar named Archibald (owl).
 
 ##### Outfit
 

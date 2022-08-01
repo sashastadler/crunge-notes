@@ -239,11 +239,11 @@ Quentin brings Nanny Ogg a gallon of wine in the morning and the group sets off 
 
 3-Akhet ?: Found a large (giant) child. Her parents had left her. Found [Margaret](Characters/NPCs/Margaret.md). Found [Aech](Characters/NPCs/Aechithorian%20Scaevolus%20Matho.md). Fought [Vaevictae](Characters/NPCs/Vaevictae.md).
 
-### Jul 17, 2022 - Session 53
+### Jul 17, 2022 - Session 55
 
 4-Akhet 1: Talked to [Vaevictae](Characters/NPCs/Vaevictae.md) to convince him to let us leave. Went through a portal, ending up on the outskirts of [Gardena](Locations/Gardena.md) (Ldyo?). 
 
-### Jul 24, 2022 - Session 54
+### Jul 24, 2022 - Session 56
 
 4-Akhet 10: Went back to [Gardena](Locations/Gardena.md). Drank. Alphonse spoke to his family.
 
@@ -251,7 +251,7 @@ Quentin brings Nanny Ogg a gallon of wine in the morning and the group sets off 
 
 4-Akhet 20: The clothes are ready and the crew gets a note from [Aech](Characters/NPCs/Aechithorian%20Scaevolus%20Matho.md) and from "A.V.D." (three seperate people. [Vaevictae](Characters/NPCs/Vaevictae.md), [[Agatha]], [[D]]). After some talking with Vaevictae (where he is definitely not really there), a fight breaks out.
 
-### Jul 31, 2022 - Session 55
+### Jul 31, 2022 - Session 57
 
 4-Akhet 20: Looking like a storm is approaching, the group takes shelter in the surrounding ruins. To rest a little. 
 
