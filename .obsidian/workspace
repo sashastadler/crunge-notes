@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Adventure Log.md",
+            "file": "Notes/Characters/PCs/Eugine Brawnanvil.md",
             "mode": "source",
             "source": false
           }
@@ -24,7 +24,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Adventure Log.md",
+            "file": "Notes/Characters/PCs/Eugine Brawnanvil.md",
             "mode": "preview",
             "source": false
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Adventure Log.md"
+                "file": "Notes/Characters/PCs/Eugine Brawnanvil.md"
               }
             }
           },
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Adventure Log.md",
+                "file": "Notes/Characters/PCs/Eugine Brawnanvil.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,10 +134,10 @@
   },
   "active": "4597637d91d78652",
   "lastOpenFiles": [
+    "Notes/Adventure Log.md",
     "Notes/Characters/NPCs/Cornelia Belrose.md",
     "Notes/Characters/PCs/Quentin Thexius.md",
     "Notes/Characters/PCs/Daephyrantia Pholpfi.md",
-    "Notes/Adventure Log.md",
     "Notes/Characters/PCs/Alphonse Steele.md",
     "Notes/Characters/NPCs/Lilianna Hastur.md",
     "Notes/Characters/NPCs/Maxwell Manderly.md",
