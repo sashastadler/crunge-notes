@@ -256,3 +256,5 @@ Quentin brings Nanny Ogg a gallon of wine in the morning and the group sets off 
 4-Akhet 20: Looking like a storm is approaching, the group takes shelter in the surrounding ruins. To rest a little. 
 
 4-Akhet 21: Alphonse leaves along with the prisoners.
+
+Letter w symbol of one of the richest men in arrasta kesh.
