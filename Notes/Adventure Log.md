@@ -255,11 +255,11 @@ Quentin brings Nanny Ogg a gallon of wine in the morning and the group sets off 
 
 4-Akhet 20: Looking like a storm is approaching, the group takes shelter in the surrounding ruins to rest a little. Crew decides to interrogate the wizards from the fight.
 
-4-Akhet 21: Alphonse leaves along with the prisoners. A warforged delivers a letter for Cusdakesh w symbol of one of the richest men in arrasta kesh.
+4-Akhet 21: Alphonse leaves along with the prisoners. A warforged delivers a letter for Cusdakesh w symbol of one of the richest men in Arrasta Kesh.
 
 ### Aug 7, 2022 - Session 58
 
-4-Akhet 21: 
+4-Akhet 21: The crew plans to leave for Gabriol
 
 4-Akhet 22:
 
