@@ -253,7 +253,7 @@ Quentin brings Nanny Ogg a gallon of wine in the morning and the group sets off 
 
 ### Jul 31, 2022 - Session 57
 
-4-Akhet 20: Looking like a storm is approaching, the group takes shelter in the surrounding ruins. To rest a little. 
+4-Akhet 20: Looking like a storm is approaching, the group takes shelter in the surrounding ruins to rest a little. Crew decides to interrogate the wizards from the fight.
 
 4-Akhet 21: Alphonse leaves along with the prisoners.
 
