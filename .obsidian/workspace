@@ -6,11 +6,11 @@
       {
         "id": "4597637d91d78652",
         "type": "leaf",
-        "dimension": 50.833333333333336,
+        "dimension": 50.83333333333334,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Characters/PCs/Cusdakesh Greyskull.md",
+            "file": "Notes/Locations/Siege Richesse.md",
             "mode": "source",
             "source": false
           }
@@ -20,11 +20,11 @@
       {
         "id": "043d2a9cbd101daf",
         "type": "leaf",
-        "dimension": 49.166666666666664,
+        "dimension": 49.16666666666666,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Characters/PCs/Cusdakesh Greyskull.md",
+            "file": "Notes/Locations/Siege Richesse.md",
             "mode": "preview",
             "source": false
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Characters/PCs/Cusdakesh Greyskull.md"
+                "file": "Notes/Locations/Siege Richesse.md"
               }
             }
           },
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Characters/PCs/Cusdakesh Greyskull.md",
+                "file": "Notes/Locations/Siege Richesse.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,15 +134,15 @@
   },
   "active": "4597637d91d78652",
   "lastOpenFiles": [
+    "Notes/Locations/Obol.md",
+    "Notes/Locations/Siege Richesse.md",
+    "Notes/Characters/PCs/Cusdakesh Greyskull.md",
     "Notes/Characters/PCs/Alphonse Steele.md",
     "Notes/Characters/PCs/Quentin Thexius.md",
     "Notes/Characters/PCs/Eldrid Vannar.md",
     "Notes/Characters/PCs/Eugine Brawnanvil.md",
     "Notes/Adventure Log.md",
     "Notes/Characters/NPCs/Alberic.md",
-    "Notes/Characters/PCs/Daephyrantia Pholpfi.md",
-    "Notes/Characters/PCs/O.T.W.M..md",
-    "Notes/Characters/NPCs/Aechithorian Scaevolus Matho.md",
-    "Notes/Characters/PCs/Cusdakesh Greyskull.md"
+    "Notes/Characters/PCs/Daephyrantia Pholpfi.md"
   ]
 }
