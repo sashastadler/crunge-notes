@@ -65,8 +65,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -133,8 +132,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4597637d91d78652",
+  "active": "043d2a9cbd101daf",
   "lastOpenFiles": [
+    "Notes/Characters/NPCs/Cornelia Belrose.md",
+    "Notes/Adventure Log.md",
     "Notes/Characters/PCs/Quentin Thexius.md",
     "Notes/Locations/Siege Richesse.md",
     "Notes/Locations/Obol.md",
@@ -142,8 +143,6 @@
     "Notes/Characters/PCs/Alphonse Steele.md",
     "Notes/Characters/PCs/Eldrid Vannar.md",
     "Notes/Characters/PCs/Eugine Brawnanvil.md",
-    "Notes/Adventure Log.md",
-    "Notes/Characters/NPCs/Alberic.md",
-    "Notes/Characters/PCs/Daephyrantia Pholpfi.md"
+    "Notes/Characters/NPCs/Alberic.md"
   ]
 }
