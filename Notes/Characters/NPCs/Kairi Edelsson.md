@@ -10,9 +10,14 @@
 
 Author of multiple stories about the Founders Keepers. 
 
-| party member | related book|
-|-----------|------------|
-| Alphonse  | [Ghosts of Iron](../../Books/Ghosts%20of%20Iron.md) |
-| Cusdakesh | [Vermillian and Veridian](../../Books/Vermillian%20and%20Veridian.md) |
-| Quentin   |       |
-| O.T.W.M.    |  |
+| party member | related book | fake name | 
+|-----------|------------|----------|
+| [Alphonse](../PCs/Alphonse%20Steele.md)  | [Ghosts of Iron](../../Books/Ghosts%20of%20Iron.md) | 
+| [Cusdakesh](../PCs/Cusdakesh%20Greyskull.md) | [Vermillian and Veridian](../../Books/Vermillian%20and%20Veridian.md) |
+| [Daephyrantia](../PCs/Daephyrantia%20Pholpfi.md) | - | - |
+| [Eldrid](../PCs/Eldrid%20Vannar.md)  | - | - |
+
+| [O.T.W.M.](../PCs/O.T.W.M..md) | [Empire City Roundup](../../Books/Empire%20City%20Roundup.md) | Dodun |
+| [Quentin](../PCs/Quentin%20Thexius.md)  | unknown | - |
+
+
