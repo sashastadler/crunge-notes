@@ -25,7 +25,7 @@ Headquarters of The [Witch Hunter's Guild](../Organizations/Witch%20Hunter's%20G
 
 ##### Vellum and Company
 
-Bookstore owned by [[Vellum]] and his husband [[Sykes]].
+Bookstore owned by [[Vellum]] and their husband [[Sykes]].
 
 ***
 
