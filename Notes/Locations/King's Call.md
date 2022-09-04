@@ -23,6 +23,10 @@ A fancy restaurant in the Upper Crust. Has live entertainment. Past performers i
 
 Headquarters of The [Witch Hunter's Guild](../Organizations/Witch%20Hunter's%20Guild.md)
 
+##### Vellum and Company
+
+Bookstore.
+
 ***
 
 #### Crumb
