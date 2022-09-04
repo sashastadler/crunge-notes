@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Characters/NPCs/Kairi Edelsson.md",
+            "file": "Notes/Locations/King's Call.md",
             "mode": "source",
             "source": false
           }
@@ -24,7 +24,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Characters/NPCs/Kairi Edelsson.md",
+            "file": "Notes/Locations/King's Call.md",
             "mode": "preview",
             "source": false
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Characters/NPCs/Kairi Edelsson.md"
+                "file": "Notes/Locations/King's Call.md"
               }
             }
           },
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Characters/NPCs/Kairi Edelsson.md",
+                "file": "Notes/Locations/King's Call.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,15 +134,15 @@
   },
   "active": "4597637d91d78652",
   "lastOpenFiles": [
-    "Notes/Books/Ghosts of Iron.md",
+    "Notes/Locations/Green Orchard.md",
     "Notes/Characters/NPCs/Kairi Edelsson.md",
+    "Notes/Books/Ghosts of Iron.md",
     "Notes/Books/Vermillian and Veridian.md",
     "Notes/Books/Empire City Roundup.md",
     "Notes/Books/Her Highest Priest.md",
     "Notes/Characters/PCs/Cusdakesh Greyskull.md",
     "Notes/Books/Narrative of Englishe.md",
     "Notes/Books/O, My Miseries.md",
-    "Notes/Characters/NPCs/Rowan.md",
-    "Notes/Characters/NPCs/Vikas Hastur.md"
+    "Notes/Characters/NPCs/Rowan.md"
   ]
 }

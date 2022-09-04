@@ -27,6 +27,10 @@ Headquarters of The [Witch Hunter's Guild](../Organizations/Witch%20Hunter's%20G
 
 Bookstore owned by [[Vellum]] and their husband [[Sykes]].
 
+##### Golden Slumbers
+
+Fancy inn.
+
 ***
 
 #### Crumb
