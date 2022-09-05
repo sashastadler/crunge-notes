@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Books/Empire City Roundup.md",
+            "file": "Notes/Organizations/Witch Hunter's Guild.md",
             "mode": "source",
             "source": false
           }
@@ -24,7 +24,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Books/Empire City Roundup.md",
+            "file": "Notes/Organizations/Witch Hunter's Guild.md",
             "mode": "preview",
             "source": false
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Books/Empire City Roundup.md"
+                "file": "Notes/Organizations/Witch Hunter's Guild.md"
               }
             }
           },
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Books/Empire City Roundup.md",
+                "file": "Notes/Organizations/Witch Hunter's Guild.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,15 +134,15 @@
   },
   "active": "4597637d91d78652",
   "lastOpenFiles": [
+    "Notes/Characters/NPCs/Dell Gondy.md",
+    "Notes/Characters/NPCs/Quinn Feldspar.md",
+    "Notes/Books/Empire City Roundup.md",
     "Notes/Books/Escape from the Tenth Hell.md",
     "Notes/Books/O, My Miseries.md",
     "Notes/Books/Vermillian and Veridian.md",
     "Notes/Characters/NPCs/Cornelia Belrose.md",
     "Notes/Characters/NPCs/Carrietta.md",
     "Notes/Characters/NPCs/Caraniette.md",
-    "Notes/Locations/King's Call.md",
-    "Notes/Locations/Green Orchard.md",
-    "Notes/Characters/NPCs/Kairi Edelsson.md",
-    "Notes/Books/Ghosts of Iron.md"
+    "Notes/Locations/King's Call.md"
   ]
 }
