@@ -264,3 +264,22 @@ Quentin brings Nanny Ogg a gallon of wine in the morning and the group sets off 
 4-Akhet 22:
 
 4-Akhet 23: The crew sets off
+
+### Aug 14, 2022 - Session 59
+
+mountain
+
+### Aug 21, 2022 - Session 60
+
+dungeon/mountain/dragon
+
+### Aug 28, 2022 - Session 61
+
+dungeon
+
+### Sep 4, 2022 - Session 62
+
+The crew investigates into the [Kairi Edelsson](Characters/NPCs/Kairi%20Edelsson.md) books, buying two more. [Quentin's'](Characters/PCs/Quentin%20Thexius.md) curse also [Dell Gondy](Characters/NPCs/Dell%20Gondy.md) died but [Eugine Brawnanvil](Characters/PCs/Eugine%20Brawnanvil.md) brought her back. Killed by a guy looking for [Founders Keepers](Organizations/Founders%20Keepers.md). He can be found in the [[Sylvanian Woods]].
+
+### Sep 11, 2022 - Session 63
+
