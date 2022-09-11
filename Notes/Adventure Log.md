@@ -279,7 +279,8 @@ dungeon
 
 ### Sep 4, 2022 - Session 62
 
-The crew investigates into the [Kairi Edelsson](Characters/NPCs/Kairi%20Edelsson.md) books, buying two more. [Quentin's'](Characters/PCs/Quentin%20Thexius.md) curse also [Dell Gondy](Characters/NPCs/Dell%20Gondy.md) died but [Eugine Brawnanvil](Characters/PCs/Eugine%20Brawnanvil.md) brought her back. Killed by a guy looking for [Founders Keepers](Organizations/Founders%20Keepers.md). He can be found in the [[Sylvanian Woods]].
+The crew investigates into the [Kairi Edelsson](Characters/NPCs/Kairi%20Edelsson.md) books, buying two more. [Quentin's'](Characters/PCs/Quentin%20Thexius.md) curse also involves not being able to recognize [Nells'](Characters/NPCs/Caraniette.md) face.
+[Dell Gondy](Characters/NPCs/Dell%20Gondy.md) died but [Eugine Brawnanvil](Characters/PCs/Eugine%20Brawnanvil.md) brought her back. Killed by a guy looking for [Founders Keepers](Organizations/Founders%20Keepers.md). He can be found in the [[Sylvanian Woods]].
 
 ### Sep 11, 2022 - Session 63
 
