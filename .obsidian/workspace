@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Characters/NPCs/Alberic.md",
+            "file": "Notes/Characters/NPCs/Kairi Edelsson.md",
             "mode": "source",
             "source": false
           }
@@ -24,7 +24,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Characters/NPCs/Alberic.md",
+            "file": "Notes/Characters/NPCs/Kairi Edelsson.md",
             "mode": "preview",
             "source": false
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Characters/NPCs/Alberic.md"
+                "file": "Notes/Characters/NPCs/Kairi Edelsson.md"
               }
             }
           },
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Characters/NPCs/Alberic.md",
+                "file": "Notes/Characters/NPCs/Kairi Edelsson.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,17 +132,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4597637d91d78652",
+  "active": "043d2a9cbd101daf",
   "lastOpenFiles": [
+    "Notes/Books/Witch-Queen of the Frozen North.md",
+    "Notes/Books/O, My Miseries.md",
+    "Notes/Books/Empire City Roundup.md",
+    "Notes/Characters/NPCs/Kairi Edelsson.md",
+    "Notes/Characters/NPCs/Alberic.md",
     "Notes/Books/Ghosts of Iron.md",
     "Notes/Books/For God or Love.md",
     "Notes/Books/Escape from the Tenth Hell.md",
-    "Notes/Books/Empire City Roundup.md",
-    "Notes/Characters/NPCs/Kairi Edelsson.md",
-    "Notes/Books/O, My Miseries.md",
     "Notes/Books/Vermillian and Veridian.md",
-    "Notes/Adventure Log.md",
-    "Notes/Organizations/Witch Hunter's Guild.md",
-    "Notes/Characters/NPCs/Dell Gondy.md"
+    "Notes/Adventure Log.md"
   ]
 }
