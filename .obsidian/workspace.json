@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Characters/PCs/Cusdakesh Greyskull.md",
+                "file": "Notes/Characters/Horse Log.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Characters/PCs/Cusdakesh Greyskull.md",
+                "file": "Notes/Characters/Horse Log.md",
                 "mode": "preview",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Characters/PCs/Cusdakesh Greyskull.md"
+                "file": "Notes/Characters/Horse Log.md"
               }
             }
           },
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Characters/PCs/Cusdakesh Greyskull.md",
+                "file": "Notes/Characters/Horse Log.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,6 +146,7 @@
   },
   "active": "e7b916743e86cccd",
   "lastOpenFiles": [
+    "Notes/Characters/PCs/Cusdakesh Greyskull.md",
     "Notes/Characters/Horse Log.md",
     "Notes/Books/Vermillian and Veridian.md",
     "Notes/Characters/NPCs/Kairi Edelsson.md",
@@ -154,7 +155,6 @@
     "Notes/Books/Ghosts of Iron.md",
     "Notes/Books/For God or Love.md",
     "Notes/Books/Escape from the Tenth Hell.md",
-    "Notes/Books/Empire City Roundup.md",
-    "Notes/Books/Witch-Queen of the Frozen North.md"
+    "Notes/Books/Empire City Roundup.md"
   ]
 }
