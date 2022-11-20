@@ -1,0 +1,173 @@
+{
+  "main": {
+    "id": "57b8ec4af7b3e6b2",
+    "type": "split",
+    "children": [
+      {
+        "id": "c5096852a582cb4d",
+        "type": "tabs",
+        "dimension": 50.83333333333334,
+        "children": [
+          {
+            "id": "4597637d91d78652",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Characters/NPCs/Kairi Edelsson.md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "group": "ae52f77e1bb68642"
+          }
+        ]
+      },
+      {
+        "id": "75b0344bca49fbd2",
+        "type": "tabs",
+        "dimension": 49.16666666666666,
+        "children": [
+          {
+            "id": "043d2a9cbd101daf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Characters/NPCs/Kairi Edelsson.md",
+                "mode": "preview",
+                "source": false
+              }
+            },
+            "group": "ae52f77e1bb68642"
+          },
+          {
+            "id": "300e836e1e710c41",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.0.3"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b207bf3bdb580ad5",
+    "type": "split",
+    "children": [
+      {
+        "id": "047e2f783801de0f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d9e14fd576e9a1c9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "816933e1fbd053ef",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "pickle",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "be4118804d43a740",
+    "type": "split",
+    "children": [
+      {
+        "id": "f4f0c1c2006f157c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "21f28ebe3ca20da7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Notes/Characters/NPCs/Kairi Edelsson.md"
+              }
+            }
+          },
+          {
+            "id": "e21790686eabda7b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Notes/Characters/NPCs/Kairi Edelsson.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "b3207176c2e01356",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "009e497562a9a528",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Locations/Siege Richesse.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "300e836e1e710c41",
+  "lastOpenFiles": [
+    "Notes/Books/A Short Adventure.md",
+    "Notes/Characters/NPCs/Kairi Edelsson.md",
+    "Notes/Books/Her Highest Priest.md",
+    "Notes/Books/Ghosts of Iron.md",
+    "Notes/Books/For God or Love.md",
+    "Notes/Books/Escape from the Tenth Hell.md",
+    "Notes/Books/Empire City Roundup.md",
+    "Notes/Books/Witch-Queen of the Frozen North.md",
+    "Notes/Books/O, My Miseries.md",
+    "Notes/Characters/NPCs/Alberic.md"
+  ]
+}
