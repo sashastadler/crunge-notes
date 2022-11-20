@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Characters/Horse Log.md",
+                "file": "Notes/Characters/PCs/Cusdakesh Greyskull.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Characters/Horse Log.md",
+                "file": "Notes/Characters/PCs/Cusdakesh Greyskull.md",
                 "mode": "preview",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Characters/Horse Log.md"
+                "file": "Notes/Characters/PCs/Cusdakesh Greyskull.md"
               }
             }
           },
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Characters/Horse Log.md",
+                "file": "Notes/Characters/PCs/Cusdakesh Greyskull.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,9 +146,9 @@
   },
   "active": "e7b916743e86cccd",
   "lastOpenFiles": [
+    "Notes/Characters/Horse Log.md",
     "Notes/Books/Vermillian and Veridian.md",
     "Notes/Characters/NPCs/Kairi Edelsson.md",
-    "Notes/Characters/Horse Log.md",
     "Notes/Books/A Short Adventure.md",
     "Notes/Books/Her Highest Priest.md",
     "Notes/Books/Ghosts of Iron.md",
