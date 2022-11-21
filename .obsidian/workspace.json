@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Quests/Missing Mayor - Mayor on the Move.md",
+                "file": "Notes/Adventure Log.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Quests/Missing Mayor - Mayor on the Move.md",
+                "file": "Notes/Adventure Log.md",
                 "mode": "preview",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Quests/Missing Mayor - Mayor on the Move.md"
+                "file": "Notes/Adventure Log.md"
               }
             }
           },
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Quests/Missing Mayor - Mayor on the Move.md",
+                "file": "Notes/Adventure Log.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,15 +146,15 @@
   },
   "active": "c4b93d56b3231728",
   "lastOpenFiles": [
-    "Notes/Locations/Gardena.md",
-    "Notes/Quests/Missing Mayor - Mayor on the Move.md",
-    "Notes/Locations/Borhold.md",
+    "Notes/Characters/PCs/Alphonse Steele.md",
     "Notes/Characters/Horse Log.md",
+    "Notes/Quests/Missing Mayor - Mayor on the Move.md",
+    "Notes/Locations/Gardena.md",
+    "Notes/Locations/Borhold.md",
     "Notes/Quests/Church Graffiti.md",
     "Notes/Characters/PCs/Cusdakesh Greyskull.md",
     "Notes/Books/Vermillian and Veridian.md",
     "Notes/Characters/NPCs/Kairi Edelsson.md",
-    "Notes/Books/A Short Adventure.md",
-    "Notes/Books/Her Highest Priest.md"
+    "Notes/Books/A Short Adventure.md"
   ]
 }
