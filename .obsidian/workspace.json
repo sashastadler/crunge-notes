@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "75b0344bca49fbd2",
+        "id": "19e617e0f9e388ca",
         "type": "tabs",
         "children": [
           {
@@ -19,18 +19,6 @@
               }
             },
             "group": "dc925a5624f27320"
-          },
-          {
-            "id": "438419be1cd42675",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Quests/Missing Mayor - Mayor on the Move.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ]
       },
@@ -158,15 +146,15 @@
   },
   "active": "c4b93d56b3231728",
   "lastOpenFiles": [
-    "Notes/Characters/Horse Log.md",
+    "Notes/Locations/Gardena.md",
     "Notes/Quests/Missing Mayor - Mayor on the Move.md",
+    "Notes/Locations/Borhold.md",
+    "Notes/Characters/Horse Log.md",
     "Notes/Quests/Church Graffiti.md",
     "Notes/Characters/PCs/Cusdakesh Greyskull.md",
     "Notes/Books/Vermillian and Veridian.md",
     "Notes/Characters/NPCs/Kairi Edelsson.md",
     "Notes/Books/A Short Adventure.md",
-    "Notes/Books/Her Highest Priest.md",
-    "Notes/Books/Ghosts of Iron.md",
-    "Notes/Books/For God or Love.md"
+    "Notes/Books/Her Highest Priest.md"
   ]
 }
