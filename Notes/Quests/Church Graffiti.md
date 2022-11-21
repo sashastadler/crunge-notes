@@ -1,5 +1,3 @@
->## Church Graffiti
-
 ### Quest Giver: Unknown / Bounty House
 
 #### Pay: 
