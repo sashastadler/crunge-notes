@@ -29,4 +29,6 @@ Other known info:
 
 ### Conclusion
 
-Fought people from the Empire. Might attack [Green Orchard](../Locations/Green%20Orchard.md) in a month's time. Need to [[Guard Green Orchard]]. 
+Fought people from the Empire. Met [[Marcus Pontius Aquila]]. The Empire might attack [Green Orchard](../Locations/Green%20Orchard.md) in a month's time. Need to [[Guard Green Orchard]]. Gathering allies in the town to help with the possible attack. 
+
+"480 armed and fighting men, full cohort, if we displease the empire, \[Quentin is] strong but you won't survive, take the token of friendship and dont let it go"
