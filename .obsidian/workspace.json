@@ -6,6 +6,7 @@
       {
         "id": "19e617e0f9e388ca",
         "type": "tabs",
+        "dimension": 47.33502538071066,
         "children": [
           {
             "id": "c4b93d56b3231728",
@@ -13,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Adventure Log.md",
+                "file": "Notes/Quests/Missing Mayor - Mayor on the Move.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,6 +26,7 @@
       {
         "id": "0f31d073164f07f9",
         "type": "tabs",
+        "dimension": 52.66497461928934,
         "children": [
           {
             "id": "1d58decc2658f362",
@@ -32,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Adventure Log.md",
+                "file": "Notes/Quests/Missing Mayor - Mayor on the Move.md",
                 "mode": "preview",
                 "source": false
               }
@@ -97,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Adventure Log.md"
+                "file": "Notes/Quests/Missing Mayor - Mayor on the Move.md"
               }
             }
           },
@@ -107,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Adventure Log.md",
+                "file": "Notes/Quests/Missing Mayor - Mayor on the Move.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,15 +148,15 @@
   },
   "active": "c4b93d56b3231728",
   "lastOpenFiles": [
-    "Notes/Characters/PCs/Alphonse Steele.md",
     "Notes/Characters/Horse Log.md",
+    "Notes/Adventure Log.md",
     "Notes/Quests/Missing Mayor - Mayor on the Move.md",
+    "Notes/Quests/Night Terror in Basses.md",
+    "Notes/Characters/PCs/Alphonse Steele.md",
     "Notes/Locations/Gardena.md",
     "Notes/Locations/Borhold.md",
     "Notes/Quests/Church Graffiti.md",
     "Notes/Characters/PCs/Cusdakesh Greyskull.md",
-    "Notes/Books/Vermillian and Veridian.md",
-    "Notes/Characters/NPCs/Kairi Edelsson.md",
-    "Notes/Books/A Short Adventure.md"
+    "Notes/Books/Vermillian and Veridian.md"
   ]
 }

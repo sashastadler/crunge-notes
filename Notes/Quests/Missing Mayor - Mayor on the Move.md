@@ -24,3 +24,9 @@ Mayor of Green Orchard has gone missing. This is not public knowledge (yet).
 Other known info:
 - more than 8 people, 1 horse
 - traveling North
+
+---
+
+### Conclusion
+
+Fought people from the Empire. Might attack [Green Orchard](../Locations/Green%20Orchard.md) in a month's time. Need to [[Guard Green Orchard]]. 
