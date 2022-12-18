@@ -25,6 +25,7 @@ Pirate from SE Ashanti. Wanted for piracy, murder, etc. Captain of the Rockrose.
 - "Ale is the best smell, second only to the sea."
 - "The sea is always within you."
 - "It's not fraud if there's no one to catch you for it"
+- "A sailor never surrenders"
 
 #### Other
 

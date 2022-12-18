@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Characters/Horse Log.md",
+                "file": "Notes/Characters/PCs/Cusdakesh Greyskull.md",
                 "mode": "source",
                 "source": false
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Characters/Horse Log.md",
+                "file": "Notes/Characters/PCs/Cusdakesh Greyskull.md",
                 "mode": "preview",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Characters/Horse Log.md"
+                "file": "Notes/Characters/PCs/Cusdakesh Greyskull.md"
               }
             }
           },
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Characters/Horse Log.md",
+                "file": "Notes/Characters/PCs/Cusdakesh Greyskull.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,8 +148,8 @@
   },
   "active": "c4b93d56b3231728",
   "lastOpenFiles": [
-    "Notes/Adventure Log.md",
     "Notes/Characters/Horse Log.md",
+    "Notes/Adventure Log.md",
     "Notes/Characters/PCs/Quentin Thexius.md",
     "Notes/Locations/Green Orchard.md",
     "Notes/Characters/NPCs/Yewande Vesta.md",
