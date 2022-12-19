@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1099bfe029117b8c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Characters/NPCs/Nikola Thrace.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "d1efed5e5f940d75",
@@ -108,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Quests/Cusdakesh quest.md"
+                "file": "Notes/Characters/NPCs/Nikola Thrace.md"
               }
             }
           },
@@ -118,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Quests/Cusdakesh quest.md",
+                "file": "Notes/Characters/NPCs/Nikola Thrace.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,10 +167,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "16d8870ad5949d1f",
+  "active": "1099bfe029117b8c",
   "lastOpenFiles": [
-    "Notes/Characters/NPCs/Lord Hippolas Eton.md",
     "Notes/Quests/Cusdakesh quest.md",
+    "Notes/Characters/NPCs/Lord Hippolas Eton.md",
     "Notes/Characters/PCs/Cusdakesh Greyskull.md",
     "Notes/Locations/Enkidu.md",
     "Notes/Adventure Log.md",
