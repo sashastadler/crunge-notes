@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Characters/NPCs/Lord Hippolas Eton.md",
+                "file": "Notes/Characters/PCs/Cusdakesh Greyskull.md",
                 "mode": "source",
                 "source": false
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Characters/NPCs/Lord Hippolas Eton.md",
+                "file": "Notes/Characters/PCs/Cusdakesh Greyskull.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Characters/NPCs/Lord Hippolas Eton.md"
+                "file": "Notes/Characters/PCs/Cusdakesh Greyskull.md"
               }
             }
           },
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Characters/NPCs/Lord Hippolas Eton.md",
+                "file": "Notes/Characters/PCs/Cusdakesh Greyskull.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,9 +148,9 @@
   },
   "active": "c4b93d56b3231728",
   "lastOpenFiles": [
+    "Notes/Characters/NPCs/Lord Hippolas Eton.md",
     "Notes/Locations/Enkidu.md",
     "Notes/Adventure Log.md",
-    "Notes/Characters/NPCs/Lord Hippolas Eton.md",
     "Notes/Locations/Arrasta Kesh.md",
     "Notes/Characters/PCs/Cusdakesh Greyskull.md",
     "Notes/Characters/Horse Log.md",
