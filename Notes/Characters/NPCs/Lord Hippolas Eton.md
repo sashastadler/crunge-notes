@@ -1,6 +1,6 @@
 ### Location: [Enkidu](Notes/Locations/Enkidu.md)
 
-### Do we like them: Uncertain
+### Do we like them: Uncertain (Crunge loves him)
 
 ***
 

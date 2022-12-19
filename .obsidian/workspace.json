@@ -6,7 +6,6 @@
       {
         "id": "19e617e0f9e388ca",
         "type": "tabs",
-        "dimension": 47.33502538071066,
         "children": [
           {
             "id": "c4b93d56b3231728",
@@ -18,8 +17,7 @@
                 "mode": "source",
                 "source": false
               }
-            },
-            "group": "dc925a5624f27320"
+            }
           },
           {
             "id": "16d8870ad5949d1f",
@@ -37,22 +35,20 @@
         "currentTab": 1
       },
       {
-        "id": "0f31d073164f07f9",
+        "id": "d1efed5e5f940d75",
         "type": "tabs",
-        "dimension": 52.66497461928934,
         "children": [
           {
-            "id": "1d58decc2658f362",
+            "id": "eded59be631379cb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Characters/PCs/Cusdakesh Greyskull.md",
+                "file": "Notes/Characters/NPCs/Lord Hippolas Eton.md",
                 "mode": "source",
                 "source": false
               }
-            },
-            "group": "dc925a5624f27320"
+            }
           }
         ]
       }
