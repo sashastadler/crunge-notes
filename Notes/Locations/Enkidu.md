@@ -6,4 +6,4 @@
 
 
 ### Notable people
-- [[Lord Hippolas Eton]]
+- [[../Characters/NPCs/Lord Hippolas Eton]]
