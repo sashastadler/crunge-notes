@@ -8,6 +8,8 @@
 
 Pirate from SE Ashanti. Wanted for piracy, murder, etc. Captain of the Rockrose. Drinks Bumbos (pirate cocktail consisting of rum, water, sugar). His ship sank around 6 months before meeting the rest of the party in Session 1. Legally stripped of his last name. Might be able to breakdance :) . Does not believe in ghosts. 
 
+Was sailing the Rockrose for 2 years before it sank.
+
 >Gildas: 2975 G
 
 ##### Outfit
