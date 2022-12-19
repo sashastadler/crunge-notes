@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Characters/PCs/Cusdakesh Greyskull.md",
+                "file": "Notes/Locations/Arrasta Kesh.md",
                 "mode": "source",
                 "source": false
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Characters/PCs/Cusdakesh Greyskull.md",
+                "file": "Notes/Locations/Arrasta Kesh.md",
                 "mode": "preview",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Characters/PCs/Cusdakesh Greyskull.md"
+                "file": "Notes/Locations/Arrasta Kesh.md"
               }
             }
           },
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Characters/PCs/Cusdakesh Greyskull.md",
+                "file": "Notes/Locations/Arrasta Kesh.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,6 +148,7 @@
   },
   "active": "c4b93d56b3231728",
   "lastOpenFiles": [
+    "Notes/Characters/PCs/Cusdakesh Greyskull.md",
     "Notes/Characters/Horse Log.md",
     "Notes/Adventure Log.md",
     "Notes/Characters/PCs/Quentin Thexius.md",
@@ -156,7 +157,6 @@
     "Notes/Characters/NPCs/Margaret.md",
     "Notes/Characters/NPCs/Lord Dotter.md",
     "Notes/Characters/NPCs/Honest Ed.md",
-    "Notes/Characters/NPCs/Granny Weatherwax.md",
-    "Notes/Characters/NPCs/Gorok.md"
+    "Notes/Characters/NPCs/Granny Weatherwax.md"
   ]
 }
