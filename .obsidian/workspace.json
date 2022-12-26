@@ -120,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Characters/NPCs/Nikola Thrace.md"
+                "file": "Notes/Characters/NPCs/Lord Hippolas Eton.md"
               }
             }
           },
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Characters/NPCs/Nikola Thrace.md",
+                "file": "Notes/Characters/NPCs/Lord Hippolas Eton.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,8 +167,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1099bfe029117b8c",
+  "active": "eded59be631379cb",
   "lastOpenFiles": [
+    "Notes/Characters/NPCs/Nikola Thrace.md",
     "Notes/Quests/Cusdakesh quest.md",
     "Notes/Characters/NPCs/Lord Hippolas Eton.md",
     "Notes/Characters/PCs/Cusdakesh Greyskull.md",
@@ -177,7 +178,6 @@
     "Notes/Locations/Arrasta Kesh.md",
     "Notes/Characters/Horse Log.md",
     "Notes/Characters/PCs/Quentin Thexius.md",
-    "Notes/Locations/Green Orchard.md",
-    "Notes/Characters/NPCs/Yewande Vesta.md"
+    "Notes/Locations/Green Orchard.md"
   ]
 }
