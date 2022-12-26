@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Quests/Captain Crunge.md",
+                "file": "Notes/Characters/PCs/Cusdakesh Greyskull.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Quests/Captain Crunge.md"
+                "file": "Notes/Characters/PCs/Cusdakesh Greyskull.md"
               }
             }
           },
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Quests/Captain Crunge.md",
+                "file": "Notes/Characters/PCs/Cusdakesh Greyskull.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,6 +145,7 @@
   },
   "active": "caf12066f9ddf1a5",
   "lastOpenFiles": [
+    "Notes/Quests/Captain Crunge.md",
     "Notes/Quests/Beef With Rodani.md",
     "Notes/Quests/Blythe Begone.md",
     "Templates/quest template.md",
@@ -153,7 +154,6 @@
     "Templates/npc template.md",
     "Templates/location template.md",
     "Notes/Adventure Log.md",
-    "Notes/Characters/NPCs/Judith Wright.md",
-    "Notes/Characters/NPCs/Nikola Thrace.md"
+    "Notes/Characters/NPCs/Judith Wright.md"
   ]
 }
