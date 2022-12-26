@@ -4,49 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "19e617e0f9e388ca",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c4b93d56b3231728",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Characters/PCs/Cusdakesh Greyskull.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "16d8870ad5949d1f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Quests/Cusdakesh quest.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1099bfe029117b8c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Characters/NPCs/Nikola Thrace.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
         "id": "d1efed5e5f940d75",
         "type": "tabs",
         "children": [
@@ -54,15 +11,22 @@
             "id": "eded59be631379cb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "caf12066f9ddf1a5",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
               "state": {
-                "file": "Notes/Characters/NPCs/Lord Hippolas Eton.md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.1.9"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -119,9 +83,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notes/Characters/NPCs/Lord Hippolas Eton.md"
-              }
+              "state": {}
             }
           },
           {
@@ -130,7 +92,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Characters/NPCs/Lord Hippolas Eton.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,17 +128,27 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "eded59be631379cb",
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "caf12066f9ddf1a5",
   "lastOpenFiles": [
-    "Notes/Characters/NPCs/Nikola Thrace.md",
-    "Notes/Quests/Cusdakesh quest.md",
-    "Notes/Characters/NPCs/Lord Hippolas Eton.md",
-    "Notes/Characters/PCs/Cusdakesh Greyskull.md",
-    "Notes/Locations/Enkidu.md",
+    "Notes/Organizations/Founders Keepers.md",
     "Notes/Adventure Log.md",
+    "Notes/Quests/Captain Crunge.md",
+    "Notes/Characters/PCs/Cusdakesh Greyskull.md",
+    "Notes/Characters/NPCs/Nikola Thrace.md",
+    "Notes/Quests/Blythe Begone.md",
+    "Notes/Characters/NPCs/Lord Hippolas Eton.md",
+    "Notes/Locations/Enkidu.md",
     "Notes/Locations/Arrasta Kesh.md",
-    "Notes/Characters/Horse Log.md",
-    "Notes/Characters/PCs/Quentin Thexius.md",
-    "Notes/Locations/Green Orchard.md"
+    "Notes/Characters/Horse Log.md"
   ]
 }
