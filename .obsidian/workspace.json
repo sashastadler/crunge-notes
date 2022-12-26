@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/quest template.md",
+                "file": "Notes/Quests/Captain Crunge.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/quest template.md"
+                "file": "Notes/Quests/Captain Crunge.md"
               }
             }
           },
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/quest template.md",
+                "file": "Notes/Quests/Captain Crunge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,15 +145,15 @@
   },
   "active": "caf12066f9ddf1a5",
   "lastOpenFiles": [
+    "Notes/Quests/Beef With Rodani.md",
+    "Notes/Quests/Blythe Begone.md",
+    "Templates/quest template.md",
     "Templates/religion template.md",
     "Templates/drug template.md",
     "Templates/npc template.md",
     "Templates/location template.md",
     "Notes/Adventure Log.md",
     "Notes/Characters/NPCs/Judith Wright.md",
-    "Notes/Characters/NPCs/Nikola Thrace.md",
-    "Notes/Characters/NPCs/Orson.md",
-    "Notes/Quests/Captain Crunge.md",
-    "Notes/Organizations/Founders Keepers.md"
+    "Notes/Characters/NPCs/Nikola Thrace.md"
   ]
 }
