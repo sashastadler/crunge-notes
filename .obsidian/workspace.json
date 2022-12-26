@@ -19,9 +19,11 @@
             "id": "caf12066f9ddf1a5",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.1.9"
+                "file": "Templates/quest template.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Templates/quest template.md"
+              }
             }
           },
           {
@@ -92,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Templates/quest template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,15 +145,15 @@
   },
   "active": "caf12066f9ddf1a5",
   "lastOpenFiles": [
-    "Notes/Organizations/Founders Keepers.md",
+    "Templates/religion template.md",
+    "Templates/drug template.md",
+    "Templates/npc template.md",
+    "Templates/location template.md",
     "Notes/Adventure Log.md",
-    "Notes/Quests/Captain Crunge.md",
-    "Notes/Characters/PCs/Cusdakesh Greyskull.md",
+    "Notes/Characters/NPCs/Judith Wright.md",
     "Notes/Characters/NPCs/Nikola Thrace.md",
-    "Notes/Quests/Blythe Begone.md",
-    "Notes/Characters/NPCs/Lord Hippolas Eton.md",
-    "Notes/Locations/Enkidu.md",
-    "Notes/Locations/Arrasta Kesh.md",
-    "Notes/Characters/Horse Log.md"
+    "Notes/Characters/NPCs/Orson.md",
+    "Notes/Quests/Captain Crunge.md",
+    "Notes/Organizations/Founders Keepers.md"
   ]
 }

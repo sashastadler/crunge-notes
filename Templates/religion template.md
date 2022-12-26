@@ -1,5 +1,3 @@
-># God name
-
 ## Pantheon 
 
 ***

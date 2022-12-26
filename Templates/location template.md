@@ -1,5 +1,3 @@
-%%>## Name%%
-
 %%### Country:%% 
 
 %%### Details

@@ -5,4 +5,5 @@
 
 ### Details
 
-Also known as Captain Fate
+Also known as Captain Fate. Her lawyer is [[Judith Wright]].
+

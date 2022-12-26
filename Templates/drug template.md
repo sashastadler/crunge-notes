@@ -1,5 +1,3 @@
->## Drug Name
-
 #### Type: 
 
 #### Ingestion method: 
