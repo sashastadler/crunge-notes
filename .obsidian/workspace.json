@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Religion/Pantheon II/Cuo.md",
+                "file": "Notes/Characters/NPCs/Lord Hippolas Eton.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Religion/Pantheon II/Cuo.md"
+                "file": "Notes/Characters/NPCs/Lord Hippolas Eton.md"
               }
             }
           },
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Religion/Pantheon II/Cuo.md",
+                "file": "Notes/Characters/NPCs/Lord Hippolas Eton.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,15 +145,15 @@
   },
   "active": "caf12066f9ddf1a5",
   "lastOpenFiles": [
+    "Notes/Quests/Captain Crunge.md",
+    "Notes/Characters/PCs/Cusdakesh Greyskull.md",
+    "Notes/Religion/Pantheon II/Cuo.md",
     "Notes/Religion/Pantheons.md",
     "Notes/Religion/Pantheon II/The Ghost of the Storm.md",
-    "Notes/Characters/PCs/Cusdakesh Greyskull.md",
-    "Notes/Quests/Captain Crunge.md",
     "Notes/Quests/Beef With Rodani.md",
     "Notes/Quests/Blythe Begone.md",
     "Templates/quest template.md",
     "Templates/religion template.md",
-    "Templates/drug template.md",
-    "Templates/npc template.md"
+    "Templates/drug template.md"
   ]
 }
