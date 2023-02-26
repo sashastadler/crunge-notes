@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Religion/Pantheons.md",
+                "file": "Notes/Religion/Pantheon II/Cuo.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Religion/Pantheons.md"
+                "file": "Notes/Religion/Pantheon II/Cuo.md"
               }
             }
           },
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Religion/Pantheons.md",
+                "file": "Notes/Religion/Pantheon II/Cuo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,8 +145,8 @@
   },
   "active": "caf12066f9ddf1a5",
   "lastOpenFiles": [
-    "Notes/Religion/Pantheon II/The Ghost of the Storm.md",
     "Notes/Religion/Pantheons.md",
+    "Notes/Religion/Pantheon II/The Ghost of the Storm.md",
     "Notes/Characters/PCs/Cusdakesh Greyskull.md",
     "Notes/Quests/Captain Crunge.md",
     "Notes/Quests/Beef With Rodani.md",
