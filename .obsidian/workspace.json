@@ -26,9 +26,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "16815dad830b30ed",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.15"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -143,7 +153,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "caf12066f9ddf1a5",
+  "active": "16815dad830b30ed",
   "lastOpenFiles": [
     "Notes/Quests/Captain Crunge.md",
     "Notes/Characters/PCs/Cusdakesh Greyskull.md",
