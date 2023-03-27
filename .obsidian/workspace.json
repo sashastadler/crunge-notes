@@ -14,31 +14,8 @@
               "type": "graph",
               "state": {}
             }
-          },
-          {
-            "id": "caf12066f9ddf1a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Characters/NPCs/Lord Hippolas Eton.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "33dd93ba84a31a01",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.16"
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -95,9 +72,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notes/Characters/NPCs/Lord Hippolas Eton.md"
-              }
+              "state": {}
             }
           },
           {
@@ -106,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Characters/NPCs/Lord Hippolas Eton.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,10 +127,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "33dd93ba84a31a01",
+  "active": "eded59be631379cb",
   "lastOpenFiles": [
-    "Notes/Quests/Captain Crunge.md",
+    "Notes/Quests/Pixies for Puppets.md",
+    "Notes/Characters/PCs/Quentin Thexius.md",
+    "Notes/Characters/PCs/Eugine Brawnanvil.md",
+    "Notes/Characters/PCs/Eldrid Vannar.md",
+    "Notes/Characters/PCs/Daephyrantia Pholpfi.md",
     "Notes/Characters/PCs/Cusdakesh Greyskull.md",
+    "Notes/Characters/PCs/Alphonse Steele.md",
+    "Notes/Characters/NPCs/Lord Hippolas Eton.md",
+    "Notes/Quests/Captain Crunge.md",
     "Notes/Religion/Pantheon II/Cuo.md",
     "Notes/Religion/Pantheons.md",
     "Notes/Religion/Pantheon II/The Ghost of the Storm.md",
