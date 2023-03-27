@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Characters/Horse Log.md",
+                "file": "Notes/Characters/NPCs/Roland Hunter.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Characters/Horse Log.md"
+                "file": "Notes/Characters/NPCs/Roland Hunter.md"
               }
             }
           },
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Characters/Horse Log.md",
+                "file": "Notes/Characters/NPCs/Roland Hunter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,6 +154,8 @@
   },
   "active": "7abb9e9745c2a3d7",
   "lastOpenFiles": [
+    "Notes/Organizations/Witch Hunter's Guild.md",
+    "Notes/Characters/Horse Log.md",
     "Notes/Quests/Pixies for Puppets.md",
     "Notes/Characters/PCs/Quentin Thexius.md",
     "Notes/Characters/PCs/Eugine Brawnanvil.md",
