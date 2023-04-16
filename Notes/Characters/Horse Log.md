@@ -2,7 +2,7 @@
 | --- | --- | --- | --- | --- |
 | [Cusdakesh](PCs/Cusdakesh%20Greyskull.md) | Jewel | | * | - |
 | [Daephyrantia](PCs/Daephyrantia%20Pholpfi.md) | Kizmit | | * | - |
-| [Eldrid](PCs/Eldrid%20Vannar.md) | ? | | * | - |
+| [Eldrid](PCs/Eldrid%20Vannar.md) | ? | | Gifted to Declan | - |
 | [Eugine](PCs/Eugine%20Brawnanvil.md) | Lareigh | | * | - |
 | [Eugine](PCs/Eugine%20Brawnanvil.md) | Mareigh | | [Green Orchard](../Locations/Green%20Orchard.md) | - |
 | [O.T.W.M.](PCs/O.T.W.M..md) | HWHR (Horse Who Has Rode) | | * | - |
