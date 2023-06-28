@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Characters/Horse Log.md",
+                "file": "Notes/Characters/PCs/Cusdakesh Greyskull.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Characters/Horse Log.md"
+                "file": "Notes/Characters/PCs/Cusdakesh Greyskull.md"
               }
             }
           },
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Characters/Horse Log.md",
+                "file": "Notes/Characters/PCs/Cusdakesh Greyskull.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,11 +136,11 @@
   },
   "active": "eded59be631379cb",
   "lastOpenFiles": [
+    "Notes/Characters/Horse Log.md",
     "Notes/Characters/NPCs/Kairi Edelsson.md",
     "Notes/Characters/NPCs/Yewande Vesta.md",
     "Notes/Characters/NPCs/Orson.md",
     "Notes/Characters/NPCs/Roland Hunter.md",
-    "Notes/Characters/Horse Log.md",
     "Notes/Organizations/Witch Hunter's Guild.md",
     "Notes/Quests/Pixies for Puppets.md",
     "Notes/Characters/PCs/Quentin Thexius.md",
