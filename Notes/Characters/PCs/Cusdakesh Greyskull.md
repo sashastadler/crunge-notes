@@ -28,6 +28,7 @@ Was sailing the Rockrose for 2 years before it sank.
 - "The sea is always within you."
 - "It's not fraud if there's no one to catch you for it"
 - "A sailor never surrenders"
+- "A captain always checks for other ships following them"
 
 #### Other
 
