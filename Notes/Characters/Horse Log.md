@@ -10,4 +10,4 @@
 
 
 \* = traveling with The Founders Keepers
-\** = pegasus summon, Find Greater Steed spell
+** = pegasus summon, Find Greater Steed spell
