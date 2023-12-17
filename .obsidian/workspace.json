@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Characters/PCs/Daephyrantia Pholpfi.md",
+                "file": "Notes/Characters/PCs/Cusdakesh Greyskull.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Characters/PCs/Daephyrantia Pholpfi.md"
+                "file": "Notes/Characters/PCs/Cusdakesh Greyskull.md"
               }
             }
           },
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Characters/PCs/Daephyrantia Pholpfi.md",
+                "file": "Notes/Characters/PCs/Cusdakesh Greyskull.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,6 +136,7 @@
   },
   "active": "eded59be631379cb",
   "lastOpenFiles": [
+    "Notes/Characters/PCs/Daephyrantia Pholpfi.md",
     "Notes/Religion/Pantheon IV/Thor.md",
     "Notes/Religion/Pantheon IV/Zeus.md",
     "Notes/Religion/Pantheon IV/Seth.md",
@@ -160,7 +161,6 @@
     "Notes/Religion/Pantheon II/Old Alba.md",
     "Notes/Religion/Pantheon II/Impera.md",
     "Notes/Religion/Pantheon II/Cuo.md",
-    "Notes/Religion/Pantheon I/Wolf.md",
-    "Notes/Religion/Pantheon I/Rabbit.md"
+    "Notes/Religion/Pantheon I/Wolf.md"
   ]
 }
