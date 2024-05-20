@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Adventure Log.md",
+                "file": "Notes/Locations/Siege Richesse.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Adventure Log.md"
+                "file": "Notes/Locations/Siege Richesse.md"
               }
             }
           },
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Adventure Log.md",
+                "file": "Notes/Locations/Siege Richesse.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,9 @@
   },
   "active": "eded59be631379cb",
   "lastOpenFiles": [
+    "Notes/Characters/PCs/Cusdakesh Greyskull.md",
     "Notes/Characters/PCs/Alphonse Steele.md",
+    "Notes/Adventure Log.md",
     "Notes/Religion/Pantheon I/Ananse.md",
     "Notes/Religion/Pantheon I/Bondye.md",
     "Notes/Religion/Pantheons.md",
@@ -148,7 +150,6 @@
     "Notes/Religion/Pantheon I/Osebo.md",
     "Notes/Religion/Pantheon I/Rabbit.md",
     "Notes/Characters/PCs/Eldrid Vannar.md",
-    "Notes/Characters/PCs/Cusdakesh Greyskull.md",
     "Notes/Characters/PCs/Daephyrantia Pholpfi.md",
     "Notes/Religion/Pantheon IV/Thor.md",
     "Notes/Religion/Pantheon IV/Zeus.md",
@@ -160,7 +161,6 @@
     "Notes/Religion/Pantheon III/The Lawbreaker.md",
     "Notes/Religion/Pantheon III/Scientii.md",
     "Notes/Religion/Pantheon III/Mortis.md",
-    "Notes/Religion/Pantheon III/Luma.md",
-    "Notes/Religion/Pantheon III/Floris.md"
+    "Notes/Religion/Pantheon III/Luma.md"
   ]
 }
