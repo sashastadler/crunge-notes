@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Religion/Pantheons.md",
+                "file": "Notes/Religion/Pantheon I/Osebo.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Religion/Pantheons.md"
+                "file": "Notes/Religion/Pantheon I/Osebo.md"
               }
             }
           },
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Religion/Pantheons.md",
+                "file": "Notes/Religion/Pantheon I/Osebo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,8 +136,8 @@
   },
   "active": "eded59be631379cb",
   "lastOpenFiles": [
-    "Notes/Religion/Pantheon III/Cvstodivs.md",
     "Notes/Religion/Pantheons.md",
+    "Notes/Religion/Pantheon III/Cvstodivs.md",
     "Notes/Religion/Pantheon II/The Errant Grovetender.md",
     "Notes/Characters/PCs/Alphonse Steele.md",
     "Notes/Characters/Horse Log.md",
