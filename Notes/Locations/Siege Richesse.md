@@ -33,5 +33,3 @@ Store that sells pricy special drinks :).
 ### Notable people
 - [Alphonse Steele](../Characters/PCs/Alphonse%20Steele.md)
 - [Aildinim Oore](../Characters/NPCs/Aildinim%20Oore.md)
-
-
