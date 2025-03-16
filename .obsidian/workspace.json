@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Characters/NPCs/Yahseh an-Nasira.md",
+                "file": "Notes/Locations/Siege Richesse.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Characters/NPCs/Yahseh an-Nasira.md"
+                "file": "Notes/Locations/Siege Richesse.md"
               }
             }
           },
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Characters/NPCs/Yahseh an-Nasira.md",
+                "file": "Notes/Locations/Siege Richesse.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,8 +136,9 @@
   },
   "active": "eded59be631379cb",
   "lastOpenFiles": [
-    "Notes/Locations/Basses.md",
+    "Notes/Locations/Obol.md",
     "Notes/Characters/NPCs/Yahseh an-Nasira.md",
+    "Notes/Locations/Basses.md",
     "Notes/Religion/Pantheon II/Impera.md",
     "Notes/Religion/Pantheons.md",
     "Notes/Religion/Pantheon I/Osebo.md",
@@ -160,7 +161,6 @@
     "Notes/Characters/PCs/Daephyrantia Pholpfi.md",
     "Notes/Religion/Pantheon IV/Thor.md",
     "Notes/Religion/Pantheon IV/Zeus.md",
-    "Notes/Religion/Pantheon IV/Seth.md",
-    "Notes/Religion/Pantheon IV/Odin.md"
+    "Notes/Religion/Pantheon IV/Seth.md"
   ]
 }
