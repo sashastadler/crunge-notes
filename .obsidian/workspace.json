@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Locations/Siege Richesse.md",
+                "file": "Notes/Characters/Horse Log.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Locations/Siege Richesse.md"
+                "file": "Notes/Characters/Horse Log.md"
               }
             }
           },
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Locations/Siege Richesse.md",
+                "file": "Notes/Characters/Horse Log.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,8 +136,8 @@
   },
   "active": "eded59be631379cb",
   "lastOpenFiles": [
-    "Notes/Adventure Log.md",
     "Notes/Locations/Siege Richesse.md",
+    "Notes/Adventure Log.md",
     "Notes/Locations/Obol.md",
     "Notes/Characters/NPCs/Yahseh an-Nasira.md",
     "Notes/Locations/Basses.md",
