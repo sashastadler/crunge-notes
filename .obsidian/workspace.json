@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Religion/Pantheon II/Impera.md",
+                "file": "Notes/Characters/NPCs/Vaevictae.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Religion/Pantheon II/Impera.md"
+                "file": "Notes/Characters/NPCs/Vaevictae.md"
               }
             }
           },
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Religion/Pantheon II/Impera.md",
+                "file": "Notes/Characters/NPCs/Vaevictae.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,21 @@
   },
   "active": "eded59be631379cb",
   "lastOpenFiles": [
+    "Notes/Characters/NPCs/Vikas Hastur.md",
     "Notes/Characters/NPCs/Yahseh an-Nasira.md",
+    "Notes/Locations/Arcadia.md",
+    "Notes/Characters/NPCs/Yewande Vesta.md",
+    "Notes/Characters/NPCs/Cornelia Belrose.md",
+    "Notes/Characters/NPCs/Sextus Sergius.md",
+    "Notes/Characters/NPCs/Scarlet.md",
+    "Notes/Characters/NPCs/Rowan.md",
+    "Notes/Characters/NPCs/Roland Hunter.md",
+    "Notes/Characters/NPCs/Theophania Aching.md",
+    "Notes/Characters/NPCs/Quinn Feldspar.md",
+    "Notes/Characters/NPCs/Dell Gondy.md",
+    "Notes/Characters/NPCs/Caraniette.md",
+    "Notes/Characters/NPCs/Blythe.md",
+    "Notes/Characters/NPCs/Barenziah.md",
     "Notes/Religion/Pantheon II/Impera.md",
     "Untitled.canvas",
     "Notes/Adventure Log.md",
@@ -147,19 +161,6 @@
     "Notes/Locations/Basses.md",
     "Notes/Religion/Pantheons.md",
     "Notes/Religion/Pantheon I/Osebo.md",
-    "Notes/Religion/Pantheon III/Cvstodivs.md",
-    "Notes/Religion/Pantheon II/The Errant Grovetender.md",
-    "Notes/Characters/PCs/Alphonse Steele.md",
-    "Notes/Characters/PCs/Cusdakesh Greyskull.md",
-    "Notes/Religion/Pantheon I/Ananse.md",
-    "Notes/Religion/Pantheon I/Bondye.md",
-    "Notes/Characters/NPCs/Roland Hunter.md",
-    "Notes/Characters/NPCs/Quill.md",
-    "Notes/Characters/NPCs/Percival Rosa.md",
-    "Notes/Characters/NPCs/Lord Dotter.md",
-    "Notes/Characters/NPCs/Maxwell Manderly.md",
-    "Notes/Religion/Pantheon I/Rabbit.md",
-    "Notes/Characters/PCs/Eldrid Vannar.md",
-    "Notes/Characters/PCs/Daephyrantia Pholpfi.md"
+    "Notes/Religion/Pantheon III/Cvstodivs.md"
   ]
 }
